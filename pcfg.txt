@@ -1,0 +1,13 @@
+T
+
+T -> T 
+T -> T, T
+T -> D, T
+T -> T, D
+
+D -> D
+D -> D, D
+D -> S, D
+
+S -> S
+S -> S, S
