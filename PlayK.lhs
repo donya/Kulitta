@@ -26,13 +26,13 @@ program. If the file doesn't exist, an error message will be printed.
 >   seq x $ case x of Left err -> putStrLn ("Error: "++err) >> return ()
 >                     Right m -> playM' devID m
 
-> playX fp devID chanOffset = do
+> playX fp devID chanOffset vol = do
 >   x <- tryImportFile fp 
 >   seq x $ case x of Left err -> putStrLn ("Error: "++err) >> return ()
->                     Right m -> playM' devID (trackMod chanOffset m)
+>                     Right m -> playM' devID (trackMod chanOffset vol m)
 
 > writeX fp m chanOffset = 
->   let x = trackMod chanOffset $ testMidi m 
+>   let x = trackMod 0 (-1) $ testMidi m 
 >   in  exportMidiFile fp x
 
 
@@ -42,17 +42,19 @@ use case: running the Kulitta GUI alongside other programs that used tracks 1 th
 (x-1) so that Kulitta's playback would not "step on the toes" of the other programs'
 playback. 
 
-> trackMod x m = 
+> trackMod x vol m = 
 >     let t = tracks m
->         t' = map (map (trackMod' x)) t 
+>         t' = map (map (trackMod' x vol)) t 
 >     in  m{tracks = t'} 
 
-> trackMod' :: Channel -> (Ticks, Message) -> (Ticks, Message)
-> trackMod' x (a, NoteOff c k v) = (a, NoteOff (c+x) k v)
-> trackMod' x (a, NoteOn c k v) = (a, NoteOn (c+x) k v)
-> trackMod' x (a, ProgramChange c p) = (a, ProgramChange (c+x) p)
-> trackMod' x (a, ControlChange c v1 v2) = (a, ControlChange (c+x) v1 v2)
-> trackMod' x (a,v) = (a,v)
+> trackMod' :: Channel -> Double -> (Ticks, Message) -> (Ticks, Message)
+> trackMod' x vol (a, NoteOff c k v) = (a, NoteOff (c+x) k (if vol <0 then v else volMod v vol))
+> trackMod' x vol (a, NoteOn c k v) = (a, NoteOn (c+x) k (if vol <0 then v else volMod v vol))
+> trackMod' x vol (a, ProgramChange c p) = (a, ProgramChange (c+x) p)
+> trackMod' x vol (a, ControlChange c v1 v2) = (a, ControlChange (c+x) v1 v2)
+> trackMod' x vol (a,v) = (a,v)
+
+> volMod v vol = floor(fromIntegral v * vol)
 
 > playF fp fmid devID = do
 >   x <- tryImportFile fp 

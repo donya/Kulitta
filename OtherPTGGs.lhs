@@ -1,11 +1,12 @@
 PTGG examples with non-musical alphabets
 Donya Quick
-Last modified: 01-July-2015
+Last modified: 03-Sept-2015
 
 > module OtherPTGGs where
 > import PTGG
 > import System.Random
 > import Data.List
+> import Prelude hiding (Word)
 
 A simple example using parameters in a PTGG to control selection 
 of pronouns in English sentences (see values exF and exM).

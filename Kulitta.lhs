@@ -1,8 +1,26 @@
-Kulitta Program
+Kulitta Program 2.0.1
 Donya Quick
-Last modified: 31-January-2015
+Last modified: 08-September-2015
 
-NOTE: this version of the code uses Euterpea 1.0 on Hackage.
+NOTE: this version of the code uses Euterpea 1.1 and UISF 4.0 
+on Hackage. It will NOT work with Euterpea 1.0 or UISF <4. 
+If you have older versions of Euterpea already installed, you
+can update them by doing this:
+
+cabal update
+cabal install Euterpea
+
+If you get warnings about reinstalling, you can use this:
+
+cabal install Euterpea --reinstall --force-reinstalls
+
+Changes since last version:
+- Compatibility fixes to work with most recent Euterpea/UISF
+- Now writes a .txt file with the Haskell value of the 
+  abstract musical structure(s) of the piece generated. 
+  If you write foo.mid, it will produce foo.txt as well.
+
+-------------------------------------------
 
 This module provides examples of Kulitta's output using an
 interactive interface. The program can be compiled by:
@@ -24,8 +42,7 @@ use enter the parameters using a text-based series of
 prompts in GHCI, change the contents of "settings.txt" to  
 be "basic" instead of "mui" (which is the default). 
 
-For more examples of how to use Kulitta's modules, see those 
-in Examples.lhs.
+-------------------------------------------
 
 > {-# LANGUAGE Arrows #-}
 
@@ -53,7 +70,10 @@ in Examples.lhs.
 > import FRP.UISF.UISF
 > import IOWidgets
 
-> channelOffset = 3 -- this is useful for some synthesizers
+
+> programTitle = "Kulitta 2.0.1"
+
+> channelOffset = 0 -- this is useful for some synthesizers
 
 Data type definitions to allow the user to specify Kulitta's behavior.
 
@@ -84,7 +104,7 @@ Main program description. There are two modes: interacive and automated with aru
 
 > main = do
 >     hSetBuffering stdout NoBuffering -- required to make things print in the right order
->     putStrLn "\n\n===== Kulitta =====\n"
+>     putStrLn ("\n\n===== "++ programTitle ++ "=====\n")
 >     args <- getArgs
 >     if length args == 0 then putStrLn "\nHello! The graphical interface is now active. \n" >> 
 >                              runDefault else 
@@ -113,16 +133,18 @@ MUI DEFINITION
 > grams = [HandBuilt, Learned]
 > modes = [Major, Minor]
 
-> mui = runMUI defaultMUIParams{uiSize=(500,570), uiTitle="Kulitta - Graphical Interface"} $ proc _ -> do
+> mui = runMUI defaultMUIParams{uiSize=(500,570), uiTitle=(programTitle++" - Graphical Interface")} $ proc _ -> do
 >   label "Please specifty composition parameters for Kulitta." -< ()
 >   label "The command prompt will show the generation/playback status." -< ()
 >   label "" -< ()
 >   (style', mo) <- inputPaneA -< ()
 >   (form',gram',mode', instr', let', key') <- inputPaneB -< ()
->   probsFile <- leftRight $ label "Prob. file:  " >>> textboxE "" -< Nothing
+>   probsFile <- leftRight $ label "Prob. file:  " >>> textbox "" -< Nothing
 >   seed <- leftRight $ seedPanel -< ()
->   outFile <- leftRight $ label "Output File: " >>> textboxE "test.mid" -< Nothing
->   label "" -< ()
+>   let fileName = "output\\" ++ show (styles !! style') ++ "_" ++ show seed ++ ".mid"
+>   fileName' <- unique -< fileName
+>   outFile <- leftRight $ label "Output File: " >>> textbox "test.mid" -< fileName' 
+>   volStr<- leftRight $ label "Playback volume (0.0 to 1.0): " >>> textbox "1.0" -< Nothing
 >   let s = styles !! style'
 >       f = forms !! form'
 >       g = grams !! gram'
@@ -131,16 +153,18 @@ MUI DEFINITION
 >       iLet = let'==0
 >       iKey = key'==0
 >       iVal = Info s f g m iLet iKey probsFile
+>       vol0 = reads volStr
+>       vol = if null vol0 then 1.0 else fst $ head vol0
 >   (g,p) <- buttons -< ()
 >   let g' = fmap (const (iVal, seed, outFile, iMIDI)) g
->       p' = fmap (const (outFile, mo)) p
+>       p' = fmap (const (outFile, mo, vol)) p
 >   basicIOWidget genWrap -< g'
 >   basicIOWidget playWrap -< p'
 >   returnA -< () 
 
 > seedPanel :: UISF () Int
 > seedPanel = proc _ -> do
->   rec seedT <- leftRight $ label "Random seed: " >>> textboxE "" -< x
+>   rec seedT <- leftRight $ label "Random seed: " >>> textbox "" -< x
 >       b <- edge <<< button "Random!" -< () -- button to automatically get a random number
 >       x <- ioWidget2 Nothing (const rFun) -< b
 >       let seed = let x = reads seedT :: [(Int, String)] -- parse the string
@@ -152,9 +176,9 @@ MUI DEFINITION
 >         return (Just $ show $ abs x) -- convert it to SEvent String format
 
 > genWrap (i, seed, outFile, inst) = automated i seed outFile inst
-> playWrap (fname, devID) = do
+> playWrap (fname, devID, vol) = do
 >    putStrLn "\nPlaying...(please wait)\n" 
->    playX fname devID channelOffset -- previously used play'
+>    playX fname devID channelOffset vol 
 >    putStrLn "\nDone!\n\n"
 
 > buttons = leftRight $ proc _ -> do
@@ -240,8 +264,10 @@ CONSOLE PROGRAM DEFINITION
 >               " and write it to the file '"++ outFile ++"'.\n")
 >     putStrLn "Please be patient - some styles can take a while to write!\n"
 >     putStrLn "Working...\n"
->     m <- makePiece (mkStdGen seed) (Info style form gram mode lets key pfile) inst
+>     (m,abst) <- makePiece (mkStdGen seed) (Info style form gram mode lets key pfile) inst
 >     writeMidi outFile m
+>     let outFile2 = take (length outFile - 3) outFile ++ "txt"
+>     writeFile outFile2 (show abst)
 >     putStrLn ("Done! Please check "++outFile++" to hear what I wrote.\n")
 
 > getStyle = do
@@ -355,6 +381,7 @@ that does end on I (ending on I is not guaranteed by the learned grammar).
 >         endsOnI = endingType tPhrase
 >         rPhrase = toChords (expand [] $ tPhrase)
 >         rPhrase' = expandTSD2 (tsdSpace' m) (okRTrans m) g2 rPhrase
+>     putStrLn ("Probabilities: "++show avgProbs)
 >     if endsOnI then return ([], rPhrase') else makeRPhraseB g' m (minD,maxD) iters len partB pfile where
 >     endingType = (==I) . last . map (\(a,b,c) -> c) . toChords . expand []
 
@@ -411,7 +438,7 @@ styles of music according to the user's specifications.
 >         genVals = if chorale s then (5, qn, hn, 4) else (5, wn, wn, 8)
 >     absStructs <- makeStructure gStruct i genVals
 >     theMusic <- makeMusic gFG i absStructs
->     return$ procInstrs b theMusic
+>     return (procInstrs b theMusic, absStructs)
 
 > procInstrs :: Bool -> Music a -> Music a
 > procInstrs True m = m
