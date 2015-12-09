@@ -1,0 +1,1 @@
+[([],[((0,Major),1 % 2,II),((0,Major),1 % 4,V),((0,Major),1 % 4,V),((0,Major),1 % 4,II),((0,Major),1 % 4,VII),((0,Major),1 % 2,I),((0,Major),1 % 4,I),((0,Major),1 % 4,V),((0,Major),1 % 2,V),((0,Major),1 % 4,V),((0,Major),1 % 4,I),((0,Major),1 % 4,III),((0,Major),1 % 4,I)])]

@@ -1,0 +1,18 @@
+Learned
+No random key
+Major
+majorProbs2.txt
+[([],[
+((0,Major),1 % 2,IV),
+((0,Major),1 % 4,IV),
+((0,Major),1 % 4,V),
+((0,Major),1 % 2,V),
+((0,Major),1 % 2,I),
+((0,Major),1 % 4,V),
+((0,Major),1 % 4,I),
+((0,Major),1 % 4,V),
+((0,Major),1 % 4,I),
+((0,Major),1 % 4,I),
+((0,Major),1 % 4,V),
+((0,Major),1 % 4,I),
+((0,Major),1 % 4,I)])]
