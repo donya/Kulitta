@@ -1,6 +1,6 @@
-Kulitta version 2.0.1
+Kulitta version 2.0.1.06
 Donya Quick
-Last modified 08-September-2015
+Last modified 08-December-2015
 
 NOTE: this version of the code uses Euterpea 1.1 and UISF 4.0 
 on Hackage. It will NOT work with Euterpea 1.0 or UISF <4. 
