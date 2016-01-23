@@ -1,0 +1,17 @@
+dataFile=	BachChordsTSD.txt	:: String	Input file for chord sequences
+gramrFile=	TSDx2.txt	:: String	Input file for grammar definition
+gramMode=	PCFG		:: GramMode	Type of grammar: PCFG or Temporal
+learnIters=	50	:: Int		Number of InOut iterations
+convThresh=	0.06	:: Double	Convergence threshold to use
+dataSeeds=	[0,1,2]	:: [Int]	Random seeds for data selection
+initDist=	Uniform	:: DistMode	Mode for creating initial distributions
+dataMode=	Major	:: Mode		Modality of data to use (Major, Minor, or Both)
+maxLength=	6	:: Int		Maximum length of a sample
+minLength=	2	:: Int		Minimum length of a sample
+sampleSize=	20	:: Int		Sample size to take from data
+filterData=	True	:: Bool		If true, then restricts sample length
+outNamePre=	_	:: String	Name of output file prefix.
+minProb=	0.001	:: Double	Minimum probability to allow for a rule.
+#
+# Comment line
+# 

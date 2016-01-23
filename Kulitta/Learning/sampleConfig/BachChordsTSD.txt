@@ -1,0 +1,4100 @@
+TSD
+ 5	Major	T D T T T S S S S T 
+ 5	Major	T S D D T S D D T T S D 
+ 5	Major	T T S S T S D T T D D D T 
+ 5	Major	T D T T T S S S S T 
+ 5	Major	T S D D T S D D T T S D 
+ 5	Major	T T S S T S D T T D D D T 
+ 5	Major	D T T D T D T 
+ 5	Major	T T T T D D D D T T T T D 
+ 5	Major	T T S T T S D T T T 
+ 5	Major	T T S S T T S D T T S D D D T 
+ 7	Minor	T 
+ 10	Major	D T D T T 
+ 10	Major	S D T T S S D 
+ 10	Major	T T T 
+ 10	Major	D D S S T 
+ 7	Minor	T D D 
+ 7	Minor	T T D 
+ 10	Major	T T T T S D T T 
+ 10	Major	S S D D T 
+ 10	Major	T T 
+ 5	Major	S T T T T D 
+ 5	Major	T S D T S 
+ 0	Minor	D S T 
+ 0	Minor	D D T D T T T T 
+ 0	Minor	T D T D 
+ 2	Minor	T D T S T S D T 
+ 2	Minor	T T T D 
+ 5	Major	D T T S S 
+ 2	Minor	D 
+ 2	Minor	T D S S T S D T S D T 
+ 2	Minor	S 
+ 9	Minor	T T S T T D T 
+ 0	Major	S D D T 
+ 0	Major	D T D T S S T 
+ 5	Major	T 
+ 5	Major	T S S T T S 
+ 2	Minor	S S T T T 
+ 0	Minor	T D T S S T S T D D T 
+ 0	Minor	T T 
+ 3	Major	T D D D T D S S S 
+ 0	Minor	S D 
+ 0	Minor	T T D S S T S D T S D T 
+ 0	Minor	S 
+ 7	Minor	T S T S D T S D D T 
+ 7	Minor	D 
+ 3	Major	S D S D D T T S D D T 
+ 3	Major	T S T 
+ 2	Major	S T S T T T S T 
+ 11	Minor	T D T 
+ 11	Minor	T D D T T S S T S D T T D T 
+ 11	Minor	T T T 
+ 2	Major	S T T T S T 
+ 11	Minor	T D T 
+ 11	Minor	T D D T T S S T S D T T D T 
+ 9	Major	S T D S D T D T S T T D D T D T 
+ 9	Major	S T S S S 
+ 11	Minor	D T T S S T S S D 
+ 2	Major	T S T S S T T T T T S T D T 
+ 2	Major	T S D T S T S D D T S T S T 
+ 9	Major	T T T T S D T S D T T D T 
+ 9	Major	T T T T S T S T D D T S T D S T 
+ 9	Major	T T T T S D T S D T T D T 
+ 9	Major	T T T T S T S T D D T S T D S T 
+ 9	Major	T D T T D D T T S D T T T S 
+ 9	Major	D T T S D S S T S D D T 
+ 9	Major	T T S S T S T D T S D T 
+ 11	Minor	T S S S S T T S S D D T T D 
+ 11	Minor	T S T T D D T D T T T S T T D 
+ 11	Minor	T 
+ 9	Major	T S T D S D D T D T T T S T S S 
+ 9	Major	D D T S T S 
+ 11	Minor	T D D T S T T T S 
+ 11	Minor	T T D T D T T D D T S T T S S 
+ 11	Minor	T T D D D T D T T S T S T D S 
+ 11	Minor	T S S S D 
+ 2	Major	T D D 
+ 2	Major	S D T T S D T T T T D D S 
+ 2	Major	D D T T S S D D D D T 
+ 2	Major	T T T T D D T T T S T T T T D D 
+ 2	Major	S D T T S D T T T T D D S 
+ 2	Major	D D T T S S D D D D T 
+ 2	Major	D S D D T T S D S S S 
+ 4	Minor	T S S D T 
+ 4	Minor	D D T D D D D D D T 
+ 11	Minor	S 
+ 11	Minor	S T S T S T S T D T D 
+ 2	Major	T S T T S T D T D D T T D D D 
+ 2	Major	T S S S T S D T S D D D T T 
+ 11	Minor	T T T D D T T T T D D T 
+ 11	Minor	T T D T D D T T T T T T 
+ 11	Minor	D D T T T T S S T T D D T 
+ 11	Minor	T S S T T D T 
+ 9	Major	S D S D T 
+ 9	Major	T T S S S S D D T D T 
+ 11	Major	T D S D 
+ 11	Major	S S D D D T 
+ 0	Major	T T S S T T T T T D D T 
+ 0	Major	T D S 
+ 9	Minor	T S D T T D D T T T D D 
+ 9	Minor	D T D T 
+ 0	Major	T T S S T T 
+ 0	Major	T T T D D T T D S 
+ 9	Minor	T S D 
+ 9	Minor	T T D D T T T D D D T D T 
+ 9	Minor	T 
+ 7	Major	S D D D D T T T D T T T T S S 
+ 7	Major	D T S S D S T T S S 
+ 7	Major	T 
+ 9	Minor	D T 
+ 0	Major	T S S S T T T S S T T 
+ 0	Major	T T T D D T T D S 
+ 9	Minor	T S D 
+ 9	Minor	T T D D T T T D D D T D T 
+ 7	Major	T D T T S D S D T T D D T 
+ 7	Major	T T T D T S T D D T T T S D D T 
+ 7	Major	T D T T S D S D T T D D T 
+ 7	Major	T T T D T S T D D T T T S D D T 
+ 7	Major	T D T S T 
+ 9	Minor	T T S T T 
+ 9	Minor	S T D T D T 
+ 4	Minor	S T T S S S D 
+ 4	Minor	T T T T D T S T T T S T T T S 
+ 7	Major	D T 
+ 11	Minor	T T S S D D T S S T D D T 
+ 11	Minor	T T D D D S T T T S T T T T D 
+ 11	Minor	T T S S D D T S S T D D T 
+ 11	Minor	T T D D D S T T T S T T T T D 
+ 11	Minor	T T D D T T D T S S T T D D T 
+ 11	Minor	T T D D T T D T D T D T T S D 
+ 11	Minor	D T T D S T T D T T S S D D 
+ 11	Minor	D 
+ 10	Major	T T T S T T T T S D 
+ 7	Minor	D S T 
+ 7	Minor	T D S T S T T S T S D D T 
+ 7	Minor	T T 
+ 10	Major	T S T T T T S D 
+ 7	Minor	D S T 
+ 7	Minor	T D S T S T T S T S D D T 
+ 10	Major	D T T T T D T D D S S D T 
+ 5	Major	S T 
+ 5	Major	S S D T D T S D T T D S D D T 
+ 5	Major	S S T S D T S S D S T T T 
+ 7	Major	T T S S D T T T T T S D T 
+ 7	Major	S S D D T D T T S S D D T 
+ 7	Major	T T S S D T T T T T S D T 
+ 7	Major	S S D D T D T T S S D D T 
+ 7	Major	D T D D T T D S 
+ 2	Major	S D 
+ 2	Major	T D T T T D T T S S D 
+ 7	Major	D 
+ 7	Major	S S D D T T T T S D S D D T 
+ 9	Major	T D S S S D T T T S S D T 
+ 9	Major	D T S S T S D T 
+ 9	Major	T D S S S D T T T S S D T 
+ 9	Major	D T S S T S D T 
+ 9	Major	S D T D 
+ 6	Minor	D T D S S T T T D 
+ 6	Minor	D 
+ 9	Major	T D D T T D D S S T S D 
+ 9	Major	D D T 
+ 7	Major	D D T D D T T S T S S S T T S 
+ 7	Major	D T 
+ 2	Major	T S T S S D D T 
+ 7	Major	D T S D 
+ 7	Major	D D T D D T T S T S S S T T S 
+ 7	Major	D T S T D T 
+ 2	Major	S D D T T T D T 
+ 2	Major	S T S S T S D D T T S T D D T 
+ 7	Major	T T T T T T S S T S D T S S S T 
+ 7	Major	T D D S S T T S S S D T 
+ 7	Major	T S D D T T 
+ 7	Major	D D S S D T 
+ 7	Major	T D D 
+ 9	Minor	S S D 
+ 9	Minor	T S T 
+ 4	Major	T 
+ 0	Major	T T T 
+ 0	Major	S T D D S S T 
+ 0	Major	S S T T S 
+ 7	Major	T T 
+ 7	Major	T T S S D 
+ 7	Major	D T T S 
+ 0	Major	T T 
+ 0	Major	T T T D S T S T D D D T 
+ 10	Major	T T D T S S T D D T 
+ 10	Major	S S D S S T S S D D T 
+ 10	Major	T T D T S S T D D T 
+ 10	Major	S S D S S T S S D D T 
+ 10	Major	T S S S S D D T T T T S 
+ 10	Major	T T S T T D D T 
+ 5	Major	S D D D 
+ 10	Major	T S S T S D D T T D D T 
+ 4	Major	D T S S S S 
+ 2	Major	T S T 
+ 2	Major	T S T T S S T T T T D T 
+ 2	Major	S D D T D T T S D 
+ 2	Major	D T T T T S S S S T T S T 
+ 2	Major	T D S D T T D T S S D D T 
+ 2	Major	D T T T T S S S S T S T 
+ 2	Major	S S D T D S S D D T 
+ 2	Major	D T T T T S D S S T T D D T 
+ 2	Major	T T D T D S D D T 
+ 2	Major	D T D T T D D T T 
+ 2	Major	T D T D S D D T D 
+ 2	Major	T D T T D D T T T 
+ 2	Major	D T D S D D T D T 
+ 2	Major	D T T D D T T T D 
+ 2	Major	T D S D D T D T D 
+ 2	Major	T T D D T T T T T T S 
+ 2	Major	T T S D S T T D T 
+ 2	Major	D D S S D D T D 
+ 2	Major	T T T D D T 
+ 4	Minor	T T T T T S D T D T S 
+ 4	Minor	T D 
+ 2	Major	T S D T T T S 
+ 2	Major	D T S S T T S T S S T 
+ 2	Major	T D T D T T T T T T S S T S D 
+ 2	Major	S D T T T T T S D 
+ 4	Minor	D 
+ 4	Minor	T D T 
+ 7	Major	T T S T S T D T T T S D T 
+ 7	Major	D 
+ 11	Minor	S T S S D T D T D T T T T 
+ 11	Minor	T D T T T T T T T T T D T D 
+ 7	Minor	T T T T T T D D T T T S 
+ 7	Minor	T D 
+ 2	Minor	S T T S S T 
+ 2	Minor	T S T T D D 
+ 7	Minor	D 
+ 7	Minor	T 
+ 10	Major	S T T S S T S T 
+ 10	Major	D T T S D T 
+ 7	Minor	D D T S T D 
+ 6	Minor	S S S S T D 
+ 6	Minor	D T 
+ 2	Major	T S D D 
+ 2	Major	T D D D D T 
+ 2	Major	T D T S S 
+ 2	Major	S S 
+ 11	Minor	T T T S S 
+ 11	Minor	S S D 
+ 11	Minor	T 
+ 6	Minor	S S S T D 
+ 6	Minor	D T 
+ 2	Major	T S D D 
+ 2	Major	T D D D D T 
+ 2	Major	T D T S S 
+ 2	Major	S S 
+ 11	Minor	T T T S S 
+ 11	Minor	S S D 
+ 11	Minor	T 
+ 2	Major	T S D 
+ 2	Major	T 
+ 11	Minor	T S 
+ 11	Minor	T D D 
+ 11	Minor	T S S D 
+ 11	Minor	D D T S S D 
+ 11	Minor	D T 
+ 4	Major	T T T T S S S S S S D D D T D T 
+ 11	Major	T T D T D D T S D D T T S S D D 
+ 11	Major	T S 
+ 4	Major	T T T S T S S D T S D 
+ 4	Major	T T D T T S D T T D D T T 
+ 4	Major	S S D D D T T T T T S T S T 
+ 4	Major	D D T T T T T T S D T T 
+ 4	Major	S S D T T 
+ 11	Minor	S T S T T S T S S T D D T 
+ 11	Minor	T D T D T S T T D T 
+ 11	Minor	D T 
+ 4	Minor	T S S D T T S S T S 
+ 4	Minor	D D T T D D T D T 
+ 7	Major	T 
+ 7	Major	T S D T T T D T S D T 
+ 7	Major	D S T T S S T D T D S T 
+ 4	Minor	D T 
+ 9	Minor	T S T S S D D T S T D D T 
+ 9	Minor	T D D D 
+ 0	Major	D T 
+ 9	Minor	T T T S S S D 
+ 9	Minor	D T T S S D D T D S T T D T 
+ 9	Minor	T S T T T D S S T S T T S T S T 
+ 9	Minor	D T T S S T S T T D T T D T 
+ 9	Minor	T T 
+ 0	Major	T T S D T D T T S S S 
+ 0	Major	D T S T S D D 
+ 0	Major	D T T T T T T T S T 
+ 0	Major	S 
+ 9	Minor	T D T T T 
+ 0	Major	S T T T T 
+ 0	Major	T T S T T T T S T T D D D D T 
+ 0	Major	T T T T T T S S S 
+ 9	Minor	T S D D T 
+ 9	Minor	T 
+ 2	Minor	S T T D T T D T 
+ 2	Minor	S D T T T T T D D S 
+ 0	Major	D D T S T S 
+ 5	Major	T T T T T D D T D S T D T 
+ 5	Major	T T D T S S D T S D T 
+ 0	Major	S T D T 
+ 0	Major	S T T S T T S S D T T D T 
+ 0	Major	S S T T S D T S D S D 
+ 5	Major	D T 
+ 5	Major	T S D T T S S T T S D T T D 
+ 5	Major	D 
+ 0	Major	S S D T D D T T D T 
+ 7	Major	S D D D T D T D T D D T 
+ 7	Major	T S S D T D D D T 
+ 7	Major	D T 
+ 2	Major	D T S S S T T D T T 
+ 2	Major	T T S S S 
+ 7	Major	D T T T T S 
+ 2	Major	S S D D D D D S D D D T 
+ 2	Major	S S S D 
+ 4	Minor	S D 
+ 7	Major	T 
+ 7	Major	D T D S T S S S D D T 
+ 10	Major	T S S D T T D S D T 
+ 10	Major	T S T T T S D T T S D 
+ 10	Major	T T D D T T T T D 
+ 10	Major	T T 
+ 10	Major	S S T 
+ 10	Major	T T D T D T D D T T T S D 
+ 10	Major	D T S D T T D D T T D D T 
+ 0	Major	T T T T T D D T T T S T T 
+ 0	Major	T D T T T T T T T T 
+ 0	Major	D D D D T T S T D T D 
+ 0	Major	T S D D D D T T D D D D S S 
+ 0	Major	D D D T D T T T D T T 
+ 0	Major	S T D T S S T D D D D T 
+ 2	Major	T D T S T D T D T T 
+ 2	Major	T S D 
+ 11	Minor	T T T S T D D T 
+ 11	Minor	T S T 
+ 2	Major	S T D T D T T 
+ 2	Major	T S D 
+ 11	Minor	T T T 
+ 9	Major	D S T T S 
+ 9	Major	D D T T S T S S D T T 
+ 9	Major	T D D T S S D D T 
+ 9	Major	T S 
+ 2	Major	S S D D D D T 
+ 2	Major	T S T S D T D 
+ 9	Minor	T T T S D D T S D T S S S S D 
+ 9	Minor	D T T T T S S D D T 
+ 9	Minor	T T T S D D T S D T S S S S D 
+ 9	Minor	D T T T T S S D D T 
+ 0	Major	T T D S T T S T D T T D T 
+ 0	Major	T S S T 
+ 2	Minor	S D D T T D 
+ 7	Major	S S T T T T S D T S T S S D T 
+ 7	Major	T T S 
+ 9	Minor	T T S T D T T T T D 
+ 11	Minor	T S D T T S S D 
+ 11	Minor	T T S T S D 
+ 11	Minor	D T 
+ 2	Major	D T T T T D D D D T T 
+ 2	Major	T T T S D D T T T T S S D D T 
+ 2	Major	T D T T T T T T S 
+ 9	Major	S D D T 
+ 9	Major	D T 
+ 0	Major	T T D T D S D D T 
+ 0	Major	D T D T T D D T T 
+ 0	Major	T D T D S D D T D 
+ 0	Major	T D T T D D T T T T 
+ 0	Major	T 
+ 2	Minor	D T D D T T T D 
+ 0	Major	T D T D D S S D D 
+ 0	Major	T D T T T D D T 
+ 4	Major	T T T S D T T D T S D 
+ 4	Major	D 
+ 11	Major	D T T S S T S D D 
+ 4	Major	S D 
+ 4	Major	T T T S D T T D T S D 
+ 4	Major	D 
+ 11	Major	D T T S S T S D D D T 
+ 11	Major	S T S S 
+ 4	Major	T S D T S D T S D 
+ 4	Major	T T S S T S T S T T D D T 
+ 0	Minor	D T D D D D T T T D T T D 
+ 10	Major	T S 
+ 10	Major	S D T T S S T S T S D T S D D T 
+ 10	Major	S D T 
+ 0	Minor	S D D T T T D T T D 
+ 10	Major	T S 
+ 10	Major	S D T T S S T S T S D T S D D T 
+ 10	Major	D D T T D S D D T T D S T T T 
+ 7	Minor	T T S S T D S S T S T D T T D 
+ 7	Minor	T T T D S T D T T T T T T D 
+ 7	Major	T T T D T S S T T D D T 
+ 7	Major	S S D S S T D S T S D D T 
+ 7	Major	T T T D T S S T T D D T 
+ 7	Major	S S D S S T D S T S D D T 
+ 7	Major	T S 
+ 2	Major	S D T T T T T T S 
+ 2	Major	S S D D T D T 
+ 7	Major	D T D T S S D 
+ 7	Major	T T S S T S D D T T D D T D D T 
+ 2	Major	T T S T T T S T T D T 
+ 2	Major	T D S S S 
+ 11	Minor	S T T D D T T T T 
+ 11	Minor	D D T T 
+ 2	Major	T S T T 
+ 2	Major	T S T T D T T D S S S 
+ 11	Minor	S 
+ 11	Minor	T T D D T T T T D D T 
+ 11	Minor	T D S D T T S S D 
+ 9	Major	D T D T T S S 
+ 9	Major	D T T D T S T S 
+ 6	Major	T 
+ 6	Minor	S S T T T T 
+ 9	Major	D D T 
+ 9	Major	S S D T S D D T D D T S 
+ 9	Major	T S T 
+ 11	Minor	D S T T T T T D D T S 
+ 2	Major	T T T S S D T T T T T S D 
+ 2	Major	S S T D D T T S S T S T D D T 
+ 2	Major	T T T S S D T T T T T S D 
+ 2	Major	S S T D D T T S S T S T D D T 
+ 11	Minor	T T S S D T T S T T D D T 
+ 11	Minor	S T D 
+ 2	Major	D T S D D T 
+ 11	Major	D T D T S D T S S S 
+ 11	Major	D T D T S D 
+ 6	Minor	T 
+ 6	Minor	T T T D T D 
+ 4	Major	T S 
+ 4	Major	T T S D D T S S S 
+ 4	Major	D D T T S 
+ 9	Major	S D T T 
+ 9	Major	T T T S T T D T D 
+ 9	Major	T D 
+ 5	Major	T S T T T T S D T T D D 
+ 5	Major	T S S D D T S S S D D T 
+ 5	Major	T S T T T T S D T T D D 
+ 5	Major	T S S D D T S S S D D T 
+ 5	Major	D T T S S S 
+ 7	Minor	T S S D T T 
+ 10	Major	T D S T T T T S S S D D T 
+ 10	Major	D D S 
+ 5	Major	S T T T T S D T T D D 
+ 5	Major	T T S S T D T S T D D T 
+ 6	Minor	T T T S S T T S S D 
+ 6	Minor	T T T T D S T T S S D 
+ 9	Major	T T S D D T T T T S D T 
+ 9	Major	T S T S D T T S S T D T T 
+ 9	Major	T D T T T T T T S T D S D 
+ 4	Major	T T T D T T S S D S T 
+ 0	Major	T T D T S S T D T T S T S 
+ 4	Minor	S T 
+ 4	Minor	S T T S T S T T S S S S T T 
+ 4	Minor	T T S D T 
+ 0	Major	T T S T T S S D D T 
+ 0	Major	T T D T S S T D T T S T S 
+ 4	Minor	S T 
+ 4	Minor	S T T S T S T T S S S S T T 
+ 4	Minor	T T S D T T S 
+ 0	Major	S T T S S D D T 
+ 0	Major	T S S S D T D T T S T S D 
+ 0	Major	D D T T T D T T S D T T S S D 
+ 0	Major	T T S T D D T 
+ 7	Major	S D D T S 
+ 7	Major	T T D T S S D T T T S D T 
+ 7	Major	S S T 
+ 0	Major	D T S T T T S S D D T S 
+ 0	Major	T T T T D T T S T T S S S D 
+ 0	Major	T T S T S D D T 
+ 7	Major	T D D D D T T T S S D D T 
+ 7	Major	D T S D T 
+ 2	Major	S D T 
+ 7	Major	D D T D T T S T S S D 
+ 7	Major	T S D T T D D D T T T S T 
+ 7	Major	T S S T S T D D T 
+ 9	Minor	D T S T D T D S T T D 
+ 9	Minor	S T T D D T T S S S T T T D T 
+ 9	Minor	D T S T D T D S T T D 
+ 9	Minor	S T T D D T T S S S T T T D T 
+ 9	Minor	S D 
+ 4	Minor	S T D D T S T T S S D 
+ 9	Minor	D D T S T T D T S T T D T 
+ 9	Minor	T D T T S S D D S T T D 
+ 2	Minor	T D S T S T T T S S D 
+ 2	Minor	S D 
+ 9	Minor	T T D D T 
+ 9	Minor	D T D S 
+ 2	Minor	S T T T S S D 
+ 2	Minor	S D D 
+ 9	Minor	T D D T 
+ 0	Major	T S D D T D T T S T 
+ 0	Major	T S 
+ 2	Minor	S S D T D 
+ 2	Major	D 
+ 7	Major	T T T S D T S D T 
+ 7	Major	S S D S D T S T S 
+ 9	Minor	D 
+ 0	Major	T T T S D T S 
+ 7	Major	D 
+ 7	Major	T D D T S T 
+ 7	Major	S T D D D T 
+ 9	Minor	T D 
+ 0	Major	T T S T S T 
+ 0	Major	T D T D T S 
+ 0	Major	D T S D D T 
+ 9	Major	T S T T T S D T T D D 
+ 9	Major	T T S D T T D D D D T 
+ 9	Major	T S T T T S D T T D D 
+ 9	Major	T T S D T T D D D D T 
+ 9	Major	D T T S S S 
+ 11	Minor	T T T D D T T 
+ 11	Minor	T D 
+ 2	Major	D T T T D D D 
+ 9	Major	T S S 
+ 9	Major	T D S D D T S S T D 
+ 9	Major	T T S S T D T D D D D T 
+ 2	Major	T T T T S T S D D T D T 
+ 2	Major	D D D 
+ 9	Major	T T T D S T T D T T S S D 
+ 2	Major	D T T T T S T S S D T S D 
+ 2	Major	T T D T T S S S D D T T S T S 
+ 2	Major	D D D D T T T T T T T D D 
+ 2	Major	T 
+ 9	Major	S D 
+ 2	Major	D T T T T S D T T 
+ 2	Major	S D S D D T 
+ 5	Major	T T S D D T T D D S S T T S 
+ 5	Major	D D T D T T T T S S D D T D S S D 
+ 5	Major	T T T S D D T T D D S S T T S 
+ 5	Major	D D T D T T T 
+ 0	Major	T D D T T S D D D T 
+ 0	Major	S T S S T T D S T 
+ 5	Major	D T T S S D 
+ 5	Major	T T T T T D S T T S D T S D T 
+ 5	Major	T T D T S S T S D D S S D D T 
+ 0	Major	T D T S D D D T S D T 
+ 0	Major	D T D D T T D S D T S 
+ 0	Major	D D T T D T S D D 
+ 0	Major	D T S D T D T D D T T 
+ 0	Major	D S D T S D D T 
+ 0	Major	T D D S T 
+ 7	Major	T S S D D T T D 
+ 7	Major	T T T T D T 
+ 9	Minor	T S 
+ 0	Major	S D T 
+ 0	Major	D T T S T S S T S D D T T D 
+ 0	Major	D D T 
+ 2	Major	T D T T S T S T D S T D T 
+ 9	Major	T T T T D T S D T D T S S D D 
+ 9	Major	T 
+ 2	Major	T T T T S S S T D T D D 
+ 2	Major	T T D T T S S D D T D T T 
+ 2	Major	S D D T T T T 
+ 6	Minor	S T D T T 
+ 6	Minor	S S S T T T T T T 
+ 2	Major	T S S T T 
+ 2	Major	S S D D T 
+ 11	Minor	S S D D T S T D T D D T 
+ 11	Minor	T 
+ 4	Minor	T D T T T T S 
+ 11	Minor	T T S 
+ 11	Minor	S S D D T S T D T D D T 
+ 4	Minor	D T D T T T T S D D T 
+ 4	Minor	T T T T S S S S T 
+ 7	Major	D T 
+ 7	Major	T T D 
+ 11	Minor	S T 
+ 7	Major	T T D D T 
+ 7	Major	T T D T T T D T T D D D D 
+ 7	Major	S 
+ 3	Major	T D D T T D D T T S S T 
+ 3	Major	S S D T S S T S D D D T 
+ 3	Major	T T D D S S T T S 
+ 0	Minor	D T T D 
+ 0	Minor	T T D 
+ 3	Major	D T T T T S D S D D T 
+ 3	Major	T S S T T S 
+ 5	Minor	T S D T T D 
+ 5	Minor	T T T 
+ 10	Major	T S S T S T T D T 
+ 3	Major	D D T T T T T T S D T S D 
+ 3	Major	T S T D S S T S D D D D D T 
+ 7	Major	T T S D 
+ 9	Minor	D D T S 
+ 9	Minor	D T T T T S D D T 
+ 9	Minor	T T T S S T S D D T S 
+ 9	Minor	D T T T T S D D T 
+ 9	Minor	T T S T T S S T T D 
+ 7	Major	T S T T S S S T D D D D T 
+ 7	Major	T T S 
+ 9	Minor	S S T T T D S S T T D 
+ 9	Minor	D T T T T S D 
+ 9	Minor	S S T T S S S S D 
+ 9	Minor	D T T T T S S D S T S S T 
+ 9	Minor	D D T 
+ 0	Major	S D S D T 
+ 9	Minor	D S S S S D D 
+ 9	Minor	D T T T T S S D S T S S T 
+ 9	Minor	T 
+ 0	Major	T D S S T T S S D T T S T 
+ 0	Major	T 
+ 9	Minor	T T T T S S T 
+ 9	Minor	T D S T T D D T S S D 
+ 9	Minor	T 
+ 2	Minor	D T T D D T T S 
+ 11	Minor	T D T D D T T S S S T D 
+ 11	Minor	T D D T T S T T S S D 
+ 11	Minor	T D T D D T T S S S T D 
+ 11	Minor	T D D T T S T T S S D 
+ 9	Major	T S S D D T T S T S S D D D T 
+ 9	Major	T D T T S S S 
+ 6	Minor	D S T T D D T 
+ 6	Minor	T S 
+ 2	Major	T D D T T D D D T T 
+ 2	Major	T D T T S S S S T 
+ 10	Major	S T T S 
+ 10	Major	T S D D T T D D T 
+ 10	Major	T S D T D D T S T T S 
+ 10	Major	T S D D T T D D T 
+ 10	Major	T T T T T T S T S S D T T D 
+ 10	Major	D T T T T D D T 
+ 7	Minor	T S S D T 
+ 7	Minor	T S T D D T T D 
+ 10	Major	D T 
+ 7	Major	T T T T T S T T S T T D D T 
+ 7	Major	T T T T S T D S T 
+ 4	Minor	D T T T T D 
+ 4	Minor	D T T T T S S T T T 
+ 7	Major	S D 
+ 7	Major	T T S S T S D D T T D D D D D T 
+ 7	Minor	T T D T D T S D 
+ 7	Minor	D D T S T T S T 
+ 7	Minor	D T T T D T 
+ 7	Minor	D T S D D D T 
+ 7	Minor	S T T S T D T 
+ 7	Minor	D T D 
+ 10	Major	T T S D T 
+ 10	Major	T D T S 
+ 11	Minor	T S T S T T S S T T D D T 
+ 11	Minor	S D D S T D D D T T T T D 
+ 11	Minor	T S T S T T S S T T D D T 
+ 11	Minor	S D D S T D D D T T T T D 
+ 11	Minor	T S S T T D D S D T T T D T 
+ 11	Minor	T 
+ 9	Major	D T T S D T D T T S T D T 
+ 9	Major	T T S 
+ 11	Minor	T D S T T T D T T S T S 
+ 11	Minor	D 
+ 9	Major	T D T D D T D T T S T S S 
+ 9	Major	T D T T T T S S D D 
+ 9	Major	D D T S T D S S D T 
+ 6	Minor	T T 
+ 6	Minor	D T T S S T T T T T T T S T 
+ 6	Minor	S 
+ 9	Major	T T T T S D T S D T T 
+ 9	Major	T T S S D S T D T T S S S S D D 
+ 9	Major	T S D S D D T S T S 
+ 9	Major	D D T 
+ 9	Major	T T S S D T 
+ 9	Major	S D T T T T T T 
+ 9	Major	T T D T S D T 
+ 9	Major	T T T S S D T 
+ 9	Major	S D T T T T T T 
+ 9	Major	T T D T S D T 
+ 9	Major	T S D T D 
+ 6	Minor	T D T 
+ 6	Minor	S D T T 
+ 4	Major	T S T 
+ 4	Major	S S D D T 
+ 9	Major	T T T 
+ 9	Major	S D S D 
+ 2	Major	D D D T 
+ 2	Major	D T T T S T D D S 
+ 11	Minor	S T D 
+ 11	Minor	T 
+ 9	Major	D T 
+ 2	Major	D T T T 
+ 2	Major	S S D D T 
+ 4	Major	S D 
+ 4	Major	D T S D D T T 
+ 4	Major	S D T D D T D S S 
+ 4	Major	S T 
+ 9	Major	T S D T D D 
+ 9	Major	T T S S T D D T 
+ 5	Major	T D D T D T S T S S T S S T 
+ 5	Major	D T 
+ 0	Major	T S D T T S 
+ 5	Major	S S D 
+ 5	Major	T S S D S D T T D D T 
+ 5	Major	T D D T D T S T S S T S S T 
+ 5	Major	D T 
+ 0	Major	T S D T T S 
+ 5	Major	S S D 
+ 5	Major	T S S D S D T T D D T 
+ 5	Major	D T D T 
+ 5	Major	T T T T D D D D T T T T D D 
+ 5	Major	D D T T T T S S D D T T T 
+ 5	Major	D D S S D S S T T S S S D T 
+ 2	Major	T T D T S T D D T T T T S S T 
+ 2	Major	T S T T S S T 
+ 6	Minor	T S T S 
+ 2	Major	D T 
+ 2	Major	T D S S T D T S T S D T D T 
+ 2	Major	T T D T S T D D T T T T S S T 
+ 2	Major	T S T T S S T 
+ 6	Minor	T S T S 
+ 2	Major	D T 
+ 2	Major	T D S S T D T S T S D T D T 
+ 2	Major	T D T S D D T T S T S T S S D 
+ 2	Major	D D T T T D T S D T T T T T 
+ 11	Minor	T S T D S D S T D T D 
+ 9	Major	T S S T T D T T S 
+ 11	Minor	S D 
+ 11	Minor	T T S T D D D T T S D T D 
+ 11	Minor	T T T 
+ 2	Major	T T T T T T S T S D 
+ 2	Major	T D D D T 
+ 7	Major	T S S D D T S T T D T 
+ 7	Major	S D T S T T D T 
+ 7	Major	S D D T T D D T T D D 
+ 7	Major	S S T S T D T T D D T S S D D D 
+ 2	Major	D T T S 
+ 7	Major	D T S 
+ 7	Major	T T T T S T T S 
+ 4	Minor	D 
+ 4	Minor	T 
+ 2	Major	S T S D S T T T T S 
+ 7	Major	D S D 
+ 7	Major	T S T T D T S S T T 
+ 7	Major	D T T D T D D T S 
+ 7	Major	T S D T D S T D D D T 
+ 2	Major	D D T 
+ 7	Major	T T T T D D T S T D T 
+ 7	Major	S D T T S S S D T 
+ 7	Major	D T S T D S S T S S T 
+ 7	Major	D T D T T D D T 
+ 0	Minor	D S S T T S T D T T D T T 
+ 0	Minor	D 
+ 5	Minor	D S S T T S S T T T D T 
+ 5	Minor	T D T T S T D D 
+ 0	Minor	T D 
+ 5	Minor	D D 
+ 5	Minor	S D D T S T T S S T T D T T 
+ 5	Minor	T D S T D S D 
+ 0	Minor	T T T T T D T 
+ 0	Minor	T T T D T D T T S S D D D T 
+ 0	Minor	D T 
+ 5	Minor	D T S T T S S D D T D 
+ 5	Minor	T D T T S T T T T S S D D D T 
+ 5	Minor	T S T S S D D T 
+ 7	Minor	D T T S T S T D T D T T T S S S S D 
+ 7	Minor	T T D D T 
+ 10	Major	T S 
+ 7	Minor	T S D S S S S T 
+ 7	Minor	D T T S T S T D T D T T T S S S S D 
+ 7	Minor	T T D D T 
+ 10	Major	T S T D T S S S D T 
+ 10	Major	T T T S S T D T T T S T S D D T 
+ 10	Major	T 
+ 7	Minor	T D D T D S S T S T T D T T 
+ 5	Major	D T T S S S D D T T T S S 
+ 5	Major	S S D 
+ 7	Minor	S S D T S S T D S D T D 
+ 7	Minor	T S T D 
+ 0	Major	T T D S D T D T S D 
+ 9	Minor	T 
+ 9	Minor	T D D T S T S S T D D T 
+ 9	Minor	T T 
+ 0	Major	D S D T D T S D 
+ 9	Minor	T 
+ 9	Minor	T D D T S T S S T D D T 
+ 9	Minor	D T T D T D D S T T T D 
+ 9	Minor	T T S T S S T T D 
+ 7	Major	T S S D T 
+ 7	Major	S S T S D T S S D S T S 
+ 9	Major	S T T T S S D D 
+ 9	Major	D T D T T T S D T S T S S 
+ 9	Major	D T T T T S S S D D D T T 
+ 9	Minor	T S T T T S S D D D T D T T T 
+ 9	Major	S D T S T S S D T 
+ 0	Major	T T T S D D D T T T T S S S D D T 
+ 0	Major	T S D S T S T T S S S S S 
+ 9	Minor	D D T 
+ 2	Minor	D T T T T D T T T D T 
+ 2	Minor	T T D D T T T T T T D D T T D 
+ 2	Minor	D T T T T D T T T D T 
+ 2	Minor	T 
+ 9	Minor	S T D S T S S S S T T T 
+ 5	Major	S T 
+ 5	Major	T D T D S T D T S T T D 
+ 2	Minor	S T 
+ 2	Minor	T T D D T T S T S S T D D T 
+ 2	Minor	D T T S S T D S 
+ 0	Major	D T D T S D 
+ 0	Major	D T T S 
+ 9	Minor	T S S T T D D T T S 
+ 9	Minor	D 
+ 0	Minor	D T T T T D T T T D T 
+ 0	Minor	T T D D T T T T T T D D T T D 
+ 0	Minor	D T T T T D T T T D T 
+ 0	Minor	T 
+ 7	Minor	S T D S T S S S S T T T 
+ 3	Major	S T 
+ 3	Major	T D T D S T D T S T T D 
+ 0	Minor	S T 
+ 0	Minor	T T D D T T S T S S T D D T 
+ 0	Minor	D T T S S T D S 
+ 10	Major	D T D T S D 
+ 10	Major	D T T S 
+ 7	Minor	T S S T T D D T T S 
+ 7	Minor	D 
+ 5	Major	T D D T D T T T T T T D 
+ 5	Major	T D T S S T D S S T T 
+ 5	Major	D D T D T T D D T D 
+ 5	Major	T T T T T T D T D T 
+ 5	Major	S S T D S S T T D D T D T 
+ 5	Major	T S D S D T T T S T D T S S 
+ 5	Major	D T S 
+ 0	Major	T S D S S T D T S 
+ 0	Major	D D T D T T T 
+ 5	Major	T D S S D 
+ 5	Major	T T S S D D D T T S D T D 
+ 5	Major	S S T T D D T D T 
+ 9	Minor	T S T S T S T T S S D T T D T S S 
+ 9	Minor	D D T T T S T S D T T 
+ 9	Minor	T S T S T S T T S S D T T D T S S 
+ 9	Minor	D D T T T S T S D T T 
+ 9	Minor	T T S S T S T D T S D 
+ 9	Minor	D T T D D T D T D S 
+ 9	Minor	D T T D D S T S T D 
+ 9	Minor	T T S T S S T T D 
+ 2	Major	T T T T S D T D T 
+ 2	Major	D D T T T S S T S D T S S T S D D 
+ 2	Major	D T T T T T S 
+ 2	Major	D T D T D D T T T S S T S 
+ 2	Major	D T S S T S D D D T 
+ 2	Major	T D T S T S S T 
+ 9	Major	S 
+ 9	Major	S T D D D D T T S T S D D T 
+ 9	Major	T S D T 
+ 2	Major	D S T D T D T 
+ 2	Major	D D T T T S S T S D T S S T S D D 
+ 2	Major	D T 
+ 7	Minor	D D T D T S T S T D S T S D 
+ 7	Minor	T T D S T T T T S D S S S S S T 
+ 7	Minor	D D T D T S T S T D S T S D 
+ 7	Minor	T T D S T 
+ 10	Major	S S T S D S D D T 
+ 10	Major	T D S D D T S T S T T T D T 
+ 10	Major	T D T T S T D T 
+ 5	Major	T S D D 
+ 5	Major	T T D D D D T T T S S S S D 
+ 5	Major	T 
+ 10	Major	D T S T S T D T 
+ 7	Minor	T T T D T S D D T S S T T 
+ 7	Minor	T T T D D T T T D T S S 
+ 7	Minor	S S D T S D T 
+ 7	Minor	D 
+ 5	Major	T T T S T T T D T S 
+ 5	Major	D T T S D S 
+ 5	Major	S 
+ 2	Minor	T D D T S D T 
+ 10	Major	T T T T T D T D T D T T 
+ 7	Minor	T D T D T S 
+ 7	Minor	T S T S T D 
+ 7	Minor	D T T T T T S S S S D T S 
+ 7	Minor	D 
+ 9	Minor	T T D T T S D 
+ 9	Minor	T T T T S S T T S S D 
+ 0	Major	T T D T T T T S D T 
+ 0	Major	T S S S T T S S S T T D T T 
+ 0	Major	T D T 
+ 7	Major	S T T S T D D S D T D T 
+ 7	Major	T T S T T S S D D S 
+ 7	Major	T S S D S D 
+ 7	Major	T S D T S 
+ 7	Major	T 
+ 0	Major	T T S T S D 
+ 0	Major	T T 
+ 7	Major	T S S 
+ 7	Major	D S D T S D T 
+ 7	Major	S T 
+ 0	Major	T T S 
+ 0	Major	T S D T T 
+ 5	Major	T D 
+ 0	Major	S T S D T 
+ 0	Major	T T T T T S S T 
+ 0	Major	S S T T D T 
+ 0	Major	T S T S D D T 
+ 0	Major	T 
+ 5	Major	T 
+ 0	Major	T T 
+ 0	Major	T D T S D T D D D T 
+ 0	Major	D T 
+ 7	Major	D D D T D T S 
+ 7	Major	S S T 
+ 9	Major	D T S 
+ 9	Major	T D T D T T D D S 
+ 2	Major	T 
+ 2	Major	T D T T D D D D D T 
+ 7	Major	D D D T D T S 
+ 7	Major	S S T 
+ 9	Major	D T S 
+ 9	Major	T D T D T T D D S 
+ 2	Major	T 
+ 2	Major	T D T T D D D D D T 
+ 2	Major	D D D T D D T T 
+ 2	Major	D D D T D D T T 
+ 2	Major	T T T S 
+ 7	Major	D 
+ 4	Minor	T T D 
+ 4	Minor	D T S D D T 
+ 4	Minor	D D 
+ 7	Major	D T D 
+ 4	Minor	T T D 
+ 4	Minor	D T S D D T 
+ 4	Minor	D D D T S 
+ 2	Major	S S D 
+ 2	Major	S D T S D T 
+ 10	Major	T T T T S D T S 
+ 10	Major	D D T T T 
+ 5	Major	D 
+ 5	Major	T D T S D S D T 
+ 5	Major	T S 
+ 7	Minor	T S 
+ 5	Major	S D 
+ 5	Major	T D D T T 
+ 7	Minor	D T 
+ 10	Major	D T 
+ 10	Major	S T D T S T T S D T T 
+ 5	Major	T S S D D S S T 
+ 10	Major	T T D S D 
+ 10	Major	T D D T T T D T T D D T 
+ 10	Major	T 
+ 5	Major	T S S D D S S T 
+ 10	Major	T T D S D 
+ 10	Major	T D D T T T D T T D D T 
+ 10	Major	T T S D T S D T T D T 
+ 10	Major	T T T T S S D D S S T D 
+ 10	Major	T T T T S S T T S S S S T 
+ 7	Minor	D T D 
+ 7	Minor	T 
+ 10	Major	T T T T S S T T D D T T 
+ 10	Major	D D D D T 
+ 11	Minor	T T T D T D D T T S S D 
+ 11	Minor	D D T S T T T T S S 
+ 11	Minor	T T T T T D T 
+ 11	Minor	D D T T S S D D D T 
+ 11	Minor	S T T T T S S T T 
+ 11	Minor	D T D D T 
+ 2	Major	T T S D T T 
+ 2	Major	T T D T 
+ 11	Minor	S D T S T T D 
+ 9	Major	T D T D D T T D S D T S D T T 
+ 9	Major	S D T T T D T S T D T 
+ 9	Major	D S T T T T S S D T T T 
+ 9	Major	T T T T D S T T T 
+ 2	Major	D T T T S D 
+ 2	Major	T S T D D D D T 
+ 4	Major	D T S T S T 
+ 4	Major	S T D D T D T T T T D T T D D T 
+ 9	Major	S S D D T T T S D D D D T 
+ 2	Major	S D D D D T D D D T D D T 
+ 2	Major	T S S S S D T D D T 
+ 2	Major	D T T S 
+ 9	Major	D T S S S T T D D T 
+ 9	Major	T S T S 
+ 7	Major	T D T D T T 
+ 9	Major	S S D S D T D T D T T 
+ 9	Major	S S S S 
+ 11	Minor	T T T T 
+ 2	Major	T T 
+ 2	Major	T D S T S T D D D T 
+ 7	Minor	D T S T T T D D T D 
+ 7	Minor	S T D D T D T D D D T 
+ 7	Minor	D T S T T T D D T D 
+ 7	Minor	S T D D T D 
+ 2	Minor	S T T T S 
+ 2	Minor	S D T D D T T T T S D 
+ 2	Minor	T 
+ 7	Minor	D T S T T D S T T T S D T 
+ 7	Minor	T D T T S S T T S T T D 
+ 7	Minor	D D D 
+ 5	Major	T T T D T T T S S D T 
+ 5	Major	T D T S S T T T S D T T D 
+ 5	Major	T T T T T S D T T S D D T 
+ 5	Major	T T T D T T T S S D T 
+ 5	Major	T D T S S T T T S D T T D 
+ 5	Major	T T T T T S D T T S D D T 
+ 5	Major	T D T S D 
+ 7	Minor	T 
+ 5	Major	S T S 
+ 5	Major	T S S D D T D T T D D D D T 
+ 10	Major	T S S D D T S T S D T T 
+ 10	Major	S D T S S D T D T 
+ 10	Major	S D T T D D T T D D S S T S 
+ 10	Major	D T D T D S T 
+ 5	Major	S D D T 
+ 10	Major	D D T S D D T S T D T T S S T 
+ 7	Minor	D 
+ 7	Minor	S D 
+ 5	Major	S D T S D D T S 
+ 5	Major	T T S T D 
+ 10	Major	D T T S S T T D T 
+ 10	Major	S S T S D D T S S S S S D T S 
+ 10	Major	T T T S D D T T D S D 
+ 10	Major	T T T S D D T T T D D T T S S T T 
+ 10	Major	S T S S D T D T T T S S 
+ 10	Major	S S T D D D T D T T S S D D D T 
+ 4	Minor	T D S S T T S D D T 
+ 4	Minor	T D S T D T D T T T T D 
+ 4	Minor	T S T T T D D T 
+ 4	Minor	T D S S T T S D D T 
+ 4	Minor	T D S T D T D T T T T D 
+ 4	Minor	T S T T T D D T 
+ 7	Major	T T T D T S D D T 
+ 7	Major	T S S D T D T T 
+ 4	Minor	D T D D 
+ 4	Minor	D T D D S S T T S D 
+ 7	Minor	T S D D T T T S S D T S 
+ 7	Minor	T S D D T T S T T D 
+ 10	Major	T T D D T S D D T T 
+ 10	Major	T T 
+ 5	Major	T D S T S T D S D T T 
+ 5	Major	S S T D T 
+ 2	Minor	T S T S S 
+ 2	Minor	D D T T T S D D 
+ 7	Major	D D 
+ 0	Minor	S S S D S D T T T S T S T 
+ 0	Minor	S T D D T T T T T T 
+ 7	Minor	S D 
+ 7	Minor	T T T T S S S S S S S S T D T D 
+ 7	Minor	T T T T S D S D S T T D D T S T T 
+ 7	Minor	D 
+ 8	Major	T S S D T S T D S D T 
+ 8	Major	T S T D T S D S T T T S D 
+ 8	Major	D S T S D T T T T D 
+ 8	Major	T T S D D T T T S T S 
+ 5	Minor	S T 
+ 5	Minor	T T D D T T T S T D T T T T D 
+ 5	Minor	D T T D S T 
+ 8	Major	T S T S D D D T 
+ 4	Major	T S T S D T T S D T 
+ 4	Major	D T T T 
+ 1	Minor	T T T D D T 
+ 4	Major	T S T S D T T S D T 
+ 4	Major	D T T T 
+ 1	Minor	T T T D D T 
+ 4	Major	T T D S T T S T D D S T S T 
+ 4	Major	T S T 
+ 6	Minor	D D D T T D 
+ 6	Major	D 
+ 11	Major	T T T T S S T T S S D T 
+ 11	Major	S S S 
+ 4	Major	S T S D D T 
+ 3	Major	T S T S D T T S D T 
+ 3	Major	D T T T 
+ 0	Minor	T T T D D T 
+ 3	Major	T S T S D T T S D T 
+ 3	Major	D T T T 
+ 0	Minor	T T T D D T 
+ 3	Major	T T D S T T S T D D S T S T 
+ 3	Major	T S T 
+ 5	Minor	D D D T T D 
+ 5	Major	D 
+ 10	Major	T T T T S S T T S S D T 
+ 10	Major	S S S 
+ 3	Major	S T S D D T 
+ 2	Major	S T S T T T S T T D T 
+ 2	Major	S S D T S T S S T T S T T T 
+ 2	Major	T S T S T T T S T T D T 
+ 2	Major	S S D T S T S S T T S 
+ 11	Minor	D D T 
+ 11	Minor	T D S 
+ 9	Major	S D D T T T T S T D T 
+ 9	Major	S S D T S S 
+ 11	Minor	T S S T T T T D 
+ 11	Minor	T T D T 
+ 6	Minor	S T S T S T 
+ 9	Major	T S 
+ 9	Major	S S T S D D D D S S D 
+ 4	Major	T T T D S T S T D D T D 
+ 11	Major	T 
+ 11	Major	T T T T S S D D T T S S S D D D D 
+ 11	Major	T S T S 
+ 6	Minor	D T D T T T D T 
+ 4	Major	S 
+ 4	Major	T T D T D S D S D T T S T S 
+ 4	Major	D S D D T T T T T S S S T 
+ 4	Major	D D T 
+ 1	Minor	D T T S T T T T D T 
+ 4	Major	T 
+ 4	Major	S S S D D T 
+ 11	Minor	T S S T S D T D D T D T T 
+ 11	Minor	T D T D 
+ 2	Major	T T D T D 
+ 2	Major	S T S D T D T T S D D T 
+ 2	Major	T T D D S S D D T T T T T T S S 
+ 2	Major	T T S 
+ 11	Minor	S S S S D T S S T T T 
+ 11	Minor	D 
+ 10	Major	T T T S T T D S T S T S T 
+ 10	Major	D D T S D T S T S S T D 
+ 10	Major	T S D 
+ 10	Major	T S T T D T D T T 
+ 10	Major	S S D T T S S T S T T S S 
+ 10	Major	T S T D D T S D D D D D 
+ 10	Major	S T S D D T 
+ 5	Major	T S D D T T T D S D T 
+ 5	Major	T T T T T D D D T T T T S D 
+ 5	Major	D T D T T T S S D 
+ 5	Major	T T D T T T S S D D T 
+ 5	Major	T S T T T S D D T D T T S S D 
+ 5	Major	D T T S D T T S T S T T D D T 
+ 9	Major	T T S S D T T D S S T S D D 
+ 9	Major	T T S S T T T T S S D T T 
+ 9	Major	T T S S D T T D S S T S D D 
+ 9	Major	T T S S T T T T S S D T T 
+ 9	Major	D T T S 
+ 11	Minor	T S S S D D T 
+ 11	Minor	T S 
+ 2	Major	D T T S S S T T D T T 
+ 9	Major	T D S D T T S D T S D D D 
+ 9	Major	T T S S T D T S T D T T T 
+ 11	Minor	T S T D D S D T T 
+ 11	Minor	T S T D D T D T 
+ 2	Major	D 
+ 2	Major	S T S T S S T D T S D D D T 
+ 2	Major	T D D S D D T T T T T T S S 
+ 2	Major	T T S 
+ 5	Major	T T S S T S D T S D T 
+ 5	Major	T T 
+ 2	Minor	T T T T T D D T 
+ 5	Major	T T S S T S D T S D T 
+ 5	Major	T T 
+ 2	Minor	T T T T T D D T 
+ 5	Major	T T D S T T S T D D S T S T 
+ 5	Major	T 
+ 7	Minor	S T T D T T T D 
+ 7	Minor	D 
+ 0	Major	T T T T S T S D T 
+ 0	Major	S 
+ 5	Major	T S D T T D D T D D T 
+ 0	Major	T T S S T S D T S D T 
+ 0	Major	T 
+ 9	Minor	T S S S T D T T 
+ 0	Major	T T S S T S D T S D T 
+ 0	Major	T 
+ 9	Minor	T S S S T D T T 
+ 9	Minor	T T D T D 
+ 5	Major	T S D D T T D 
+ 5	Major	D D T T D S T 
+ 2	Minor	D T T D D 
+ 2	Major	D 
+ 7	Major	T T T T T S S T T S D T 
+ 7	Major	S 
+ 9	Major	D D T T T T S S S T 
+ 9	Major	T T D T T D T T T S T 
+ 9	Major	D T S D T S T D T D 
+ 9	Major	T T D T T T S D T 
+ 9	Major	T S T D T T S T T T T S D 
+ 9	Major	T T T S D T T T S T D T 
+ 9	Major	D T D T S T 
+ 9	Major	S T S D T S D D D T 
+ 9	Major	T D S S T D T 
+ 6	Minor	D 
+ 6	Minor	T D T T T T T S T S S D 
+ 9	Major	T D T S T T S S T D T 
+ 9	Major	S D T 
+ 4	Major	D T T S D D T 
+ 4	Major	T S S D 
+ 11	Minor	S S T D 
+ 9	Major	D S 
+ 9	Major	T T T S T D T D D D D D D T 
+ 9	Minor	D D T D D S S T S D 
+ 9	Minor	T T D D T T S T D 
+ 9	Minor	T D T T T S T D S 
+ 2	Minor	D 
+ 2	Minor	T D T T 
+ 9	Minor	D D S T 
+ 9	Minor	S 
+ 7	Major	T T S T T S T T D 
+ 7	Major	S T S D 
+ 2	Minor	D D T D D T D 
+ 9	Minor	S T T T T T T T S T T 
+ 9	Minor	D 
+ 9	Minor	T S T T T T D D D D T S S S T T 
+ 9	Minor	T T S S T S T D D T T S D D T T 
+ 9	Minor	T T S S S S T 
+ 4	Minor	S T T T 
+ 4	Minor	S D T S S T T T T T T T T S S 
+ 4	Minor	T T S 
+ 2	Minor	T T T D D D T T D 
+ 4	Major	T T T S T 
+ 11	Major	S S D T S S T 
+ 11	Major	T D T T S D T S S S D T 
+ 11	Major	S 
+ 4	Major	T T S T 
+ 11	Major	S S D T S S T 
+ 11	Major	T D T T S D T S S S D T 
+ 11	Major	S 
+ 4	Major	T T T T T S D T S D T D D 
+ 4	Major	T D S T S T D T T T D D T 
+ 0	Minor	T T T D T T 
+ 3	Major	T S S T D T 
+ 3	Major	T T T S 
+ 0	Minor	D T T 
+ 3	Major	T S S T D T 
+ 10	Major	S T S S S S D D T D T T 
+ 10	Major	T S T S D D T 
+ 10	Major	T 
+ 8	Major	D T D T T D D T T 
+ 8	Major	D T D 
+ 3	Major	S D D T 
+ 4	Major	T S T S S D 
+ 9	Major	D 
+ 9	Major	S D D T D S D D T 
+ 9	Major	T D S T S S S T 
+ 9	Major	T D T D D D S D T 
+ 9	Major	T S T S T T D T 
+ 9	Major	D D D T 
+ 4	Major	D T S D T 
+ 9	Major	T T S S T T S D T D D 
+ 9	Major	T D S T T S D D T 
+ 7	Minor	T S T S S D D T T S T 
+ 7	Minor	T S T D D T S T S 
+ 7	Minor	T 
+ 10	Major	T S S S S T T S S D D D T 
+ 10	Major	T T D D S T T D T T T T S S 
+ 10	Major	D T S S S D T T D T T S 
+ 10	Major	T 
+ 10	Minor	D D T D D S S T S D 
+ 10	Minor	T S D T S T D 
+ 10	Minor	T D T T T S T T S 
+ 3	Minor	D 
+ 3	Minor	T S D 
+ 10	Minor	T D D S T 
+ 10	Minor	T S T S T T T T T 
+ 10	Minor	T D T T T T S S T S D 
+ 10	Minor	T D T D T S T T S 
+ 3	Minor	D 
+ 10	Minor	S T T T T T T T S T T 
+ 10	Minor	D 
+ 3	Major	T D T T D T S S S S T 
+ 3	Major	T T T T S S T D S T S S S S T 
+ 3	Major	T S S T D T D T S S T 
+ 3	Major	D T T D T T 
+ 3	Major	D T S S S S T T T T T S S T D 
+ 3	Major	S T S S S S T T S S T D T D 
+ 3	Major	T S S T D T 
+ 3	Major	T S S S T 
+ 3	Major	D D T D D D T T S D T T S D 
+ 3	Major	T T T T T S D S S T D T 
+ 3	Major	D T S D T T T T T T 
+ 0	Minor	D 
+ 0	Minor	T T D D S T T D T S T S S D 
+ 0	Minor	T T T D T T 
+ 3	Major	S T S D 
+ 3	Major	T S D D T 
+ 2	Minor	T D D T T S S S T T T T T D T 
+ 2	Minor	T D S D D T S T T S S D 
+ 5	Major	T D T T S 
+ 9	Minor	D S S D D S D T S 
+ 9	Minor	D D T T S S T S D T S D T 
+ 9	Minor	D D T T T S S T 
+ 5	Major	D T T S D D T 
+ 5	Major	T S 
+ 2	Minor	S D S T T S S T T 
+ 2	Major	S S S T T S D T T D T D 
+ 7	Major	D 
+ 7	Major	T T S S T S D D T T D D D T 
+ 7	Major	T T T S D D T S D D D 
+ 2	Major	T D 
+ 7	Major	D 
+ 7	Major	T T S S T S D D T T D D D T 
+ 7	Major	D T D S T T S 
+ 9	Minor	T T T T D 
+ 4	Minor	T S 
+ 4	Minor	T D T T T T S S T T T T T T 
+ 4	Minor	D 
+ 7	Major	D T D T T S D T T S T S S D 
+ 7	Major	T T S S D T S D T T S S S D D T 
+ 0	Major	T D D S T D D T D S T D T 
+ 0	Major	T T T 
+ 5	Major	D D D S T D T D T T D 
+ 5	Major	T D T D T T S T S S T T T 
+ 0	Major	S T 
+ 0	Major	T T T T S S D T T D S S T D D T 
+ 7	Major	T D T S D D T T S 
+ 7	Major	S T D T 
+ 7	Major	T T T 
+ 7	Major	T T D D T S D T S S D 
+ 4	Minor	T 
+ 0	Major	T T T 
+ 2	Major	S S D S D 
+ 2	Major	T T S T S D T 
+ 4	Minor	T 
+ 4	Minor	T S D T S 
+ 2	Major	D D T T T D S S D D D T S T T D T 
+ 2	Major	T D D D T T 
+ 9	Major	D D T T S D D T 
+ 9	Major	S T S D T T D T T D S T T D 
+ 4	Major	D T 
+ 4	Major	S D T T T D T T S S S T D T S 
+ 2	Major	S 
+ 2	Major	D D T T S S D D T T D 
+ 0	Major	D T S D T T S S T D 
+ 0	Major	T D S T 
+ 7	Major	S T S T T 
+ 7	Major	D D T T S T D S D D 
+ 7	Major	T S 
+ 0	Major	T T T S S D T D T S 
+ 0	Major	T 
+ 9	Minor	D T S S D 
+ 7	Major	S 
+ 7	Major	T S T T D T T T T S D T S 
+ 7	Major	D T T T D T 
+ 6	Minor	T T T T T T D D T S S T T D D T 
+ 6	Minor	T S S T T D D T T T T S D T 
+ 6	Minor	D D T T D T S D T T S S D D T 
+ 6	Minor	T T S T T T D T T S T T T D 
+ 6	Minor	D D T T T T S S D D T T T T S T 
+ 6	Minor	T T T D D D D T 
+ 5	Major	T T T T D 
+ 5	Major	D D T S S D T 
+ 10	Major	T D T T T T T 
+ 5	Major	T 
+ 5	Major	T S S D D 
+ 5	Major	T T T T S D T T 
+ 0	Major	T 
+ 5	Major	T T T T D 
+ 5	Major	D D T S S D T 
+ 10	Major	T D T T T T T 
+ 5	Major	T 
+ 5	Major	T S S D D 
+ 5	Major	T T T T S D T T 
+ 0	Major	T 
+ 5	Major	D T D D T D 
+ 5	Major	T S D T S T T S 
+ 2	Minor	T D S D D 
+ 2	Minor	T 
+ 5	Major	S S D D T D T 
+ 5	Major	D D T S S D S D D D 
+ 5	Major	T 
+ 9	Major	T S T T D T D T T S S T T S T 
+ 9	Major	D D T S S T T T D S 
+ 9	Major	D S D T D T S D T T T S S T S S 
+ 9	Major	T S T S D T S D T T S T S T T S 
+ 9	Major	T T S S T S T T D D T S D T 
+ 9	Major	D D T T S T S S D D T 
+ 9	Minor	T T T S D D T S T T S S S S D 
+ 9	Minor	D T D T T S T S D D T 
+ 9	Minor	T T T S D D T S T T S S S S D 
+ 9	Minor	D T D T T S T S D D T 
+ 0	Major	T T D S T T S T D D S S T S T 
+ 0	Major	T S S T T S T S 
+ 2	Minor	T D 
+ 2	Minor	D 
+ 7	Major	T T T T S D T T S S D T 
+ 7	Major	S 
+ 9	Minor	D T S T T S S D S D T D 
+ 4	Major	T S D S T S D T T D 
+ 9	Major	S S D 
+ 9	Major	S S D D D T D D D T S D D T 
+ 9	Major	T D T S T D T S D D D S S D 
+ 9	Major	S S D D D T D D D T S D D T 
+ 9	Major	T T T S D S T T S S T S D T D 
+ 9	Major	T S D D T S T T S T D D D T D T 
+ 7	Major	T T T D T T S D T T S S D D T 
+ 7	Major	S S T T S S S T D T T D D D D T 
+ 7	Major	T T T D T T S D T T S S D D T 
+ 7	Major	S S T T S S S T D T T D D D D T 
+ 7	Major	T T T T D D T S T T T D T T D 
+ 7	Major	D D T T T D T S T T T T S S T 
+ 7	Major	T D T T S S T S D T T D D D D T 
+ 2	Major	T S S T S S T S S D D T 
+ 11	Minor	D T T T T S S S S D D T 
+ 2	Major	T S S T S S T S S D D T 
+ 11	Minor	D T T T T S S S S D D T 
+ 2	Major	T S D D T T T S S D D T T T S T 
+ 2	Major	T T S 
+ 6	Major	S S S S T T 
+ 9	Major	D D T T D S T T S S D T 
+ 9	Major	T 
+ 2	Major	S D S T T D D S 
+ 2	Major	D D T 
+ 2	Major	T D D T S D D T D S T D T 
+ 2	Major	T T T T 
+ 2	Major	T T D T S T D D D T 
+ 9	Major	S S S D D T D 
+ 9	Major	T T S T S D T 
+ 2	Major	T S D T T S D T S T S T 
+ 2	Major	D D T 
+ 0	Major	D S D 
+ 0	Major	T S D T T D D D T T D D T T 
+ 0	Major	T D T D T S D D S D 
+ 0	Major	T S D T T D D D T T D D T T 
+ 0	Major	T S S S T S 
+ 0	Major	D D T 
+ 0	Major	T T T S S D S S T T D 
+ 0	Major	T T T T S D T T S S S S T T 
+ 9	Minor	T 
+ 0	Major	T T T S D T S D D T T 
+ 0	Major	D D T 
+ 7	Major	T T T D T T S T S T T D D T 
+ 7	Major	S S D S S T T S S S T D T T 
+ 7	Major	T T T D T T S T S T T D D T 
+ 7	Major	S S D S S T T S S S T D T T 
+ 7	Major	T S S S S D D D T D T T S 
+ 7	Major	T D D T S D D T 
+ 2	Major	T S S D 
+ 7	Major	S D 
+ 7	Major	T T S S T S D D T S S S D T 
+ 7	Major	T D T D T T S T S S T T T S 
+ 7	Major	D D T 
+ 2	Major	T S T S S D D T T S D T 
+ 2	Major	S T S T T 
+ 7	Major	T S T S S T T T S 
+ 7	Major	D D T 
+ 2	Major	T S T S S D D T T S D T 
+ 2	Major	S T S D T T D 
+ 7	Major	S D T T S D 
+ 7	Major	T D T S T D S T T S D T S D T 
+ 7	Major	T T D T S D T T S D S S T S D T 
+ 7	Major	T D D T S S S S T 
+ 7	Major	T T D T T D D T S S S T S D D T 
+ 7	Major	T D D T S S S S T 
+ 7	Major	T T D T T D D T S S S T S D D T 
+ 7	Major	D S D T D D T T T 
+ 2	Major	S T 
+ 2	Major	T T S 
+ 7	Major	S D T T T S D S D 
+ 7	Major	T S S T T T S S T T S 
+ 7	Major	T T D D T S D T D D T 
+ 5	Major	T T T S D S T D T S D 
+ 5	Major	T T S D S D D T T D T T S S S T 
+ 5	Major	D T T T T D D D T T S T 
+ 2	Minor	D T 
+ 2	Minor	D T T S S D D T T S 
+ 5	Major	D 
+ 5	Major	D D T T T T S S D D D T T T T T S 
+ 2	Minor	S 
+ 2	Minor	T T S D 
+ 7	Major	S T S 
+ 7	Major	T S D T T D T T S D D T 
+ 7	Major	S T S T T S S D D T 
+ 7	Major	S D T S S 
+ 0	Major	T S D D D T 
+ 0	Major	S T S S T D T S S S D D T 
+ 0	Major	S D S D T T S 
+ 9	Minor	T S D D T 
+ 9	Minor	T 
+ 0	Major	S T S S T D T S S S D D T 
+ 0	Major	S D S D T T S 
+ 9	Minor	T S D D T 
+ 9	Minor	T D T D D S S T T T 
+ 7	Major	S T 
+ 7	Major	S S D T D T S S T T S S S D D T 
+ 7	Major	S S T S D T S S D S T T T 
+ 0	Major	T D S T T D T T S S D T 
+ 0	Major	S D 
+ 9	Minor	S S T T S T S D D T 
+ 9	Minor	T 
+ 0	Major	T D S T T D T T S S D T 
+ 0	Major	S D 
+ 7	Major	D T S S D T T T T S 
+ 7	Major	T S 
+ 9	Minor	S T T D 
+ 9	Minor	T 
+ 7	Major	S D T D T S S T T S T S T S 
+ 7	Major	D T 
+ 0	Major	S S T T S 
+ 2	Major	S T S S T D T S D D T 
+ 2	Major	S D 
+ 11	Minor	S S T D S T S D D T 
+ 11	Minor	T 
+ 2	Major	S T S S T D T S D D T 
+ 2	Major	S D 
+ 2	Major	T S T D T 
+ 2	Major	D T 
+ 11	Minor	D D T D D S T T T D 
+ 11	Minor	T T S 
+ 9	Major	T D T S S T S D D T 
+ 9	Major	D T T D T S S D 
+ 11	Minor	T S D D T 
+ 7	Major	T T T T T T T S S D D T T 
+ 7	Major	T T T T S D T T S S D D D T 
+ 7	Major	D D D S T 
+ 4	Minor	D D T T T S S D D D T 
+ 4	Minor	T T T T D D D 
+ 11	Minor	T S S T 
+ 7	Major	D T T 
+ 7	Major	T D T T S D T T S S D D D T 
+ 7	Major	S D S T T S S 
+ 0	Major	T T T D T 
+ 9	Minor	T 
+ 9	Minor	T D T D T S T T S D T T 
+ 2	Minor	D T D D T T T T S S D D S T T 
+ 0	Major	D T D D T T T T S S D 
+ 9	Minor	S T T T 
+ 9	Minor	T S S D D T T T D D S 
+ 7	Major	T T T T S S D T S D T T S T 
+ 7	Major	T D T S D T S T S D D T S S D T 
+ 7	Major	T T T T S S D T S D T T S T 
+ 7	Major	T D T S D T S T S D D T S S D T 
+ 7	Major	T T D D T T S S T T S D S S T T T S 
+ 7	Major	D T T S S T T S 
+ 4	Minor	S T D S 
+ 7	Major	T 
+ 7	Major	T S D D T T S T S D D T S S D T 
+ 2	Major	T T T S S T T T S D T T S 
+ 2	Major	D T T D D T D S 
+ 2	Major	T S D S D 
+ 11	Minor	S D S D T T S 
+ 11	Minor	D D T T 
+ 2	Major	T T S S T T 
+ 2	Major	T S D T T S D T 
+ 2	Major	T D D T D S T S D S D 
+ 11	Minor	S 
+ 11	Minor	D S D T T S D D T 
+ 11	Minor	T S S D T T T T S D T 
+ 11	Minor	T T 
+ 4	Minor	S D T D T T T D 
+ 4	Minor	T D T S D T S 
+ 4	Minor	D T S T T D 
+ 2	Major	S S S D 
+ 2	Major	T T T D T T S 
+ 11	Minor	S T T T D T T S S D T T S 
+ 11	Minor	D 
+ 2	Major	T T S T S S D D D D T T 
+ 2	Major	T T T S D T S T D T T T 
+ 2	Major	T T S T S S D D D D T T 
+ 2	Major	T T T S D T S T D T T T 
+ 2	Major	D D T T T D T D 
+ 11	Minor	T D D 
+ 11	Minor	S S S S T T T T T D D T T 
+ 2	Major	T T S S D T T S S D 
+ 2	Major	S T T S D T S S D T T T 
+ 7	Major	T T D D T T S D D T T 
+ 7	Major	T T T T D D D D T 
+ 2	Major	S S D D T T 
+ 2	Major	T T T T S T T T D D D T T T 
+ 2	Major	T 
+ 7	Major	D D D T D T T S S S D D T T 
+ 2	Major	S S S S D D T T S S S D D T T 
+ 2	Major	S S T T S 
+ 7	Major	D T S T D T T T 
+ 7	Major	T T T D D T T T D D T 
+ 7	Major	D T S S T T D D D T 
+ 7	Major	T T T S D T T D D 
+ 7	Major	T T T S D T T D D D T S T S S D 
+ 7	Major	D T S S T D D D T 
+ 5	Major	T D T T S D T S D D D T 
+ 5	Major	T T S S T S 
+ 9	Minor	S T S D 
+ 2	Minor	T D 
+ 2	Minor	D T T T T S S S S D T D D T 
+ 2	Minor	T T D D T T S S T T T T D 
+ 4	Minor	T T T D D T T D 
+ 4	Minor	T T D S T S S D 
+ 7	Major	T S D D 
+ 7	Major	T S D T D D T T S T S S D 
+ 7	Major	T D T 
+ 4	Minor	D T T S S T 
+ 4	Minor	T T T T T T D T 
+ 4	Minor	S D T T T D D S S 
+ 4	Minor	T T T T D T T T T T T D 
+ 4	Minor	T T T T D D T D T T S S D 
+ 7	Major	T S S D D T S D T S T T D T 
+ 7	Major	D T T S S T T S S D T D T 
+ 7	Major	T S S D D T S D T S T T D T 
+ 7	Major	D D T T S S T T S S D T D T 
+ 7	Major	T D D T T S T D D T T T D T 
+ 7	Major	S S T T S S T T S T T D D S S D 
+ 7	Major	T T T T S 
+ 9	Minor	D S T D T T T D 
+ 9	Minor	D D T T T T S T S S T T T D T 
+ 9	Minor	T T D D S S D D T 
+ 7	Major	S D D T S T 
+ 7	Major	T T T S D D T T T S T D T T S T 
+ 7	Major	S S D S D D T 
+ 7	Major	T T T T T T T S S D S D T S T 
+ 7	Major	S D T T D S D S T D S S D D 
+ 7	Major	T T S 
+ 2	Major	T D T T T S D T D T D T 
+ 2	Major	T T S S S 
+ 4	Minor	T S S T T S S D D D 
+ 4	Minor	D D T D T 
+ 7	Major	T S S S D D D T T T S D S D D 
+ 7	Major	T T S S D D D T 
+ 7	Major	T T S T D T T D T S T 
+ 7	Major	S D T D T D T D 
+ 7	Major	T S D D T T T S T 
+ 7	Major	D T T D T S T S D T D 
+ 7	Major	T D T D T S D D 
+ 7	Major	T T T T S D T T T T T D 
+ 7	Major	T D T T T T S T 
+ 7	Major	T T T D T T T T S T 
+ 7	Major	D D T T D T T D D T T S D 
+ 7	Major	T T D T D D S S T T 
+ 7	Major	S D D T 
+ 11	Minor	T T T S T S S T T S S S S D 
+ 11	Minor	D T T T T T T D D T 
+ 11	Minor	T T T S T S S T T S S S S D 
+ 11	Minor	D T T T T T T D D T 
+ 11	Minor	T T S S D T S S S 
+ 2	Major	D T T S T 
+ 2	Major	T 
+ 4	Minor	S T T S D T T T T D 
+ 4	Minor	D 
+ 9	Major	T T T T S D T T S S D T 
+ 9	Major	S S S 
+ 2	Major	T S T S D T S D T 
+ 2	Major	T T T T 
+ 11	Minor	T T T D D T 
+ 2	Major	T S T S D T S D T 
+ 2	Major	T T 
+ 11	Minor	T T T T T D D T 
+ 2	Major	T T D S T D S T D D S T S T 
+ 2	Major	T S 
+ 4	Minor	D S S D D T T D 
+ 4	Major	D 
+ 9	Major	T T T T S D T S D T 
+ 9	Major	S S D T S 
+ 11	Minor	T D S D S T T T T D 
+ 5	Major	T D T S D T T S D T T 
+ 5	Major	D S T 
+ 9	Minor	T T T T 
+ 5	Major	T D T S D T T S D T T 
+ 5	Major	D 
+ 9	Minor	S T T T T T 
+ 9	Minor	T T S T T S S D 
+ 5	Major	S D D T D T 
+ 5	Major	T T S S D D T D T 
+ 5	Major	T T T 
+ 2	Minor	T S D T T T S T T T T D 
+ 2	Minor	T S S T T T D D T 
+ 10	Major	T T S T S D D T T S S T S D T 
+ 10	Major	T T T D T S D D T T S S S D D T 
+ 10	Major	T T S T T T D D D D D T T D D T 
+ 10	Major	T T T T T D D D D D T T S 
+ 7	Minor	D T D 
+ 7	Minor	T D T S T D T D T S T D T 
+ 2	Minor	T T S S S D T D T D T S S T T T T D 
+ 2	Minor	T T T T T T S T T D D T 
+ 2	Minor	T S D S D 
+ 5	Major	D D D S T 
+ 2	Minor	T D T T S S T 
+ 2	Minor	D D T T S S T T T T T S T D T T T D 
+ 2	Minor	T S T T S 
+ 7	Minor	D T T T D T D 
+ 5	Major	T T T S D D T D T 
+ 2	Minor	T T T T 
+ 2	Minor	T T D D D T S T S T T T T D 
+ 5	Major	D S 
+ 5	Major	T D S D D D S S T T T T T D D T 
+ 5	Major	T D T D T T D T 
+ 2	Major	T S T T S S T S S T T D T 
+ 2	Major	D 
+ 5	Major	T S T D T 
+ 5	Major	T S T T D D T T T T T D T D S 
+ 5	Major	T T S S S D D T S T T T T T S D T 
+ 5	Major	T D S S S S 
+ 2	Minor	S S T T D T T T T D T T D 
+ 2	Minor	T T T T S 
+ 9	Minor	S S S D T S T T S D T T S D D T 
+ 2	Minor	D T T S S D D T T D T T D T 
+ 2	Minor	T T T T D 
+ 9	Minor	S T T S D T T S 
+ 2	Minor	D D D 
+ 2	Minor	D T T S S D D T T D T T D T 
+ 2	Minor	T T T T S D S S T 
+ 5	Major	T S D T 
+ 5	Major	T D T S D 
+ 9	Minor	T S S D D T T S D T 
+ 9	Minor	S T T T 
+ 5	Major	T T S D 
+ 2	Minor	S T T S T T T 
+ 2	Minor	T T S S T T T D T T 
+ 11	Minor	S S D T S T T T S D T T S 
+ 4	Minor	T T T D 
+ 4	Minor	D D T T S D S T D T T T T T D D T 
+ 4	Minor	T 
+ 11	Minor	S D T S T T T S D T T S 
+ 4	Minor	T T T D 
+ 4	Minor	D D T T S D S T D T T T T T D D T 
+ 4	Minor	T T T T S T S D T S T S D 
+ 4	Minor	D D T T T D 
+ 11	Minor	T S S D 
+ 7	Major	S S T T S 
+ 2	Major	T T 
+ 2	Major	D T T S T S S T T S S T T D 
+ 2	Major	T S D T S S T 
+ 7	Major	S D 
+ 9	Minor	D D D T D 
+ 9	Minor	D T D T T S D D T 
+ 9	Minor	T T D T S D D D T D 
+ 9	Minor	D T D T T S D D T 
+ 9	Minor	T S S T S D T S D 
+ 9	Minor	D T D T D T T S 
+ 9	Minor	S S T T T T S D S T D 
+ 9	Minor	D T D T T S D 
+ 9	Minor	T S S T T T T T T D T T 
+ 9	Minor	D 
+ 2	Minor	D S S T T S S T T T D T 
+ 2	Minor	T T T T D T D 
+ 9	Minor	D T T D T T 
+ 9	Minor	D 
+ 2	Minor	D S S T T S S T T T D T 
+ 2	Minor	T D S T D 
+ 9	Minor	D T T T T T T D T 
+ 9	Minor	T T T D T D T T S S D D D T 
+ 9	Minor	D T 
+ 2	Minor	D T S T T S S D D T D 
+ 2	Minor	T D T T S T T T T S S D D D T 
+ 2	Minor	T S T S S D D T 
+ 5	Major	T T D T S D T D D T 
+ 5	Major	S T S D T T D D T 
+ 5	Major	T S S D D D T T T T T T S D 
+ 5	Major	T S D T S D D T 
+ 7	Major	T T D T T S T T 
+ 7	Major	T D T D T S 
+ 0	Major	T 
+ 5	Minor	T 
+ 9	Minor	S 
+ 9	Minor	T T T 
+ 7	Major	S D D D 
+ 4	Minor	T D 
+ 4	Minor	T S T S S D 
+ 7	Major	T S D 
+ 7	Major	T 
+ 2	Major	S T S T S D S D D D T 
+ 2	Major	S S D T S S S T 
+ 7	Major	T D T 
+ 9	Minor	D T D T T T T T T D T T T D 
+ 9	Minor	T S D D T T S T S D T T T D 
+ 9	Minor	T T S T 
+ 2	Minor	D T T D D T T D 
+ 2	Minor	T S D D T T S T S D T T D 
+ 2	Minor	T D T T T D T D S T 
+ 0	Major	S S T T S 
+ 0	Major	T T S S S D D T T S D T T S D T T 
+ 0	Major	D T S D D T T S 
+ 2	Minor	D T S T T 
+ 2	Minor	T D T T S S T T D T D D T 
+ 0	Major	T D T S D D T T S S T 
+ 7	Minor	S S T 
+ 7	Minor	S S T S D D T T T S D 
+ 7	Minor	T T S S T T T D D T S T S 
+ 0	Major	T 
+ 0	Major	T D D D D T T D T S 
+ 5	Major	T T D S D T D 
+ 5	Major	T T S D T D D T T S S T T T 
+ 5	Major	S 
+ 10	Major	T T D D T T S T S S D D 
+ 10	Major	T T D D T T S D T T S S 
+ 10	Major	D 
+ 0	Minor	T T D D T T D T T T T S T 
+ 0	Minor	D T T T T T T D D T T T S D 
+ 0	Minor	D D T T T S D T S D D T T T 
+ 0	Minor	T T T T S S S D T S S S D 
+ 3	Major	S D D D T 
+ 3	Major	T S T D T T S T D T T D 
+ 0	Minor	T 
+ 0	Minor	T T S D T T S S T S T T T D T T 
+ 9	Minor	T T D T T S D T T D T T D D 
+ 9	Minor	T T T D D D D D T T S 
+ 9	Minor	T T T D T T S S T S T 
+ 5	Major	D T T T T S S D T S S D T 
+ 5	Major	T D D T T D D T D T 
+ 5	Major	D T T T T S S D T S S D T 
+ 5	Major	T D D T T D D T D T 
+ 5	Major	D S D D T T S S D D T T T S D 
+ 5	Major	D T S D 
+ 0	Major	T S S D T D T 
+ 0	Major	T S S S 
+ 5	Major	S T T S T S D T 
+ 5	Major	T T D D T T D D T D T 
+ 2	Minor	D D T T S T D D T T S S T D T 
+ 2	Minor	T T T T S S D D T T D S S S D T 
+ 2	Minor	T T T D T T T T T D 
+ 9	Minor	T D D T 
+ 9	Minor	S T T S D T S T D 
+ 2	Minor	T S D T 
+ 2	Minor	S S T D D T D D S T D T T T T D 
+ 9	Minor	T T T D S S T T T D T 
+ 4	Minor	D D T T S S D T T D D S D T 
+ 4	Minor	T T T S S D D D S S S D T 
+ 4	Minor	T T D 
+ 11	Minor	S S S T T D D T 
+ 11	Minor	D T T T D T T S T D S T T S 
+ 4	Minor	T 
+ 11	Minor	T T T D D T S S S S T T 
+ 11	Minor	D T S T T T D T T 
+ 2	Major	T T T T T T S T S S T T T T 
+ 2	Major	S D T T T D T T T T 
+ 2	Major	T T T T D D T T S D D T 
+ 2	Major	T T T T T T S T S S T T T T 
+ 2	Major	S D T T T D T T T T 
+ 2	Major	T T T T D D T T S D D T 
+ 2	Major	T S S D D T T D D D D T T T S 
+ 2	Major	S 
+ 9	Major	T T T S T T D D S D T D 
+ 9	Major	S T S D D T T T S S S 
+ 2	Major	T 
+ 2	Major	S T S S D S D D T T D D T T S 
+ 2	Major	S S T S T 
+ 4	Minor	T S T S T S D D 
+ 4	Minor	T 
+ 2	Major	D T T T T T T S S D S 
+ 2	Major	D S T D T 
+ 7	Major	T D S T 
+ 9	Major	S S S D D 
+ 9	Major	S D T T S T S D D T T T 
+ 9	Major	S T S D T S T D 
+ 2	Major	S T D D D T 
+ 2	Major	T D T T S S T T D D T T 
+ 2	Major	S S D T 
+ 5	Major	T T T T D T T T D T 
+ 5	Major	T T D D T S T D T T D S S D 
+ 5	Major	D T T T T T S S T T S D T T T D D 
+ 5	Major	D T T T S T D T T S S D D D T 
+ 5	Major	T T T D T D T T D D S D 
+ 5	Major	T T D D S S D D T S D T S D T 
+ 5	Major	D T T T T D D T T 
+ 5	Major	S T D T T D S 
+ 0	Major	D T T D D T 
+ 2	Minor	D 
+ 2	Minor	D D D T D T T T T S S T T S S 
+ 2	Minor	D 
+ 0	Major	T D D T S D D T T S T T 
+ 0	Major	T T S D S T S D 
+ 7	Major	T T S S D D D T 
+ 7	Major	T 
+ 0	Major	T T T T S D T S D T D T 
+ 0	Major	S S D T D S D T T T S S D D D T 
+ 0	Major	T D D T S D D D T T S S S D 
+ 0	Major	T T T S T T D T T D D D T 
+ 0	Major	S S T T T S S T T S D S D D D T 
+ 7	Major	D D T 
+ 7	Major	D T S T T T D 
+ 0	Major	S T D T S S D 
+ 0	Major	S S D T T S S S D D T T S 
+ 7	Major	D S 
+ 7	Major	D D T S T T T D D T T S D D T 
+ 7	Major	T T T S S S D T T S S D D D T 
+ 7	Major	D S T S S D T D T T D D T 
+ 7	Major	T T T T S S S D T T S S D D D T 
+ 7	Major	D S T S S D T D T T D D T 
+ 7	Major	T D D T D T S T D T T S D 
+ 7	Major	D D T T T T S S D D T T D D D T 
+ 7	Major	S S D T T S S S D T S D S D 
+ 7	Major	T T S S S D T T S S D D D T 
+ 2	Major	T T T T D D T S T D D D T 
+ 2	Major	S S S 
+ 7	Major	S S D D T T D D T 
+ 2	Minor	T T T T T T D D T T T T T S S 
+ 2	Minor	S T T 
+ 5	Major	T T D D T T S S 
+ 5	Major	D S D T T S D T T T D 
+ 5	Major	T T T T D S D S D 
+ 2	Minor	S D T T T T 
+ 2	Minor	T T D T T T D T S 
+ 2	Minor	D T D D T T S D 
+ 7	Major	T D T S D T S 
+ 7	Major	D S T 
+ 9	Minor	T T S D D T 
+ 9	Minor	T T 
+ 0	Major	T T T S S T S T S 
+ 7	Major	T T S D T T D D T 
+ 7	Major	T D D T T S T S 
+ 7	Major	S D T T S T S D 
+ 7	Major	T S S T S D D D D T 
+ 2	Minor	T T 
+ 9	Minor	D D S S T T D D T S 
+ 9	Minor	T S T D D D D T S S 
+ 2	Minor	S T T D 
+ 2	Minor	D D T T T S S T D S S S D 
+ 5	Major	D D T 
+ 5	Major	S S T T T T T D T T D T 
+ 5	Major	S D T T T S S T D T T T 
+ 5	Major	S S D D T 
+ 0	Major	D D T T T D T T T T D D D T D T 
+ 0	Major	S T S T S D S S T T D S T D T 
+ 0	Major	S S S S S D T T T T T 
+ 7	Major	D D S D T 
+ 7	Major	D S T T S S T T D T 
+ 10	Major	S D S S T T 
+ 10	Major	T T S D D D T D T D D T T 
+ 10	Major	D T D T T D S T S T S D 
+ 10	Major	T T T D T T S S D S S T T 
+ 10	Major	T T S D D D T D T D D T T 
+ 10	Major	D T D T T D S T S T S D 
+ 10	Major	D D T D D T T S S S S T S 
+ 0	Minor	T 
+ 0	Minor	S D T T 
+ 10	Major	S D T D S D 
+ 10	Major	T T T S S S T T T D T T 
+ 4	Major	T S S T S S D D T T D 
+ 4	Major	D D T T D D T D T S T D D D T 
+ 4	Major	T S S S T S 
+ 9	Major	D T T S D T S D 
+ 9	Major	T D D T S D D T T S S D T 
+ 4	Major	S T S S D T S D T T S D D 
+ 4	Major	T S T T S S T 
+ 9	Major	D T T D D 
+ 9	Major	T 
+ 4	Major	S T S S D T 
+ 4	Major	S D T T S D D T S T T 
+ 4	Major	S S T 
+ 9	Major	D T T D D T 
+ 9	Major	T S 
+ 11	Minor	T S S T T D D T S D 
+ 9	Major	T D T T S S D T S D T S D 
+ 9	Major	T T D 
+ 6	Minor	D T T D D T T S S T T T D 
+ 6	Minor	T T S D 
+ 9	Major	T S D T T D D T T T 
+ 9	Major	D D D D D T 
+ 7	Major	T T T S S T S D T 
+ 7	Major	T T T T T S D T T D D D D T 
+ 7	Major	T D D T T T S 
+ 4	Minor	S D 
+ 4	Minor	T T T T T T S 
+ 11	Minor	D S T T T T S 
+ 11	Minor	T T T D T T S 
+ 7	Major	S D 
+ 7	Major	D D D T S D T 
+ 7	Major	T T T T T T S D T D 
+ 7	Major	D D T 
+ 4	Minor	T D D T T T D D T 
+ 2	Minor	D T D D 
+ 2	Minor	D T T T T S D T T S D T T 
+ 2	Minor	T T T D T 
+ 9	Minor	T S S 
+ 9	Minor	D D T 
+ 2	Minor	D T D D D T T T T 
+ 2	Minor	S D T T S D T T T 
+ 5	Major	T D D T T T T S D T T S S D D D 
+ 5	Major	T T D D T T T T S S T T 
+ 5	Major	S S S D D T T T S D D T 
+ 2	Minor	T 
+ 2	Minor	T T T T D T D T T S S T T 
+ 2	Minor	S S D 
+ 2	Major	T T T T D T 
+ 9	Major	S T S S D D D T 
+ 9	Major	S D T S 
+ 2	Major	S T T S T D T D D T 
+ 2	Major	T T T T D T T D T 
+ 9	Major	S D D D T 
+ 9	Major	S 
+ 2	Major	S D S S T T S T D T D D T 
+ 2	Major	T S T S T D T S D T T 
+ 2	Major	T T S S D T T T S D T S D 
+ 2	Major	S S S 
+ 4	Minor	T S S D D T D 
+ 2	Major	T T T 
+ 2	Major	S S T D S T D D T T T S D D T 
+ 2	Major	T D T S T S T T D D T D T S D 
+ 2	Major	T T D T S S T T S T S T D D T 
+ 2	Major	T D T S T S T T D D T D T S D 
+ 2	Major	T T D T S S T T S T S T D D T 
+ 2	Major	T S T T S S D T S S D T S T 
+ 2	Major	S D T T T S D T S D S S S S 
+ 2	Major	T T T 
+ 4	Minor	D T 
+ 2	Major	T T S D D S S D D 
+ 2	Major	T D S S D D T 
+ 2	Major	T T T S T S T D S T D T T 
+ 2	Major	S T S T S S D T T D T T 
+ 2	Major	D T T T T S S D D T T T 
+ 2	Major	S S D D S S D D T T D T T 
+ 2	Major	T T T T T T T S D T D D 
+ 2	Major	D D S S S S S S 
+ 4	Minor	D 
+ 2	Major	D T S T T S T 
+ 2	Major	S T S S D T D D T T S T S D 
+ 2	Major	T T T D T T T T T S D S 
+ 2	Major	D T D S S S D T T T S S 
+ 2	Major	S T S S D T T D T T S T T D D 
+ 2	Major	T 
+ 9	Minor	D D D D D T T S D T 
+ 0	Major	T S T T T 
+ 0	Major	T D T T S T D T T S S T T T S D S T 
+ 0	Major	T T 
+ 9	Minor	D D D T T S D T 
+ 0	Major	T S T T T 
+ 0	Major	T D T T S T D T T S S T T T S D S T 
+ 0	Major	T T S S S S D T D T S D D D T S S D 
+ 0	Major	T T T T T T S 
+ 9	Minor	D T T T T S S T 
+ 0	Major	T 
+ 0	Major	T T S S S S S D D T T S S D D D T 
+ 0	Major	T D T D T S D D T T T T S S 
+ 0	Major	T T T S D S D 
+ 5	Major	T T T T D T S D D T D D T T 
+ 5	Major	T T S 
+ 2	Minor	T T T T T 
+ 2	Minor	D T D D S S T T T T T S S S D 
+ 2	Minor	T D 
+ 5	Major	T T D D D T T T T S D S S 
+ 5	Major	S S D D T T T S S D T S D 
+ 5	Major	T T T T D D T T S S D D T 
+ 10	Major	T S T T T T D D T T S S D D T 
+ 10	Major	T T T S S D D T S D D T 
+ 10	Major	T S T T T T D D T T S S D D T 
+ 10	Major	T T T S S D D T S D D T 
+ 10	Major	T T T T D D T T D D T S T T D 
+ 10	Major	D 
+ 7	Minor	T T T D T T T D T D S D 
+ 7	Minor	T T T T 
+ 10	Major	S T T T S D D T 
+ 10	Major	T T D S T T T T D T T S 
+ 10	Major	D T D T T S D T T D T 
+ 10	Major	T T D S T T T T D T T S 
+ 10	Major	D T D T T S D T T D T 
+ 5	Major	S D T S T D S S T T T D T D T 
+ 5	Major	T T S 
+ 10	Major	S D D T T S D T T D D T 
+ 10	Major	D D T D S D D T T D T T D T 
+ 7	Minor	T T T T T D D T T S T D T 
+ 7	Minor	T T D T T S S D D T T T D 
+ 7	Minor	T S S T T T T D T 
+ 7	Minor	T T T T T D D T T S T D T 
+ 7	Minor	T T D T T S S D D T T T D 
+ 7	Minor	T S S T T T T D T 
+ 7	Minor	T T T T T T D T T S T S S D 
+ 7	Minor	T T T T T T D S T T T T T S S D 
+ 0	Minor	T S S T 
+ 7	Major	S T T T S S D T 
+ 7	Major	D D T S D D T 
+ 0	Major	T T T S D D T T D T S 
+ 0	Major	T T T T T D T S T S S D T 
+ 0	Major	T T T S D D T T D T S 
+ 0	Major	T T T T T D T S T S S D T 
+ 0	Major	T S D S T T T T D T D T T T D T 
+ 7	Major	S 
+ 7	Major	T S S S S S D T T T D T T D D T 
+ 7	Major	T T S S T T S 
+ 0	Major	T D T S S T T T S S 
+ 0	Major	T T D T 
+ 7	Major	T D T T T S D D T T S S D T 
+ 7	Major	S D S D T S D D D T T D D 
+ 7	Major	T 
+ 2	Major	S T T S D T T S D S D D D T 
+ 2	Major	S S 
+ 4	Minor	D T T T S S D D D T 
+ 4	Minor	D D T S T T D D T 
+ 11	Minor	D T D D S D T S S T T S 
+ 11	Minor	T D 
+ 2	Major	D T T D T 
+ 2	Major	S S D T S T S 
+ 11	Minor	S D 
+ 11	Minor	D T D D S D T S S T T S 
+ 11	Minor	T D 
+ 2	Major	D T T D D T 
+ 2	Major	S S D T S T S 
+ 11	Minor	S D 
+ 11	Minor	D T T T D D D T T S D 
+ 11	Minor	D T T S T S T S S T D 
+ 11	Minor	T 
+ 9	Major	D D T S D T D D T S T T S 
+ 9	Major	T T T S D D T S T T S D T T D 
+ 9	Major	S 
+ 2	Major	S D T S S T S T T D S D 
+ 2	Major	T T 
+ 11	Minor	D T D 
+ 9	Minor	T S D T S D T S S D T S S 
+ 9	Minor	T T T D S S T T D D T D 
+ 9	Minor	T T D T S S S D D T T S D T S 
+ 9	Minor	D T S S D T S S T T T D 
+ 9	Minor	S S T T D D T D T 
+ 0	Major	S T T S D D T 
+ 0	Major	T 
+ 9	Minor	D T S T T S S T D T T S S T D 
+ 9	Minor	D T T T T S T T T S T T S S T D 
+ 9	Minor	T 
+ 7	Major	S T S T T T T D 
+ 9	Minor	S D T S S T T 
+ 9	Minor	S S T T T T D T S D T T S D T 
+ 0	Major	T S D D T S T D T S D 
+ 9	Minor	T S S T D D 
+ 9	Minor	T T T D D D 
+ 7	Minor	T D T T T D T D T S T T 
+ 10	Major	T T T T 
+ 10	Major	T D T T T T S D S T T S S D T 
+ 10	Major	T 
+ 7	Minor	D T T T D T D T S T T 
+ 10	Major	T T T T 
+ 10	Major	T D T T T T S D S T T S S D T 
+ 10	Major	T T S S S 
+ 7	Minor	T T D D T S T D D S T T T D 
+ 7	Minor	D T D T T S S D T S S T T S S 
+ 7	Minor	D S T 
+ 2	Major	T T D T S S D D D T D T D D T 
+ 2	Major	D T S T 
+ 9	Major	S D D T T D D T 
+ 9	Major	S S S D T 
+ 4	Major	S S S T T D T D D T 
+ 4	Major	S S D T D T T S T 
+ 9	Major	T S T S S 
+ 9	Major	T S D T S T T S T T S T 
+ 4	Minor	T T T S T S T D T S T T T T T T T 
+ 4	Minor	T S T 
+ 7	Major	S S T T S S D T D D 
+ 7	Major	T D S D D T T 
+ 4	Minor	T T S T S T D 
+ 4	Minor	T S T T T T T T T T S T 
+ 7	Major	S S 
+ 7	Major	T T S S D T D D T D S D D T 
+ 7	Major	T D D T S D D T S T 
+ 9	Minor	S T D T S 
+ 9	Minor	T T D D D 
+ 4	Minor	S T D T D S T 
+ 4	Minor	S S S D T D T S S S S S S 
+ 4	Minor	T S T T D T T 
+ 7	Minor	T T T S T S D T T S S S D D D T 
+ 7	Minor	S S D 
+ 5	Major	D T T S S T 
+ 7	Minor	D T D T T D 
+ 7	Minor	T S S T T D D T T S S D D D T 
+ 7	Minor	T T T S T S D T T S S S D D D T 
+ 7	Minor	S S D 
+ 5	Major	D T T S S T 
+ 7	Minor	D T D T T D 
+ 7	Minor	T S S T T D D T T S S D 
+ 10	Major	T T T 
+ 10	Major	D D T T S D T T T D T T S D D T 
+ 10	Major	T D T S D T S D T T T 
+ 7	Minor	D D T 
+ 2	Major	T T S S D T D T S D S 
+ 2	Major	T D D T T S D T T D D D T 
+ 2	Major	T T S S D T D T S D S 
+ 2	Major	T D D T T S D T T D D D T 
+ 2	Major	T D D T T T D T T S T 
+ 9	Major	D D 
+ 9	Major	S T S S T T T T S T D D T T T 
+ 9	Major	S 
+ 2	Major	T T D D T T T T S S S T D D 
+ 2	Major	T T S D T T S S T T D D T 
+ 2	Major	T D D T T T D T T S T 
+ 9	Major	D D 
+ 9	Major	S T S S T T T T S T D D T T T 
+ 9	Major	S 
+ 2	Major	T T D D T T T T S S S T D D 
+ 2	Major	T T S D T T S S T T D D T 
+ 2	Major	T D D T T T D T T S D T T T 
+ 2	Major	T S T D T T S S T T D D T 
+ 7	Major	T S D T T D S T T D T S D 
+ 7	Major	S 
+ 2	Major	D T T S T S S D 
+ 7	Major	D 
+ 7	Major	S D T T S T T D D 
+ 2	Major	T 
+ 2	Major	T D S T T S D D D T T T D 
+ 2	Major	T S 
+ 0	Major	T S D T 
+ 0	Major	S 
+ 7	Major	T S S T T T D D T T S S 
+ 7	Major	T T D D T 
+ 7	Major	T T T S D D T T S S S T D T 
+ 7	Major	T T D T S T 
+ 4	Minor	D T T T D T 
+ 4	Minor	T T S T T T D T T T T T D D T 
+ 4	Minor	D S S T T D D T T T T D D T 
+ 4	Minor	T D T S S T T T T T T T T S T 
+ 4	Minor	S S D 
+ 2	Major	T S T T S D T T D D T 
+ 2	Major	S T S S D 
+ 7	Major	D T T D D T 
+ 7	Major	T 
+ 2	Major	T S T T S D T T D D T 
+ 2	Major	S 
+ 7	Major	D T T S D T T D D T 
+ 7	Major	T T S D S S T D D T 
+ 7	Major	T T T T S S D D S S T S D 
+ 7	Major	T T T T S D T D S T D T T T T 
+ 7	Major	S T T D S D T S D T T 
+ 7	Major	D D D T 
+ 5	Major	T T S D D D T S 
+ 5	Major	T S T S D D S D T 
+ 5	Major	T T T S T T D T 
+ 5	Major	D D T S T D T T S S 
+ 5	Major	D T T D T T S D 
+ 5	Major	D D T S S S 
+ 2	Minor	T T 
+ 2	Minor	S S S D D D T T S 
+ 2	Minor	T D S T D S S T T D T T 
+ 2	Minor	D 
+ 7	Minor	D D T S T 
+ 7	Minor	D T T T D T T 
+ 0	Major	T T 
+ 0	Major	S T D T S T 
+ 5	Major	D S D 
+ 5	Major	D T T T S S T 
+ 5	Major	S D T D D D T T 
+ 5	Major	T S D T T T S T D T T 
+ 10	Major	T T T S D T 
+ 5	Major	D T 
+ 5	Major	S D T T S S T S S D 
+ 5	Major	D T S D S D T 
+ 5	Major	S 
+ 10	Major	T T S D T 
+ 5	Major	D T 
+ 5	Major	S D T T S S T S S D 
+ 5	Major	D T S D S D T 
+ 5	Major	T D D 
+ 10	Major	D D T S D S 
+ 10	Major	D T T T D T S 
+ 10	Major	D D T T D D D T 
+ 0	Major	D T D D T D T S S T T T 
+ 0	Major	T 
+ 7	Major	T S S T D D D D D T D 
+ 0	Major	D 
+ 0	Major	S T D D T T S S T S S S D D T 
+ 0	Major	D T D D T D T S S T T T 
+ 0	Major	T 
+ 7	Major	T S S T D D D D D T D 
+ 0	Major	D 
+ 0	Major	S T D D T T S S T S S S D D T 
+ 0	Major	T D T D D T S S T 
+ 7	Major	S T T D D D T 
+ 7	Major	T T T S D D T S D T T S D S 
+ 7	Major	D D D T T T S T T T T T D S 
+ 7	Major	D D S 
+ 7	Major	S D T T 
+ 7	Major	S S D D T 
+ 0	Major	S D D T S S T T 
+ 0	Major	D D T T D D D T D D T 
+ 0	Major	D T S S T T S 
+ 7	Major	D D D T 
+ 6	Minor	T 
+ 9	Major	D T D T T 
+ 9	Major	S D T T S S D 
+ 9	Major	T T T 
+ 4	Major	S S 
+ 4	Major	T T D D T D D 
+ 4	Major	S 
+ 11	Minor	T T D D T T 
+ 11	Minor	T 
+ 4	Minor	T 
+ 7	Major	D T D T T 
+ 7	Major	S D T T S S D 
+ 7	Major	T T T 
+ 7	Major	D D D D 
+ 2	Major	T T 
+ 4	Minor	D D 
+ 4	Minor	S T T D D T 
+ 0	Major	T T D D 
+ 0	Major	T S S D D T T T T T T S D D D T T 
+ 0	Major	T S S 
+ 5	Major	S D S D T 
+ 5	Major	D D T T T D T D T S D S D 
+ 5	Major	T T T T S S S D D T T T S S T T T D D 
+ 5	Major	T T D D D T D 
+ 0	Major	S D D T S D T T S S S D D 
+ 0	Major	T 
+ 5	Major	T T T T S S D D T T T S T 
+ 5	Major	S D S D D D T 
+ 10	Major	T T T T T S S S S T T T T 
+ 10	Major	S T D D T T T T T T T T 
+ 10	Major	S S D D T T T D T T T T D 
+ 10	Major	T D D D D T T S 
+ 7	Minor	T S S T T T T 
+ 7	Minor	S S D 
+ 10	Major	T T D T T T T T T 
+ 10	Major	D D D D T D T T S S D D T 
+ 2	Major	T S S T T 
+ 2	Major	S D T T T T 
+ 2	Major	S D T D T T D 
+ 2	Major	T D T S D D T S 
+ 2	Major	S 
+ 11	Minor	D 
+ 2	Major	T D T T T 
+ 2	Major	D D D T S D T 
+ 3	Major	T T T T T T T S T D T 
+ 3	Major	D D T T D D T T T S D 
+ 10	Major	T S S D 
+ 3	Major	S 
+ 3	Major	D T T T S D D D T S S D T D 
+ 3	Major	T D S T D D D T T S S D D 
+ 3	Major	T D D D D T S D T D 
+ 10	Major	T D 
+ 10	Major	T D 
+ 3	Major	S D T T D D T T 
+ 3	Major	S D S T T S S S D D T 
+ 0	Major	T T T D S S T D T T D D D T S T 
+ 0	Major	D T T 
+ 9	Minor	D D T T D T 
+ 9	Minor	D D T T S T S D T T T T D D D T 
+ 9	Minor	T T T D T S T 
+ 0	Major	D T T D D T S T 
+ 0	Major	D T T 
+ 9	Minor	D D T T D T 
+ 9	Minor	D D T T S T S D T T T T D D D T 
+ 9	Minor	T S T S S D D T D S T T T S 
+ 9	Minor	D T T S D T D T T D T 
+ 0	Major	T 
+ 2	Minor	D S S D D S S T 
+ 0	Major	T S S S S T 
+ 0	Major	S D S T T T T D T T S S 
+ 0	Major	D D T D T 
+ 9	Minor	D S S T T T S D 
+ 9	Minor	T S T T D D S T D T T T S T D T 
+ 9	Minor	T T S D T T S D T T S S S D 
+ 9	Minor	T S T T D D S T D T T T S T D T 
+ 9	Minor	T T S D T T S D T T S S S D 
+ 9	Minor	T 
+ 0	Major	T S S T T S T S D T T D D D T 
+ 0	Major	D S D D T T T D S D T 
+ 9	Minor	S T D 
+ 9	Minor	T T T T T S S S T S S T D D 
+ 9	Minor	T T S T D D T D S 
+ 9	Minor	D T T T T T S S S 
+ 9	Minor	T S S T D D T T S 
+ 9	Minor	T D D T D S D 
+ 0	Major	T S S T T S T S D T T D D D 
+ 0	Major	T D D D D T T S 
+ 9	Major	T S D T 
+ 9	Major	D D D T 
+ 7	Major	T T D T T D D T T S D 
+ 7	Major	S 
+ 7	Major	D T T S D T D T T D D T 
+ 7	Major	D T T T T D D D T T 
+ 7	Major	S D 
+ 7	Major	T T S S T T S D T T T T D T 
+ 10	Major	T T S D T S D T D D T T D T D T T 
+ 10	Major	T S 
+ 7	Minor	D D T T S S T T S S S D D D T 
+ 7	Minor	T 
+ 10	Major	T S D T S D T D D T T D T D T 
+ 7	Minor	T 
+ 7	Minor	T S D D T T S S T T S S S D D D T 
+ 7	Minor	D T T S D T T D D D T T S T T D 
+ 7	Minor	T T T D S T T S D T T T S D 
+ 7	Minor	T T T D D T D S S T T S S S D 
+ 7	Minor	T S D D T S S T T T D T 
+ 7	Minor	T S D D S S T T T D 
+ 7	Minor	T S D D T S S T T T D T 
+ 7	Minor	T S D D S S T T T D 
+ 7	Minor	T S D T T S T S S T S T D T 
+ 7	Minor	T T T D T T D 
+ 2	Minor	T T S T T S D T 
+ 2	Minor	T 
+ 10	Major	D T S D D T D T D T T S T S 
+ 4	Minor	D T S S D T S S S D D T 
+ 4	Minor	T T T D T D 
+ 6	Minor	T S T S T T T T T 
+ 6	Minor	T S T T T D D S 
+ 11	Major	T S D S D D T 
+ 9	Major	T T T T T D S S S D T 
+ 4	Major	S S D T 
+ 4	Major	S S S S S D T T T T D D T T 
+ 4	Major	T T S S S S D T 
+ 9	Major	T S D T T D S 
+ 9	Major	T T T T T S D T T T S D T D T 
+ 9	Minor	D D T T S S S S T T S S D 
+ 9	Minor	D D D D T T S S T T T T T D 
+ 9	Minor	T T T T D D S S T T T 
+ 0	Major	S T 
+ 0	Major	S T S S D T D T S S D D T 
+ 0	Major	T T T T D D D D T T T T T 
+ 9	Minor	D 
+ 9	Minor	T T T T T T T T S T S S D 
+ 9	Minor	T T T D D T T S S S T S S T 
+ 9	Minor	T S S T S T D T S S T T S S D D D T 
+ 9	Minor	T T T D D T T S S S T S S T 
+ 9	Minor	T S S T S T D T S S T T S S D D D T 
+ 9	Minor	D 
+ 4	Minor	D D T T T D T T S D D D D T S 
+ 4	Minor	T D 
+ 9	Minor	D T T D T T T D D T T T S S D 
+ 9	Minor	D D T T T D T T T S S T D D D 
+ 6	Minor	T S T T D T T S S 
+ 6	Minor	D 
+ 9	Major	S S T T S D T T D T 
+ 9	Major	S S D D T T D T 
+ 9	Major	S 
+ 6	Minor	D T T S S D 
+ 9	Major	S S 
+ 9	Major	T T S D T T D T S S D D T 
+ 9	Major	T S T D 
+ 6	Minor	T D S T D S T T D 
+ 6	Minor	T D D 
+ 2	Major	S D D T S D D 
+ 2	Major	T T S S T 
+ 9	Major	S D T T T T T T 
+ 9	Major	S D S T T D D T T D D D T 
+ 0	Major	T D D S T T D T T S T S S T 
+ 0	Major	T S T T S S D D T D T D T S T T 
+ 0	Major	T T S S D D T D T T S T D D T 
+ 0	Major	T D D S T T D T T S T S S T 
+ 0	Major	T S T T S S D D T D T D T S T T 
+ 0	Major	T T S S D D T D T T S T D D T 
+ 0	Major	T T T 
+ 0	Major	D T T S S D 
+ 0	Major	D D T T T D T T S D T T T S T 
+ 0	Major	T T S T D D T D T T S S T D T 
+ 0	Major	D T 
+ 7	Major	D T T S T T S S S D T D T 
+ 9	Minor	T T D D T T D T T T T S S D S 
+ 9	Minor	T D T S D D T T T T T T T S 
+ 0	Major	D 
+ 0	Major	T T D D D D T 
+ 7	Minor	D D T S D T T D D D S T T S D 
+ 7	Minor	T T D 
+ 10	Major	T D D D T T T T T 
+ 10	Major	S S T T S T D T D D T 
+ 10	Major	D D T T S D T T T S T S S T T 
+ 10	Major	T 
+ 0	Major	T S T D T T S T S 
+ 0	Major	D T S 
+ 9	Minor	T T S 
+ 9	Minor	T S T S D T D 
+ 9	Minor	T T T D 
+ 0	Major	T T D S T 
+ 0	Major	S 
+ 9	Minor	D T T T T T D D 
+ 9	Minor	D D S D D T D 
+ 9	Minor	D T D D T S T S T S 
+ 9	Minor	D T D T T D T 
+ 9	Minor	T 
+ 4	Minor	S T T T 
+ 7	Minor	D S S S T T T T T T 
+ 7	Minor	S S S S T S T T D D T 
+ 7	Minor	T T D S 
+ 7	Minor	D S S S T T T T T T 
+ 7	Minor	S S S S T S T T D D T 
+ 5	Major	D D T T T D T S D S S T D S S 
+ 5	Major	S D D T 
+ 10	Major	T D T T S D 
+ 7	Minor	D 
+ 7	Minor	T T T T S S T T T T S S T T T D 
+ 7	Minor	T S D D T T T T T T T T 
+ 7	Minor	S S T T S S S T D 
+ 7	Minor	T T T T D D T T T S D 
+ 7	Minor	T T T D 
+ 10	Major	D T T T D S 
+ 10	Major	D T T S D D D T 
+ 10	Major	T 
+ 7	Minor	D T S S S S D T T T 
+ 7	Minor	S T D D D D T D D T S 
+ 7	Minor	T T S S S S D D T 
+ 7	Minor	T T T 
+ 10	Major	S S T S D 
+ 10	Major	T D D D D D D 
+ 7	Minor	D T 
+ 7	Major	T S T S S S T D D T T 
+ 7	Minor	T S T D D D T T T D T T T S T D 
+ 7	Minor	D T D D S T 
+ 10	Major	T T D T 
+ 2	Minor	T T D D T 
+ 2	Minor	T S T D D D T T T T T D T 
+ 2	Minor	S S 
+ 7	Minor	T D D D T T T D T T T S T D 
+ 7	Minor	D T D D S T 
+ 10	Major	T T D T 
+ 2	Minor	T T D D T 
+ 2	Minor	T S T D D D T T T T T D T 
+ 2	Minor	T 
+ 0	Minor	D D D D T T T T S 
+ 7	Minor	D S T S 
+ 7	Minor	D T D S S S T T D D T T D T T 
+ 0	Major	T T T S D D T T D D D T 
+ 0	Major	T 
+ 7	Major	T S S S D T S S T S 
+ 7	Major	D D D T 
+ 0	Major	T S S D T T 
+ 0	Major	T S 
+ 2	Minor	T D S T T T T T D 
+ 0	Major	T S T T D T S S T T S 
+ 7	Major	D D S 
+ 7	Major	T S S D T T T S D T 
+ 0	Major	D D S S D 
+ 0	Major	D T T T T S S S T T T S D T T S D S 
+ 0	Major	D D T 
+ 4	Major	S S S S S S S D T D D T 
+ 4	Major	T S T D S T S T D D T 
+ 4	Major	S S S S S S S D T D D T 
+ 4	Major	T S T D S T S T D D T 
+ 9	Major	T T S D T T D T T S D T T D 
+ 9	Major	T S 
+ 11	Minor	T S S T S D T 
+ 11	Minor	S 
+ 9	Major	T T D S T T S D T T T S D 
+ 9	Major	S T T S T D D T S T D T S T S 
+ 9	Major	D D D T 
+ 5	Major	S S S S D T T T D T 
+ 5	Major	T S S D S T D T T T D T 
+ 5	Major	S S S S S S D T T T D T 
+ 5	Major	T S S D S T D T T T 
+ 10	Major	S D 
+ 10	Major	T D S S T S D T T S S T D 
+ 10	Major	T 
+ 0	Minor	T S D T S D T 
+ 0	Minor	T D T 
+ 10	Major	D T T D S T T S S D 
+ 10	Major	S T S S D T S T T D D T 
+ 5	Major	T T T T S S D S D T T 
+ 5	Major	S D 
+ 10	Major	D D T S D T 
+ 10	Major	T T S S S T D D T T D T 
+ 10	Major	S D 
+ 5	Major	T T T T S S T D D D D 
+ 5	Major	T D D T D D T T S 
+ 5	Major	T D T T S D D T 
+ 7	Minor	T D S T T T T T T S S 
+ 7	Minor	T T S D T T T T T T D D T T D D 
+ 7	Minor	T T T T D T T S D T T T T T D T T T 
+ 7	Minor	T T T T T T T T T T D T T T D 
+ 7	Minor	T T D T D T T T T S S D D T S 
+ 7	Minor	D D T T S S T T T D T T T T D 
+ 7	Minor	T 
+ 10	Major	T T T S S D D T T T T D T T T S S 
+ 10	Major	T T T S 
+ 7	Minor	S T S S T T S S T T T D D 
+ 7	Minor	D D T T S T S D T T S S S D 
+ 7	Minor	T T D T S D D T T S D T T D 
+ 7	Minor	D D S 
+ 5	Major	T D S D D T T T S T S 
+ 5	Major	T T T D 
+ 7	Minor	S D D T T T T D S T 
+ 7	Minor	T T D T S D D S T S D T T 
+ 7	Minor	S 
+ 9	Minor	T T T D T T S S T S T D T 
+ 9	Minor	T D T T S D T S S T S T T T D 
+ 9	Minor	T T T D T T S S T S T D T 
+ 9	Minor	T D T T S D T S S T S T T T D 
+ 7	Major	T S S D D T T S D T S D 
+ 0	Major	S D 
+ 0	Major	T D D T D S T S D T T D D T 
+ 0	Major	D S T D D T T S 
+ 9	Minor	S T D 
+ 9	Minor	T D S D T S T S T T D 
+ 7	Minor	T D T T D T T S S T T S D D 
+ 7	Minor	T T T T T S D T S S S T T 
+ 7	Minor	D T D T T D T T 
+ 7	Minor	S S T T S D D T T T T T 
+ 7	Minor	S D T S S S T T D 
+ 5	Major	T S S D T T S S T S D D D 
+ 5	Major	T S 
+ 10	Major	D T T T T S S T T 
+ 10	Major	S S D D T D 
+ 7	Minor	T T D S T T 
+ 7	Minor	T D T D T T T D T T S T 
+ 7	Minor	S S D 
+ 10	Minor	T T T T D D T D S S T S D D T 
+ 10	Minor	T T T T S D T S S S T T D 
+ 10	Minor	T T T T D D T D S S T S D D T 
+ 10	Minor	T T T T S D T S S S T T D 
+ 8	Major	T S S D D T T S D S S D D T 
+ 8	Major	S 
+ 1	Major	S D D T D S T S D T S D D T 
+ 1	Major	D D T T D D T T D 
+ 10	Minor	D T T D 
+ 10	Minor	T T T D T T S T S D 
+ 9	Major	T T S D 
+ 9	Major	D D T S D T S S D D D T 
+ 9	Major	D D D T T T S S S 
+ 4	Major	T D S 
+ 4	Major	D S T T S D T S D D T 
+ 4	Major	S 
+ 9	Major	D T D S D S D T T D T T D D 
+ 9	Major	T S T T T T S T S D T S S D 
+ 9	Major	T T S D T S D D D T T T T T S 
+ 9	Major	S D T T S D T T S S D D D T 
+ 7	Minor	T T D T T D S T T S 
+ 7	Minor	T T S S D D T T S S D T 
+ 7	Minor	D 
+ 10	Major	D T S D S D 
+ 7	Minor	S T 
+ 7	Minor	T T D T T D S T T S 
+ 7	Minor	T T S S D D T T S S D T 
+ 7	Minor	D 
+ 10	Major	D T S 
+ 5	Major	T D T T S 
+ 5	Major	T T D T T D S T S D 
+ 5	Major	T T S S D D T S D T S S 
+ 5	Major	T 
+ 7	Minor	S T T D T T S S D 
+ 7	Minor	D D D D T D T T T D T S S 
+ 7	Minor	D 
+ 0	Minor	T T T S T D T T T D 
+ 0	Minor	T T D S S T T S S D D T T T 
+ 3	Major	T S T S S T D D D T D D 
+ 3	Major	D D T T S D T S T T D T T T T 
+ 3	Major	T T T S D D 
+ 0	Minor	D D T T S S D D D D 
+ 0	Minor	T T T D T T T D S T T T D 
+ 0	Minor	T T S S T T T D T S D 
+ 0	Minor	T S T T S T S S S T D 
+ 2	Minor	T T T S D T S D D T 
+ 2	Minor	T T T D T D T T T D 
+ 2	Minor	S S T S T T D D T 
+ 2	Minor	T T T S D T S D D T 
+ 2	Minor	T T T D T D T T T D 
+ 2	Minor	S S T S T T D D T 
+ 2	Minor	T 
+ 5	Major	T T T S D T T S S D D T 
+ 5	Major	T D S D S T S S T 
+ 9	Minor	S T D D 
+ 9	Minor	T S 
+ 9	Major	T S T T T S D T T D D 
+ 9	Major	T T S D D T T T S D D T 
+ 9	Major	T S T T T S D T T D D 
+ 9	Major	T T S D D T T T S D D T 
+ 9	Major	D T 
+ 11	Minor	S T T T T T T D D T 
+ 2	Major	T D D T T T T T S D D T 
+ 2	Major	D D T S S D 
+ 9	Major	S D T S D D 
+ 9	Major	T T S S D D T T S S D D T 
+ 2	Major	T S D D T S D D T T D S D 
+ 2	Major	T S T S D T D D D T 
+ 2	Major	T D T D T S T D T 
+ 2	Major	T S D D T S D D T T D S D 
+ 2	Major	T S T S D T D D D T 
+ 2	Major	D T D T 
+ 2	Major	T T T T D D D D T T T T D D 
+ 2	Major	T T S D T T S S S D D T T T 
+ 2	Major	T T S S T S D T T S S S D D T 
+ 11	Minor	T T S S D D T T T S T S D T 
+ 11	Minor	T T T 
+ 2	Major	S D D T T D T T T S 
+ 2	Major	T D D D T 
+ 11	Minor	S T T S S D D T 
+ 11	Minor	T T T T D D T T D T T 
+ 10	Major	T S S T T T S D T D D 
+ 10	Major	T D S T T T T S D D T 
+ 10	Major	T S S T T T S D T D D 
+ 10	Major	T D S T T T T S D D T 
+ 10	Major	D T 
+ 0	Minor	T T T T T D D T T 
+ 0	Minor	T D 
+ 3	Major	D T T T D D D D T T 
+ 10	Major	T S S T T S D T D D 
+ 10	Major	T S S D D T S D T T 
+ 10	Major	T S T D S D 
+ 10	Major	T T S T S D D T T T D S D T 
+ 10	Major	D 
+ 5	Major	T T T D D D S D T T S T 
+ 5	Major	S D T T T S S T 
+ 10	Major	T T 
+ 10	Major	S D S S D T D S T S D T 
+ 10	Major	T S T D D T D T T S D T 
+ 10	Major	T 
+ 10	Major	T T T D T T S D T T S D T T D 
+ 10	Major	S T T T T S S D T 
+ 10	Major	D S D T D S T T T T T T 
+ 10	Major	T S 
+ 10	Major	S D D T S T S D D T 
+ 10	Major	T T T D T T S D T T S D T T D 
+ 10	Major	S T T T T S S D T 
+ 10	Major	D S D T D S T T T T T T 
+ 10	Major	T S 
+ 10	Major	S D D T S T S D D T 
+ 10	Major	D D D D D D T S T T S T T T S 
+ 10	Major	S D D D D D D D T T S T 
+ 10	Major	T T T D T T S D T T S S D D T 
+ 10	Major	T D D S 
+ 0	Minor	S T S D D T S 
+ 0	Minor	T T S S S D 
+ 7	Minor	D T T S S S S 
+ 7	Minor	S S D T T 
+ 0	Minor	T S T T S T 
+ 0	Minor	S S T D T D T S S 
+ 0	Minor	D D S D D T T 
+ 10	Major	D T T T T 
+ 10	Major	T T S S T S S S T S S D D T 
+ 4	Minor	T T D T T S S D D T S T T T T 
+ 4	Minor	T T D D T T 
+ 0	Major	D T D 
+ 4	Minor	T 
+ 4	Minor	T T T S S T T T S T S T T T D D T 
+ 4	Minor	T 
+ 7	Major	S T T S S S S S T S D T D D D 
+ 7	Major	T T T S S D D T S T D 
+ 7	Major	T T S D T 
+ 2	Minor	S S T T T T S D T T S S T T D D 
+ 2	Minor	T 
+ 7	Minor	D D T T S D T T D 
+ 7	Minor	T S D S S T T T D T S 
+ 7	Minor	D 
+ 2	Minor	S S T T D D T T S S 
+ 2	Minor	T T T D D T T T S S D D S S T 
+ 7	Major	D 
+ 7	Major	T 
+ 9	Minor	T T D T D T T T 
+ 0	Major	T T T 
+ 0	Major	S S T T D D T T S D T T S D D 
+ 0	Major	T T 
+ 9	Minor	T D T D 
+ 9	Minor	T T T 
+ 0	Major	T T T S S T T D D T T 
+ 0	Major	S D T T S D D T 
+ 0	Major	T T S D D T S D D T T T S 
+ 0	Major	D D T T D D T T S S D T T T 
+ 2	Minor	T T T T S S T T T S S T T T D 
+ 2	Minor	T D D T T T T T D T T 
+ 2	Minor	T T T T T T S 
+ 5	Major	D D D T 
+ 2	Minor	T T T T S S T T T S S T T T D 
+ 2	Minor	T D D T T T T T D T 
+ 5	Major	T 
+ 5	Major	T D S T S T S D D D T 
+ 5	Major	D T D T T T D T S S S 
+ 5	Major	D T T T T T T T S S 
+ 5	Major	S S T D D S S T 
+ 2	Minor	T T 
+ 0	Major	T T S T S D T T T T D 
+ 0	Major	D T 
+ 7	Major	D T S D T T 
+ 7	Major	T T S S S T S S S 
+ 9	Minor	T D 
+ 0	Major	T T T T T T S T S S S T S 
+ 7	Major	D T 
+ 7	Major	T S S S S D D D D T S T 
+ 0	Major	D T 
+ 0	Major	D D T T D D T T D D T 
+ 5	Major	T T T S T T T D D T T 
+ 5	Major	T T S S T T T S 
+ 5	Major	T D S D D S D 
+ 5	Major	T S D T D T 
+ 5	Major	S 
+ 2	Minor	T D 
+ 5	Major	D T T S D S D 
+ 5	Major	T T T T D D T T T D D T 
+ 5	Major	T T S D T D D D 
+ 5	Major	T T T T T T S D S D 
+ 5	Major	T T T T D D T T 
+ 2	Minor	S D 
+ 2	Minor	T T T T S T D D 
+ 5	Major	S T D T T 
+ 5	Major	T D T S D T T D T 
+ 5	Major	S S D T T S T S S T 
+ 7	Major	T T T S T T T S S D D D D T 
+ 7	Major	T T D D D D T T S 
+ 4	Minor	D 
+ 4	Minor	T 
+ 7	Major	T T S T T T S S D D D D T 
+ 7	Major	T T D D D D T T S T 
+ 2	Major	D T D T D T T T S S S S T 
+ 2	Major	T S S T T T D D T 
+ 2	Major	T S 
+ 7	Major	T T T S 
+ 4	Minor	T D D T T S S T 
+ 4	Minor	T S T S T T D 
+ 4	Major	S S S S D T D D D T 
+ 4	Major	T S T T S D D T S T D D D T 
+ 4	Major	T S S S S D S D T T T D D T 
+ 4	Major	T S T S S T 
+ 9	Major	S T S D 
+ 9	Major	T S S T S D D T T S D T T D 
+ 9	Major	T 
+ 11	Minor	T S T T T D T 
+ 11	Minor	S 
+ 9	Major	T D T S S T S S D 
+ 9	Major	S S T T D D D D T S T D T T T T 
+ 9	Major	D D T 
+ 0	Major	D T S T T S S S T T T T S D D T 
+ 0	Major	S S T T D T D D T T T T S D 
+ 0	Major	D T D T S S T T D D T S 
+ 0	Major	T T D T S S S S D T T D 
+ 7	Major	T T T T S D S D T D S T 
+ 7	Major	S S T T S D S D D D T 
+ 2	Minor	T D D T T 
+ 2	Minor	S S T T S S S D D D T T T D 
+ 2	Minor	T T T T T D S T T T D D D 
+ 0	Major	S 
+ 0	Major	D T S T S S T T T T S S 
+ 0	Major	T 
+ 9	Minor	D T D D D T 
+ 0	Major	T S D T 
+ 0	Major	D D T D T S S S D D T T T T S S T T D T 
+ 0	Major	T S T T S D T D T T S S D T T S S S D D D D T D D 
+ 0	Major	T T T D D T T T T T D T T S S 
+ 0	Major	S T S T T D D T 
+ 2	Minor	D D S D T T S T T 
+ 2	Minor	T T T T D T T S D D T T T T 
+ 7	Major	S D 
+ 7	Major	D T S S S S D S S T T T D S D T T S D S D D D 
+ 7	Major	T S S S 
+ 0	Major	T S S S D T D T T S D S 
+ 0	Major	D 
+ 9	Minor	T D T T T D D 
+ 0	Major	T T 
+ 7	Major	S S 
+ 7	Major	T T T T S D T T S D D 
+ 7	Major	T T T S S T T T T S T T S S 
+ 7	Major	S S T S D D T D T D D T 
+ 2	Major	D S S D D D 
+ 2	Major	T S S D 
+ 7	Major	S S D D T S T S D D T T T 
+ 7	Major	S D T T S T D S D D D T T S D T 
+ 7	Major	D S T S T S 
+ 2	Minor	T T T T D D D D D D 
+ 7	Minor	T T T T D D T T S D T T S D D 
+ 7	Minor	T T T T T D D T T 
+ 7	Minor	S D T T S D D T T T D D 
+ 7	Minor	T S T T S D T T D D D D S 
+ 7	Minor	T D T T S S D T T T 
+ 10	Major	T D D 
+ 10	Major	T T T T S D T T S D D D D T 
+ 10	Major	T D D T T T T D D T T S D D 
+ 10	Major	T T T 
+ 7	Minor	D T T T D D T T 
+ 7	Minor	D T S S S D D D T T S S D 
+ 7	Major	D D D T T T T D 
+ 7	Major	T T T T S S T T S D T T S S D D D 
+ 7	Major	T T T T T D D D D 
+ 7	Major	T T T T D T T T T S S T T 
+ 7	Major	S D T T S S D D D T 
+ 2	Major	S S T T S D T S D 
+ 7	Major	D T D 
+ 7	Major	T T S T S T S T T S D T D D D 
+ 7	Major	T 
+ 7	Minor	T S T D T T S T S S D 
+ 7	Minor	D T S D 
+ 2	Major	T D T D T D T S T 
+ 2	Minor	T T S 
+ 10	Major	S D D T T T T S 
+ 5	Major	S T D T D T D T 
+ 7	Minor	S D T T S T T T 
+ 7	Minor	T D D T T T T S D T T D S T S S 
+ 7	Minor	D D T T T T T D D T D 
+ 7	Minor	T T T S T T T T S T T T S D D T T T S S 
+ 7	Minor	D D T T T T D T D T S T 
+ 7	Minor	S S D D T T D 
+ 2	Major	S D T 
+ 2	Major	D T 
+ 7	Major	T D D D T D T D T T S S D D T 
+ 7	Major	D T S T D T T S S D 
+ 7	Major	D D T T T D T S T D T T S S S D 
+ 7	Major	T T S S T T S S D D T T D D T 
+ 7	Major	T S D T T S S D D D T 
+ 9	Major	T D D D D T T T T S S D D T 
+ 9	Major	D T S D D D D 
+ 4	Major	T D T 
+ 9	Major	D D T T D T D D T S T T S S D 
+ 9	Major	T T S D T T S S S T T D T S T 
+ 9	Major	T S D T T S S D D T 
+ 2	Major	T T T T S S D T T S D T 
+ 9	Major	S T 
+ 9	Major	T S D T D T S D D T 
+ 9	Major	S 
+ 2	Major	T T T S S D T T S D T 
+ 9	Major	S T 
+ 9	Major	T S D T D T S D D T 
+ 9	Major	T T S S T T S 
+ 2	Major	S S T S D T S D 
+ 2	Major	T T S D T T D T S T T D D T 
+ 7	Major	T D T T D D T S D T 
+ 7	Major	T S S T T S D S D D T 
+ 7	Major	T S D T T D D T S D 
+ 7	Major	T T T T S D T T D D D T 
+ 7	Major	T T T T T T S D T T D D 
+ 7	Major	T T T T T S S S T S 
+ 9	Minor	T T T 
+ 7	Major	S S T 
+ 7	Major	T T S S D D T T S T 
+ 7	Major	T T S D T T T S D T T S S S D D T 
+ 7	Major	T T T D T T T T S D S D D T 
+ 7	Major	T T T T D D T S D T T S D S D D 
+ 7	Major	T T T T D T T T T 
+ 7	Major	S D S D D T T T T T D D T 
+ 7	Major	S D T T S D S D D T 
+ 7	Major	T T T T D D D D T T T T T 
+ 7	Major	S S T T S D T T S D S D D T 
+ 9	Minor	D T S T D S T D T 
+ 9	Minor	D D T S S T T T 
+ 9	Minor	T T S S D D T S 
+ 9	Minor	T D S T D T D D 
+ 9	Minor	T S S T T T T T S S D 
+ 9	Minor	T D T T D S T S S D 
+ 9	Minor	T T D T 
+ 0	Major	T D D T 
+ 0	Major	D D T S D T T 
+ 9	Minor	D D 
+ 9	Minor	T T D S D T D 
+ 3	Major	T T T T S T S S D T D T D T 
+ 3	Major	D T D D T T T T 
+ 10	Major	D T T S S S D D D D 
+ 10	Major	T S T S 
+ 3	Major	T S T S S D T S T 
+ 3	Major	T T D T T S S D D T T S S S 
+ 3	Major	D D D T T T T T S S S T 
+ 3	Major	D D T 
+ 0	Minor	T T T T T T T T T D T 
+ 4	Minor	T T S S T T T T S S D 
+ 4	Minor	T 
+ 7	Major	T T D T T S S D T D D T T 
+ 4	Minor	T T T S D T T S D T T T 
+ 4	Minor	T T T 
+ 7	Major	T D D T T S D S S D D D T 
+ 7	Major	T D T T S S S S D D D D T S S 
+ 7	Major	D T D D S D T T D D D D T T T S 
+ 7	Major	T T T T S 
+ 4	Minor	S T T D D D D T T S T 
+ 4	Minor	S D 
+ 9	Minor	S T S T S S D D T S T T T S D T 
+ 9	Minor	T S D D T S T S S S D D T 
+ 0	Major	D D T T D D T T S S T D T 
+ 2	Minor	D T 
+ 2	Minor	D T D T S S T D T T T D 
+ 2	Minor	T D D T T S T S S D D T D 
+ 2	Minor	T D D T T D T T T S T 
+ 9	Minor	D D D T T T D T T T T T S S D D D 
+ 9	Minor	T D D T S D S S T T S S S 
+ 9	Minor	D D D D T T T D 
+ 9	Minor	T T T T T S S D D D T D D T 
+ 9	Minor	S D S S T T S S S D 
+ 0	Major	D D T T S S D T T D T T D D D 
+ 0	Major	T T 
+ 9	Minor	T T D T T T S S D 
+ 9	Minor	T T S T T T D D D D T D T T 
+ 9	Minor	S D S S D D S 
+ 2	Minor	T D T T 
+ 2	Minor	S S T D T T S 
+ 9	Minor	D D T 
+ 0	Major	T 
+ 0	Major	D T T T S S D D T T T T T 
+ 0	Major	T 
+ 9	Minor	T T D T T D 
+ 0	Major	S T T T S D S T D 
+ 0	Major	S T S S D T S D T T T T T 
+ 0	Major	S T D T T D S S T T T D 
+ 2	Minor	S 
+ 2	Minor	T S T D T S T T D T S 
+ 2	Minor	T T T T D D T 
+ 0	Minor	T S S T T T T S T S D 
+ 0	Minor	T T T S S T 
+ 3	Major	T D D 
+ 0	Minor	T 
+ 0	Minor	T S S T T T T S T S D 
+ 0	Minor	T T T S S T T D 
+ 3	Major	D T 
+ 10	Major	S S D D T S T D T 
+ 10	Major	T D D T 
+ 0	Minor	D T T T T D T T 
+ 9	Major	T D T D D T S S D T D T T 
+ 9	Major	D D T T T D T S T D 
+ 9	Major	T T T S T T T S D T 
+ 6	Minor	T T 
+ 6	Minor	T D T D S S T D T 
+ 6	Minor	T 
+ 9	Major	D D D D T T T S S S 
+ 9	Major	D T T S 
+ 9	Major	D T 
+ 9	Major	S S D S D D T T D D T 
+ 9	Major	T T T T S S S S T 
+ 9	Major	T D T D D T T T D S T D T 
+ 9	Major	T T T T T S S S S T 
+ 9	Major	T D T D D T T T D S T D T 
+ 9	Major	D T D T D D T T D T 
+ 4	Major	S T 
+ 4	Major	T S T T T S S D D T 
+ 11	Minor	D T T S S T T S 
+ 9	Major	T S 
+ 9	Major	T T D T T S S S D D T T 
+ 0	Major	S S D T T S S T T T T T T T T 
+ 0	Major	D D T T D D T T S S T D S T T S 
+ 0	Major	D D T T S 
+ 2	Minor	T T T T T S D T T D 
+ 2	Minor	D S S D D T T T T S S T 
+ 7	Major	T D T T D D T S D T T D D D T 
+ 7	Major	T S D T S D T S D D D S S D T 
+ 7	Major	T D T T D D T S D T T D D D T 
+ 7	Major	T S D T S D T S D D D S S D T 
+ 7	Major	T T S D T T T S S S D T T T S D S D 
+ 7	Major	T S S T S S D D T D T T T D D T 
+ 7	Major	T D D D T D T T S D T T D D D T 
+ 0	Major	T T T T T S S T T T S D T 
+ 0	Major	T T T S T T T T S D T S D D T 
+ 0	Major	T T T T T S S T T T S D T 
+ 0	Major	T T T S T T T T S D T S D D T 
+ 0	Major	T S S T S D D T T 
+ 9	Minor	T T 
+ 7	Major	T S 
+ 7	Major	S T D D T T S S D 
+ 0	Major	S D D S T T 
+ 0	Major	T T S S D T S T T T S T 
+ 2	Minor	T T 
+ 2	Minor	T S S D T S 
+ 5	Major	D D T T T T 
+ 5	Major	S D S D T 
+ 7	Major	S S S S D D T S S 
+ 7	Major	D D T T S D T S D T S D T 
+ 7	Major	S 
+ 0	Major	T T D T T S S T S D D T S T T 
+ 0	Major	D D T 
+ 5	Major	T S T S D T 
+ 10	Major	D S S D 
+ 10	Major	T D T T S T T D D T 
+ 10	Major	T 
+ 5	Major	T S T S D T 
+ 10	Major	D S S D 
+ 10	Major	T D T T S T T D D T 
+ 10	Major	T D S T T T S S T T S T 
+ 10	Major	T T T S S D S S T S D 
+ 10	Major	T S T S D T D S T D T T T 
+ 7	Minor	T 
+ 10	Major	T S T S D S D S T T 
+ 10	Major	D D D T 
+ 0	Major	S T S S T T T 
+ 0	Major	S D T T T S T 
+ 0	Major	T T T D T T S D T T 
+ 0	Major	T T S T S S T T T 
+ 0	Major	S D T T T S T 
+ 0	Major	T T T D T T S D T T 
+ 0	Major	T S D 
+ 9	Minor	T S S S D T 
+ 9	Minor	T T D T T 
+ 7	Major	S D D T 
+ 7	Major	S D D T T D T 
+ 7	Major	S T T 
+ 0	Major	D T S T T 
+ 2	Minor	T T T T S T D 
+ 2	Minor	T S 
+ 0	Major	T T T S S 
+ 0	Major	S T D D T D S 
+ 7	Major	S S D 
+ 7	Major	D T S S D D T T 
+ 0	Major	D 
+ 0	Major	T S T S S T D T T 
+ 0	Major	T S D T S T D T T 
+ 0	Major	S D T T 
+ 0	Major	D D T S D D T S S S 
+ 0	Major	D T T D D T D 
+ 0	Major	D 
+ 7	Major	T S D D D 
+ 2	Major	S D T S 
+ 2	Major	T T S S D D T T T 
+ 9	Minor	S T S S T D T S T T S 
+ 9	Minor	D D T 
+ 7	Major	S S S T S S D T D D T T 
+ 7	Major	S D T S D D T S S S T 
+ 7	Major	S S D T D D T T S D T S 
+ 7	Major	D D T 
+ 10	Major	T S D D T T T S D T 
+ 10	Major	T T T T T T D D T D T T S S D 
+ 10	Major	D D T T S D T T T T T D 
+ 10	Major	T T S S D T 
+ 7	Minor	T D T S S T 
+ 7	Minor	T 
+ 10	Major	S D D T S D T T T S D 
+ 10	Major	D D T S D T S S S T D D T 
+ 9	Major	T T D T T T S D T 
+ 9	Major	T T T T T T D D T T T T S D 
+ 9	Major	D D T 
+ 11	Minor	S D T D T 
+ 4	Major	D S 
+ 4	Major	S S T T T T D D T S D T 
+ 4	Major	T T S T 
+ 9	Major	D T T S S T S D D D T 
+ 9	Major	T D S T S D T T T T S D T 
+ 9	Major	T T T T T D D S T D T S D 
+ 9	Major	D D T S D D T D T 
+ 9	Major	T T T S D D T S T T S S S S D T 
+ 9	Major	T S D T D T D S T S T T T S S D 
+ 9	Major	T T T S D S T T T S T S D D T 
+ 9	Major	D D T S T T S D S T 
+ 9	Major	T S T D T T D D T T T T D S D 
+ 9	Major	D T S D T T T S S D 
+ 9	Major	T T 
+ 6	Minor	S D T S T S S T 
+ 6	Minor	T 
+ 9	Major	S T D T T S T T T T S D 
+ 9	Major	D T S D T T T S T D T 
+ 0	Major	T T S T T S S S D T 
+ 0	Major	T 
+ 9	Minor	T D T T T T T D 
+ 9	Minor	D T T D D T T S S S D T T D 
+ 9	Minor	T S S T S S D 
+ 2	Minor	T D T T S S D 
+ 2	Minor	T 
+ 7	Minor	D T T D T 
+ 5	Major	S T D T T 
+ 5	Major	S S T S D T T S T S T 
+ 5	Major	S D T T S D D T 
+ 5	Major	T S D T S T T T S S D 
+ 2	Minor	D 
+ 2	Minor	T 
+ 7	Minor	D T T D T 
+ 5	Major	S T D T T 
+ 5	Major	S S T S D T T S T S T 
+ 5	Major	S D T T S D D T 
+ 5	Major	T 
+ 7	Minor	D D D S S S D T T T T S D T T 
+ 7	Minor	T D D D 
+ 5	Major	T S S D D T D T T 
+ 5	Major	S S D D T 
+ 7	Major	T T T T T S T S D T D T 
+ 7	Major	T S T D S S S D D T T D D D D T 
+ 7	Major	T T T T T S T S D T D T 
+ 7	Major	T S T D S S S D D T T D D D D T 
+ 7	Major	S D D T T S T D D T 
+ 7	Major	T T S D D T D D T T D S D 
+ 0	Major	S S D D D D T T T D T 
+ 0	Major	S D D D D T D D 
+ 7	Major	T T 
+ 11	Minor	S S D D T D T D T D D T 
+ 4	Minor	D T T D D T D T T S 
+ 11	Minor	S S T T S 
+ 11	Minor	S S D D T D T D T D D T 
+ 4	Minor	D T T D D T D T T S T T D D T 
+ 4	Minor	T T T T S T S S T D 
+ 11	Minor	T 
+ 11	Minor	T T S D S S D D T D D T 
+ 11	Minor	S 
+ 7	Major	D T T T T D D T T D D S 
+ 7	Major	T 
+ 4	Minor	T S S T T T S D D T 
+ 7	Minor	T S T D D T S T D T 
+ 7	Minor	T T D D T T D D T T T T S T 
+ 7	Minor	D S T T T T S S T S D D T 
+ 7	Minor	T D T D 
+ 5	Major	S D D T D T 
+ 5	Major	T 
+ 7	Minor	T T T T S S S S D D T D S D 
+ 7	Major	T T S D D T 
+ 5	Major	D 
+ 5	Major	T 
+ 2	Minor	D T D T T T D S S S S D 
+ 2	Minor	T T D S S D T T T T 
+ 9	Minor	D 
+ 9	Minor	T T T T D 
+ 7	Minor	D T T S S D 
+ 7	Minor	D D T T S S S S D D D T 
+ 2	Minor	D 
+ 2	Minor	D T S T T D D T 
+ 2	Minor	T T D D D T S D 
+ 2	Minor	T T T S T S T T T D 
+ 5	Minor	T T S S T S S D T T T 
+ 5	Minor	T 
+ 8	Major	T D T T T S S D T T 
+ 8	Major	S 
+ 5	Minor	S S D T T S D T T 
+ 5	Minor	T T T T S S S S D T D 
+ 10	Minor	D 
+ 10	Minor	T T T T T T T T S S D 
+ 5	Minor	T S 
+ 5	Minor	D T S S T S D D T 
+ 5	Minor	T T T T D D D D D 
+ 0	Minor	T D D T 
+ 8	Major	T 
+ 8	Major	T T T T S D T T D D D T T T 
+ 8	Major	S S S S S S S S D D D D T T T 
+ 5	Minor	D 
+ 5	Minor	T T T T T T T T D D T 
+ 3	Major	T T S S D T D S D 
+ 3	Major	T S D S D T T D 
+ 3	Major	T T S 
+ 10	Major	T T D T S 
+ 10	Major	T S D D T 
+ 0	Minor	D D D D 
+ 0	Minor	T D T D T T T S T 
+ 0	Minor	S D D T 
+ 3	Major	T S S S S T T 
+ 3	Major	T D D D D T 
+ 5	Major	T T T T T T S S D D T D T S S D 
+ 5	Major	T T T D D T T T S S T T T D T T T 
+ 5	Major	T T T T T T S S D D T D T S S D 
+ 5	Major	T T T D D T T T S S T T T D T T T 
+ 5	Major	T T T T T S T T D T S S D 
+ 5	Major	T S S T T T D D T S T T S S S T 
+ 5	Major	S S D D T T D D T T T T T T T T S 
+ 5	Major	D D T 
+ 0	Minor	T T S S S D D T T T T T T D D 
+ 0	Minor	D T 
+ 3	Major	D T T S D 
+ 3	Major	S S D T S S D T T T S T S D S D D T 
+ 3	Major	T S S S S S T T T 
+ 0	Minor	T T T T T D D 
+ 0	Minor	D T 
+ 3	Major	D T T S D 
+ 3	Major	S S D T S S D T T T S T S D S D D T 
+ 3	Major	T S T S D D S T S 
+ 10	Major	T S S 
+ 10	Major	S S D S D T D T S D D D D T 
+ 10	Major	S T S S S 
+ 8	Major	T D D D T T T T S S T 
+ 8	Major	S 
+ 3	Major	T S D D T T S D T T D D 
+ 3	Major	D S 
+ 10	Major	T S S T 
+ 3	Major	D T S T 
+ 3	Major	S D D T T D D T T S D S D D D T 
+ 7	Minor	T S T T T S T S S S T D T 
+ 7	Minor	T D T T D D D 
+ 7	Minor	D 
+ 7	Minor	T D T D D D D T T T T T T 
+ 7	Minor	D T S S D D T S T S S D 
+ 7	Minor	D D D D D D D T T T T T T T 
+ 7	Minor	D D D D T D D D D T T T T T D 
+ 7	Minor	T T D D D D S D T T T T 
+ 7	Minor	S S S T S S D 
+ 9	Minor	D T T T T D D T S S D 
+ 9	Minor	D T D T S T D T D D T 
+ 0	Major	D 
+ 9	Minor	T T D D T T S S T D 
+ 9	Minor	T T D T T D S T S D D T 
+ 5	Major	T D S D S T S D T T D D T T 
+ 5	Major	S S D D T T S D T S S D 
+ 9	Minor	D 
+ 9	Minor	S S T T T S S D D D D T 
+ 2	Minor	D S D T T D 
+ 2	Minor	T D T T D D T T S T S T S 
+ 2	Minor	T T T D 
+ 5	Major	S T D T D T T T T S S T T 
+ 5	Major	S S T D T T T S S D D T T 
+ 5	Major	T T D D T T S S D D D D D T T 
+ 5	Major	D D D T T S D D T T S 
+ 2	Minor	T T D 
+ 2	Minor	T T T T D 
+ 5	Major	D T T S 
+ 2	Major	T S S S S T T 
+ 2	Major	S D S T T S S S D D T 
+ 2	Major	T D T D D T D T S S 
+ 4	Minor	D T 
+ 4	Minor	T T T T S S D 
+ 9	Major	D T 
+ 2	Major	T T T D T D T D T T S S T T T 
+ 2	Major	S 
+ 4	Minor	D T T S S S D S T 
+ 2	Major	D D T D T T T T D D T D S T T T 
+ 2	Major	S S S T S D S D T T 
+ 2	Major	T T S 
+ 9	Minor	D D T T T T T T 
+ 9	Major	S S D D D T 
+ 9	Major	S D S S T 
+ 6	Minor	D T T T T S T 
+ 6	Minor	D 
+ 9	Major	D T T T T T S T S D D 
+ 9	Major	T T 
+ 2	Major	D D T T D D T T T S S T 
+ 2	Major	S D S D D D T 
+ 7	Minor	T T D T T T S S T T 
+ 7	Minor	T D T S D T T D 
+ 10	Major	D T T 
+ 10	Major	T T S S T S D D T 
+ 10	Major	T T D 
+ 5	Major	T S S D D T T T S S 
+ 5	Major	T T D D T S T T S 
+ 10	Major	T S 
+ 10	Major	T S 
+ 3	Major	T T S T 
+ 7	Minor	T D T T T T T S S T T T D 
+ 7	Minor	T 
+ 10	Major	D T T T T T S S S S D D 
+ 10	Major	T T D T D T T S D T T 
+ 10	Major	D D 
+ 0	Minor	S D T T T T D D T T 
+ 0	Minor	S D D T T T D 
+ 10	Major	S T 
+ 10	Major	S D T T T 
+ 7	Minor	T T T S S S D D 
+ 7	Minor	S S T S T D 
+ 7	Major	T S T S T T T D T T T S D T 
+ 2	Major	S T S D T T T T T S D S D D D T 
+ 2	Major	S T S 
+ 7	Major	S T T T D T T T S D T 
+ 2	Major	S T S D T T T T T S D S D D D T 
+ 2	Major	S 
+ 9	Minor	T T S T T T D S S T T T S S S D D D 
+ 9	Minor	T T T D D T T T D T T T T T 
+ 9	Minor	T 
+ 0	Major	T T T T S S S D T T T T T S S D D 
+ 0	Major	T 
+ 7	Major	T T D D T T D D T D T T 
+ 7	Major	S D S D D D T 
+ 7	Minor	T D T D D T T 
+ 10	Major	T S T S T 
+ 10	Major	D D T T D T D D T 
+ 10	Major	T T T T S T S D D 
+ 7	Minor	S D D 
+ 5	Major	T D T D D T T S S D T T D 
+ 5	Major	D D T T T S 
+ 2	Minor	T T T T 
+ 2	Minor	T T T S T D D D T T T T D T 
+ 7	Minor	D D T T T D T T T T S T D D D D 
+ 7	Minor	T T T T T 
+ 2	Minor	T T S T T T D T T T T T S 
+ 2	Minor	D T T T T T T T T T D D T 
+ 5	Major	T 
+ 5	Major	S S T T S T S S T D T 
+ 2	Minor	T T S T T T D T T T T T S 
+ 2	Minor	D T T T T T T T T T D D T 
+ 5	Major	T 
+ 5	Major	S S T T S T S S T D T 
+ 5	Major	T S T T T D T T S S T T 
+ 5	Major	T T D D D D D S 
+ 7	Minor	T T D T D 
+ 7	Minor	T T S T S T S S T T T 
+ 7	Minor	D 
+ 5	Major	T T D T S D D T D T D S S T T 
+ 5	Major	T T D D T T T T T D T T 
+ 5	Major	T T S T S S T S D D T T 
+ 5	Major	T T T 
+ 0	Major	S T T T T S S T T S S D D 
+ 0	Major	D D T D D S S S 
+ 2	Minor	D T T 
+ 2	Minor	T D T T T T S S D T T 
+ 7	Major	T T D T T S S S T S 
+ 7	Major	T D D T T S S S S T T T T D D 
+ 7	Major	D D T T T T D T 
+ 7	Major	T S S S T S T D D T T S S 
+ 7	Major	S S T T T T D D D D T 
+ 7	Major	T D D T T T S S D T S D 
+ 7	Major	T T T S S T T T D T T T D D 
+ 7	Major	D D T 
+ 2	Major	T D T T T T S S D D S S T S T 
+ 2	Major	T T D T T S D T 
+ 2	Major	T D T T T T S S D D S S T S T 
+ 2	Major	T T D T T S D T 
+ 2	Major	T T T T T T 
+ 9	Major	D D T D T D T T T 
+ 9	Major	T T S D T T D S D D T 
+ 9	Major	T S 
+ 2	Major	T T T S S T T T S S T 
+ 7	Major	T T T T 
+ 2	Minor	T D T S T T T D T 
+ 2	Minor	T D S D 
+ 5	Major	D T S S S S T 
+ 5	Major	T D T T S D T T D D 
+ 9	Minor	D T S 
+ 9	Minor	S T T S S T D D T S D T 
+ 9	Minor	D D T 
+ 5	Major	S D T T S T D T 
+ 5	Major	T S S T D T 
+ 2	Minor	T S T T D 
+ 11	Minor	S D D D D T D 
+ 11	Minor	D D T T S T S S D D D T 
+ 11	Minor	D D T S S T T S S D D D D T D 
+ 11	Minor	D D T T S T S S D D D T 
+ 11	Minor	T 
+ 2	Major	T S S S S T D D D T D T 
+ 2	Major	D D T T D D T T T T S D 
+ 4	Minor	T S S D T 
+ 9	Minor	D D D D 
+ 9	Minor	T T T S D D D S T 
+ 9	Minor	D D T S S T T S T S D S S D 
+ 9	Minor	D T T T T S D T D 
+ 0	Major	T T S S D T D D T 
+ 0	Major	D D T 
+ 7	Major	T S S S T D T D D T 
+ 7	Major	T 
+ 0	Major	D T T T T S T S T D T S S T 
+ 0	Major	D D T T S S T 
+ 9	Major	S D D T 
+ 9	Minor	D D T D 
+ 9	Minor	D D T S T S D D T T T T 
+ 9	Minor	T T T S S T S D D D T D 
+ 9	Minor	D D T S T S D D T T T T 
+ 9	Minor	T T S S T T S S T T D 
+ 9	Minor	D T S S T T T D S S T T D 
+ 9	Minor	S T T T D T S T S T D T D T D 
+ 9	Minor	S T T S T T D D T 
+ 6	Minor	T T T T S D T T D T T T D T 
+ 6	Minor	T D 
+ 9	Major	D D D T D T T T S D S D T 
+ 9	Major	T T T S D S T T T T S 
+ 6	Minor	S 
+ 6	Minor	S S T T T 
+ 9	Major	S D S T D S S S S T 
+ 9	Major	D T 
+ 6	Minor	D T S S T T T T D D T 
+ 6	Minor	T T T T D T T S S T 
+ 9	Major	D T T S S 
+ 9	Major	D T D T S S S D D 
+ 9	Major	D T T 
+ 6	Minor	D T S T 
+ 9	Major	T S T 
+ 9	Major	S D T D D T T T D T D T T 
+ 9	Major	T T T D T S D D T S D D T 
+ 9	Major	T T T T S T S S T D D D 
+ 9	Major	S T S D T S 
+ 2	Major	T T 
+ 6	Minor	T T T T T D T S D T T S T S S 
+ 6	Minor	T 
+ 9	Minor	T T D T D D T T S T T D 
+ 9	Minor	T S T T T T S T D T S S T S 
+ 9	Minor	T D D T D T S T T D 
+ 9	Minor	T T T T T T S S S D 
+ 0	Major	D T T T D S 
+ 0	Major	T T S D T T D D S 
+ 9	Minor	S T T D D T 
+ 9	Minor	T T T T T T T D D S T D 
+ 9	Minor	T T S T D D S D D S S T S 
+ 9	Minor	T D T T S T T D 
+ 5	Major	T S T T T T S T S D T D T 
+ 5	Major	D S 
+ 9	Minor	S T T S D T S T T D D T 
+ 0	Major	T T T T S S D T S D T T D T D D D 
+ 0	Major	T D D T T 
+ 7	Major	T S T T 
+ 7	Major	D T T S D T T S S D D D T 
+ 7	Major	T S T S S T 
+ 0	Major	D T T S T S S 
+ 0	Major	T T T 
+ 7	Major	S D T S S S S 
+ 7	Major	T S T S D T T T T S D T D 
+ 7	Major	D D D D T T 
+ 7	Minor	T T T S D T T T D D T T T S S D D 
+ 7	Minor	T T T T S S S S S D D T T D 
+ 7	Minor	D S D T T T D T T D 
+ 10	Major	S T T 
+ 10	Major	T T T D S D D T T D D D T 
+ 10	Major	T D S T T T T S D T T T D D 
+ 10	Major	D D T S D T T S S S 
+ 7	Minor	T D D 
+ 7	Minor	D T D D T T T D T T S D 
+ 7	Minor	T T S T T T D D D T T T 
+ 9	Minor	T T T T D D T T S D D 
+ 9	Minor	T T S S D D T T T T D D 
+ 9	Minor	T T S D D T T S S D D 
+ 0	Major	T D D D T T D 
+ 0	Major	T T T S 
+ 5	Major	D 
+ 9	Minor	S S T T 
+ 9	Minor	S S T T S S T T S D T T T D 
+ 0	Major	T S D D T S 
+ 9	Minor	S T T T S T T D S 
+ 9	Minor	T T S S D 
+ 5	Major	D T T T S D S D T D D 
+ 5	Major	T T S T D T S D S D T T T 
+ 2	Minor	T T T T S D T T S S T S S D T T T T T 
+ 2	Minor	S 
+ 2	Minor	T S S D T D D 
+ 2	Minor	T T S T S T S S S D T T T 
+ 2	Minor	T T S D T S S S S S D T T T 
+ 9	Minor	T T T T T S D D T T D T T S S S D 
+ 5	Major	D D T 
+ 5	Major	T T S D S D D S T D T T T S D T T D D T S S D S 
+ 5	Major	D T T T T S D 
+ 2	Minor	T S T T 
+ 2	Minor	T T T D T T D D T T 
+ 2	Minor	S D D T T D T S S D 
+ 0	Major	D D S T S T S S D T 
+ 0	Major	T 
+ 0	Major	T T T S S T S S S S T D T T S S 
+ 0	Major	T T D T T D D T T S S 
+ 0	Major	D D T T T T T 
+ 9	Minor	T D 
+ 4	Minor	T 
+ 4	Minor	D D T T S D T T S 
+ 7	Major	T T T S S 
+ 7	Major	S D T D S S D D T T S D 
+ 7	Major	T T T S S D D T D S T D 
+ 7	Major	T T T T S 
+ 0	Major	T S S T 
+ 7	Major	T T S S 
+ 7	Major	S D T T D D T T D D D T 
+ 0	Major	T D T 
+ 3	Major	T T T T T S T D T 
+ 10	Major	T S D T T S D D T 
+ 3	Major	T S S D T S D T T D 
+ 3	Major	T T T D D T T T S S S D T 
+ 3	Major	D T S D T 
+ 10	Major	D D T 
+ 10	Major	S S T S 
+ 3	Major	S T T T D T S S S S 
+ 3	Major	T S S T T S D D T 
+ 7	Major	T D T S D T D T S 
+ 7	Major	T T D D D T S T S D T 
+ 7	Major	T D T T D 
+ 4	Minor	T D T T T T T 
+ 4	Minor	T 
+ 7	Major	S D T D D T T T S D T 
+ 7	Major	T T S T D S T D T T T S 
+ 7	Major	S D T T T T T S 
+ 2	Major	D T 
+ 7	Major	T D T D T S D 
+ 7	Major	D D T T D D T T S T D D T T S S 
+ 7	Major	D D T 
+ 9	Major	T D T S D D T T D S T T T 
+ 9	Major	T S D T D S T T T S D T 
+ 9	Major	T S D T T D D T D T T T T T S 
+ 9	Major	T T T T D T S T T S 
+ 6	Minor	S S S S T 
+ 6	Minor	D D T S T T S S T T T D D D D T 
+ 4	Major	T S S S S D D T T S S S D D D T 
+ 4	Major	T S S T T T S 
+ 9	Major	T T D T S S T S D D T 
+ 9	Major	D D T 
+ 7	Major	T T D T S T T D 
+ 7	Major	S D T S T D 
+ 7	Major	T D T 
+ 7	Major	T T D T S T T D 
+ 7	Major	S D T S T D 
+ 7	Major	T D T 
+ 7	Major	D 
+ 9	Minor	S S T T D T 
+ 9	Minor	D T D D D T 
+ 9	Minor	S T T 
+ 4	Minor	D D T 
+ 7	Major	D 
+ 7	Major	T T S T D D 
+ 7	Major	T S D S T D D T 
+ 9	Major	T T T S S D T D T T S 
+ 9	Major	T T T D D D T T T S S S D T 
+ 9	Major	T S D T 
+ 6	Minor	T S D T S T 
+ 9	Major	T T T T 
+ 9	Major	T S D T D D T T T T S D S D D T 
+ 9	Major	T S D T T D D T S D T T T T T S 
+ 4	Major	T S T S S D D T T 
+ 9	Major	D D T S D 
+ 9	Major	D D D T D D D T T T S S S S D D T T T S D S 
+ 9	Major	D D T 
+ 5	Major	T D T S D D T S D T S D T T S D S 
+ 5	Major	D D D T T T S D T T S D 
+ 5	Major	T S D D T 
+ 0	Major	S T T S D T S T D D 
+ 0	Major	T 
+ 5	Major	D T T T S S D T T S D T T D D D 
+ 5	Major	T S S T T D D D T 
+ 7	Major	T T T T S D T T D D S T T S D D T 
+ 7	Major	T T S S S T S S S T T D T T T T T D 
+ 7	Major	T T S S T T T S 
+ 2	Major	T T S T S S S S D T 
+ 7	Major	T S S T S D T S S T T D D D T 
+ 7	Major	T T T T D D T T 
+ 7	Major	S D T T D D D D T T D 
+ 7	Major	S D D D T S D D 
+ 7	Major	T T T S D T D T 
+ 7	Major	T T T T D D T T 
+ 7	Major	S D T T D D D D T T D 
+ 7	Major	S D D D T S D D 
+ 7	Major	T T T S D T D T 
+ 7	Major	T T S D T T D 
+ 4	Minor	D S D D D 
+ 4	Minor	T T T T T D D S T T D D 
+ 4	Minor	T S T S D T T T T 
+ 7	Major	S 
+ 7	Major	T S D T D T T T T S D T T 
+ 7	Major	D D D T D D T S D S 
+ 7	Major	T S T S T D D T T D D T T T S 
+ 7	Major	D T D T 
+ 9	Minor	T T T T T D T T S T T S S D 
+ 9	Minor	T D D T S S D T S S T D 
+ 9	Minor	D T T T T T T T T D T T 
+ 9	Minor	S T T S S D T D D T 
+ 9	Minor	S S D T S S T D D T T T 
+ 9	Minor	D T D 
+ 0	Major	T T T T S T S D D T 
+ 0	Major	T S T S 
+ 9	Minor	T D S T T T T D D T 
+ 4	Minor	T D T T T S T T T T T D T S D S 
+ 4	Minor	T T T T D D T D 
+ 7	Major	T S D D T T 
+ 7	Major	T T D S S D D T T S S D D T 
+ 7	Major	D T D S D S D D D D T S D D T T 
+ 7	Major	T T D D T D T T D D T T T T S S 
+ 7	Major	S 
+ 4	Minor	T T D 
+ 4	Major	T T T S T T S D 
+ 4	Major	T S D D T T D D D S S D 
+ 4	Major	T S S D S S T T D D D T 
+ 4	Major	T D T T T S T T S D 
+ 4	Major	T S D D T T D D D S S D 
+ 4	Major	T S S D S S T T D D D T 
+ 4	Major	D T D T 
+ 4	Major	S T D D T T D T D D 
+ 4	Major	T T S D T T S S S D D T T T 
+ 4	Major	D T T T T S S T S D D T 
+ 5	Major	D 
+ 5	Major	D T T D T S S S D D T T D D T 
+ 5	Major	T S S S D T T T T S S S S S S T 
+ 5	Major	T T T S S T D T T S S T D D T 
+ 10	Major	T S S D T S T T S D T 
+ 10	Major	T S T T T S D T T S D 
+ 10	Major	D T S D T T T T D 
+ 10	Major	T T 
+ 7	Minor	D T S T 
+ 10	Major	S S D T 
+ 10	Major	T T T D T D T D T S D 
+ 10	Major	T T D T T S S T S D D T 
+ 4	Major	T T T S 
+ 4	Major	S S D D D T D T D D T 
+ 4	Major	T S S S S D T T D T 
+ 4	Major	D T 
+ 11	Major	D T T S T D T T 
+ 11	Major	T T S 
+ 4	Major	D T T T T T T S 
+ 9	Major	T T T 
+ 11	Major	D T 
+ 4	Major	T S D 
+ 4	Major	T S T S S T D T 
+ 4	Major	D D D T T S T S D D T 
+ 7	Minor	T S S T T D T T D T D 
+ 7	Minor	T S T S T T D D S D T T S 
+ 7	Minor	T D D T S T D 
+ 7	Minor	T T T T T T S S D 
+ 3	Major	S D D D T 
+ 3	Major	D T S T D 
+ 7	Minor	T S S T T D 
+ 5	Major	T D D T T S T S 
+ 5	Major	T S T T D D T T D D D D T 
+ 5	Major	S T S T T S 
+ 10	Major	S S S 
+ 10	Major	D T S T T T T D T T S 
+ 10	Major	D D T T T S 
+ 7	Minor	T S D T D T T D D T 
+ 7	Minor	T T D D D S T T T D T T T T T D 
+ 7	Minor	T S D T D T T D D T 
+ 7	Minor	T T D D D S T 
+ 10	Major	T S D S S T T 
+ 7	Minor	T D 
+ 7	Minor	T 
+ 5	Major	S T S D T D S S T T S 
+ 5	Major	D T D S T D S T S D D T 
+ 5	Major	D D S 
+ 7	Minor	S S T T T S T D S T S 
+ 7	Minor	D 
+ 7	Minor	T S S S S T T S D 
+ 7	Minor	D T S S T S D 
+ 10	Major	T T D D T T T S D S T 
+ 10	Major	T T D D T D T T S D D T 
+ 10	Major	T D T T T T T T S 
+ 5	Major	T D D T 
+ 5	Major	T T S T T S S D D S 
+ 5	Major	T T T S D D T T S S D T S S 
+ 5	Major	D T T D 
+ 0	Major	S S S 
+ 0	Major	T D T S D T D T S T S S 
+ 0	Major	S 
+ 5	Major	T S T T S D D T S D 
+ 5	Major	T D S S 
+ 7	Minor	S T 
+ 10	Major	T T S 
+ 10	Major	D D T D S T 
+ 5	Major	T T D 
+ 5	Major	T T D T T D D 
+ 10	Major	T T S S T T T S D T T D D 
+ 10	Major	T D S T T S T S D T T 
+ 10	Major	T T S S T T T S D T T D D 
+ 10	Major	T D S T T S T S D T T 
+ 10	Major	D D T S T S 
+ 0	Minor	T S D D T 
+ 3	Major	T D D T T T T S D D T 
+ 3	Major	T 
+ 10	Major	S S T T T S D T S D D 
+ 10	Major	T D S T T S T S D T T T 
+ 7	Minor	S T S S S D T T S S 
+ 7	Minor	T D 
+ 0	Minor	T D T T 
+ 0	Minor	S S T T T D D T 
+ 7	Minor	S T S S S D T T S S 
+ 7	Minor	T D 
+ 0	Minor	T D T T 
+ 0	Minor	S S T T T D D T 
+ 3	Major	T T D T S D T T T 
+ 3	Major	S D D T T T D T 
+ 3	Major	S D T T T S D D T 
+ 3	Major	T S D T S 
+ 0	Minor	T T T D 
+ 0	Minor	T T T S D T S T D 
+ 10	Major	T T D T D T S D D D 
+ 10	Major	S D T S D T T D D T T 
+ 10	Major	T D T D T S D D D S D 
+ 10	Major	T S D T T D D T T D D 
+ 10	Major	T T S T S S D S T 
+ 10	Major	T T S S D T S S D 
+ 10	Major	T D T T D D D T 
+ 7	Minor	T T T T S S D D T S T S D D T 
+ 7	Minor	T D S D T T T 
+ 10	Major	T S T D S S T 
+ 10	Major	T S D T T D D T D T T D T 
+ 10	Major	T T T D 
+ 7	Minor	S T T D D T T D 
+ 1	Minor	T T S S D D 
+ 1	Minor	T 
+ 9	Major	D T D T D S T D T D 
+ 9	Major	T S T 
+ 4	Major	D D T D T S 
+ 4	Major	T S D D T D T D T T 
+ 4	Major	T 
+ 9	Major	D D T 
+ 4	Major	D S D T 
+ 4	Major	D D T D D T 
+ 9	Major	D T D T D D 
+ 9	Major	T T D D S S T T T T T D 
+ 9	Major	D 
+ 4	Major	T T S T T S 
+ 4	Major	S S D T T S S D 
+ 9	Major	D 
+ 9	Major	T D T D D D T 
+ 7	Major	T S 
+ 7	Major	T T S S D T T D T 
+ 7	Major	T S D T T T D D T T S S D 
+ 7	Major	D 
+ 2	Major	S T S D D T S 
+ 0	Major	T S S T S 
+ 0	Major	D D D D S S T D T T T D 
+ 2	Major	S D S D S D D D D T T 
+ 2	Major	T S S S T T T D T 
+ 2	Major	D 
+ 9	Major	S S D D T D T S D D T 
+ 9	Major	T S T S T S T S 
+ 7	Major	D T 
+ 9	Major	S S D S D T D T D D T 
+ 9	Major	S S S S 
+ 2	Major	T S S S D T 
+ 2	Major	D D T T T T D D D D T 
+ 4	Minor	T T T T S S T S D D T 
+ 4	Minor	T T T S T S T T D 
+ 4	Minor	T T T T D T T 
+ 4	Minor	T T T T S S T S D D T 
+ 4	Minor	T T T S T S T T D 
+ 4	Minor	T T T T D T T 
+ 4	Minor	T T T T S S T T D 
+ 11	Minor	T T 
+ 11	Minor	T T S T T T S T T T D D 
+ 11	Minor	T T S S S T S S D T 
+ 4	Major	D 
+ 4	Major	T 
+ 0	Major	T T S D D D T 
+ 0	Major	T S T T T D 
+ 0	Major	T S D T 
+ 7	Major	S S D 
+ 7	Major	D T T S D T T S 
+ 7	Major	D T S D T T T 
+ 7	Major	S T T S D 
+ 0	Major	T T T S S T T T T T D D D T 
+ 0	Major	T D S T S 
+ 9	Minor	S T T D D T T T 
+ 9	Minor	D D T 
+ 0	Major	T T T S S T T 
+ 0	Major	T T T D D D T T D S T S 
+ 9	Minor	S 
+ 9	Minor	T T D D T T T D D T 
+ 9	Minor	T D S 
+ 7	Major	D D D T T T D T T T T S S 
+ 7	Major	D T 
+ 9	Minor	T T T S S T T D D T S 
+ 9	Minor	T T D D 
+ 4	Minor	T T S 
+ 0	Major	T T T S 
+ 0	Major	D T 
+ 9	Minor	T S D T S S S S T D D 
+ 9	Minor	T T T T D 
+ 9	Major	T D T D T D T 
+ 6	Minor	T D D T 
+ 6	Minor	D T S D D T T S 
+ 9	Major	S D D S S 
+ 9	Major	T T S D D T 
+ 6	Minor	T T S D 
+ 6	Minor	T S D T S D T T T T 
+ 6	Major	T T S S S D T 
+ 11	Major	D T T T D S T S 
+ 11	Major	T D T D T T S 
+ 11	Major	D 
+ 6	Minor	T 
+ 1	Minor	S T T S D T 
+ 4	Major	S T T S D D T S 
+ 4	Major	S D T T S 
+ 9	Major	T D 
+ 9	Major	T S D T D D T 
+ 9	Major	S 
+ 9	Major	T S S D T D S D T 
+ 9	Major	T S S T S D T 
+ 9	Major	T S S D T D S D T 
+ 9	Major	T S S T S D T 
+ 9	Major	D D D D T D D T D T 
+ 9	Major	T T D T D T S T S 
+ 9	Major	D D T 
+ 7	Major	T T D T S S T D D T 
+ 7	Major	S S D S S T T S D D T 
+ 7	Major	T T D T S S T D D T 
+ 7	Major	S S D S S T T S D D T 
+ 7	Major	T S S S S D D T T T T S 
+ 7	Major	T T S T T D D T 
+ 2	Major	S D D T 
+ 2	Major	S S 
+ 7	Major	S T S D D T T D D T 
+ 11	Minor	D T D D T D T S T T D D 
+ 11	Minor	T 
+ 9	Major	T 
+ 2	Major	D T T D T 
+ 2	Major	S S T T T T D T 
+ 11	Minor	S T D D T D T S T T D D 
+ 11	Minor	T 
+ 9	Major	T 
+ 2	Major	D T T D T 
+ 2	Major	S S T T T T D T 
+ 2	Major	T T D T D D T T T S D T 
+ 2	Major	D T D S T T T T T T S 
+ 2	Major	T S T D T D D T 
+ 2	Major	D 
+ 11	Minor	D D D S T S T S T 
+ 2	Major	S T D T 
+ 2	Major	S D D T S D T D T T T T T T 
+ 2	Major	D T 
+ 4	Minor	D D 
+ 4	Minor	S D T T S T T S S T D D T 
+ 4	Minor	T T T D T D S D 
+ 4	Minor	D D 
+ 4	Minor	S D T T S T T S S T D D T 
+ 4	Minor	T T S D S T D 
+ 11	Minor	T T S D T 
+ 11	Minor	S T S S S T T T T S T T D T 
+ 11	Minor	D T T S D T 
+ 4	Minor	T D S D D T D 
+ 4	Minor	T D T T S S T S T S T D T 
+ 4	Minor	T S S S S D 
+ 0	Major	T T T T S S S D D D T 
+ 0	Major	D D D D T 
+ 7	Major	T D D T T S T S D T T 
+ 0	Major	D T D T T S S S S D T S D 
+ 0	Major	T T D T T S S D D T T S S S 
+ 0	Major	D T T T T D T S D D D 
+ 7	Major	T 
+ 7	Major	D D D D S D T 
+ 0	Major	T T T T S T T 
+ 0	Major	S S D D T 
+ 2	Major	S T S T D T 
+ 2	Major	D T S T S 
+ 7	Major	T S T S D T 
+ 7	Major	T 
+ 2	Major	S T S T D T 
+ 2	Major	D T S T S 
+ 7	Major	T S T S D T 
+ 7	Major	T T S D T D T S 
+ 7	Major	D T T T T S 
+ 7	Major	S D S S T T D 
+ 7	Major	T T D S S 
+ 4	Minor	D T T 
+ 4	Minor	S T D D T T 
+ 7	Major	T 
+ 7	Major	S T S D T D T S 
+ 7	Major	D D T D T 
+ 0	Major	T S T S T T T S T D T 
+ 0	Major	T D S 
+ 9	Minor	T S S T T D D T T T T 
+ 9	Minor	D D T T 
+ 0	Major	S T S T T 
+ 0	Major	T S T D T T D S 
+ 9	Minor	T S S 
+ 9	Minor	T T D D T T T T D D T 
+ 9	Minor	T D S 
+ 7	Major	S D D T D T T S D T 
+ 7	Major	S S D T 
+ 9	Minor	T T D T S T T D 
+ 9	Minor	T 
+ 0	Major	S T S S T T T T S 
+ 9	Minor	T D D T 
+ 9	Minor	T S D T S S S D T D T T T 
+ 9	Minor	D 
+ 0	Minor	D D D D 
+ 0	Minor	T T S D D D D T 
+ 0	Minor	T T D T S D D D D 
+ 0	Minor	T T S D D D D T 
+ 3	Major	T S S T D T 
+ 3	Major	D T S D T T T T S T D S D 
+ 3	Major	D T T S S S D D S T 
+ 3	Major	D T S S T 
+ 9	Minor	T S T T T S T T S S D T D 
+ 9	Minor	T T T D T T T T D T 
+ 7	Major	T 
+ 7	Major	S T D S D D T T T S D D T D T 
+ 7	Major	S T S S T 
+ 0	Major	S T T T T D T T 
+ 0	Major	T 
+ 9	Minor	D T T D S T S T T S D T T D 
+ 9	Minor	D T T D D S T S T S S T S D S 
+ 9	Minor	T 
+ 7	Minor	T T T D T T T T D D T T D 
+ 7	Minor	D T T D D T T T S S T 
+ 7	Minor	D D T D T D D T T 
+ 7	Minor	T T D D T T D D T T 
+ 7	Minor	D D T T T S S T D D T 
+ 2	Minor	S D T D D T S T S 
+ 5	Major	D T 
+ 5	Major	T D D S 
+ 7	Minor	T T T D T T T S S 
+ 7	Minor	D T T D T D 
+ 7	Minor	T T S T D 
+ 7	Minor	T T T D T S S S S D D T 
+ 7	Minor	T T T T S D T S S T D 
+ 7	Minor	T D T T D T S S S S D D T 
+ 7	Minor	T T T T S D T S S T D 
+ 7	Minor	D 
+ 5	Major	S S D 
+ 10	Major	D T T T T S S D 
+ 10	Major	T S D T T T S S S S D D T 
+ 10	Major	T T T T D D T 
+ 7	Minor	T T S S D 
+ 7	Minor	T T T S T S D 
+ 0	Major	D D D 
+ 0	Major	T T 
+ 7	Major	T 
+ 7	Major	T D T 
+ 7	Major	D D T T D D D 
+ 7	Major	T 
+ 7	Major	T 
+ 0	Major	D D D 
+ 0	Major	T T 
+ 7	Major	T 
+ 7	Major	T D T 
+ 7	Major	D D T T D D D 
+ 7	Major	T 
+ 2	Major	T 
+ 7	Major	D D T T T 
+ 2	Major	T 
+ 2	Major	T S D T T 
+ 2	Major	D D T 
+ 0	Major	D T D 
+ 0	Major	T T D T 
+ 7	Major	T 
+ 7	Major	D T D D 
+ 7	Major	T 
+ 7	Major	T T S T S D D D 
+ 7	Major	D D D T T T T 
+ 2	Major	D 
+ 2	Major	T T T S S S T 
+ 7	Major	T T T S D D T D 
+ 7	Major	T D T S D T 
+ 7	Major	D D T T T D T 
+ 2	Major	T D T S T S T S D D T T D S D 
+ 2	Major	T S D T S S T T S D S S D D T 
+ 2	Major	T D T S T S T S D D T T D S D 
+ 2	Major	T S D T S S T T S D S S D D T 
+ 2	Major	T S T T S 
+ 9	Major	D T S D 
+ 2	Major	D T S 
+ 2	Major	T T S S D T T T S D D T 
+ 2	Major	S 
+ 4	Minor	T S T T T T D D D D T 
+ 2	Major	S T 
+ 2	Major	T T D D S S D T D T T S S D D T 
+ 4	Minor	T D S S S T S D D T 
+ 4	Minor	T D S T D T D T T S D 
+ 4	Minor	T T T S D D T 
+ 4	Minor	T D S S S T S D D T 
+ 4	Minor	T D S T D T D T T S D 
+ 4	Minor	T T T S D D T 
+ 4	Minor	T D D T S T T T D 
+ 7	Major	D T 
+ 11	Minor	T T S T T T S T T T D D 
+ 11	Minor	T 
+ 9	Minor	S T S D S D T T D D T 
+ 9	Minor	T T S T S D T T D T 
+ 0	Major	D T D T S T S S D 
+ 0	Major	T D T T 
+ 2	Minor	T T D T T T 
+ 2	Minor	D T D T S T S S D 
+ 2	Minor	T T T S S D T T T D T D 
+ 11	Minor	T T T D T D D T S S D 
+ 11	Minor	D 
+ 2	Major	T 
+ 11	Minor	T S T 
+ 11	Minor	T T S D T T T T D T 
+ 11	Minor	D D T S S D D 
+ 2	Major	T 
+ 11	Minor	T S T T T S D T 
+ 11	Minor	D T D T T T T S 
+ 2	Major	D T T 
+ 2	Major	T D T S 
+ 3	Major	T T D T D D D T 
+ 3	Major	T S T D D T T S S D T T S S T 
+ 3	Major	T T D S D D T T S T S D D T 
+ 3	Major	T D D S D T S S D T D T T 
+ 3	Major	D D T 
+ 0	Minor	S S D T T S S T T T D 
+ 0	Minor	T T S T S S S T S T D D T T 
+ 0	Minor	T T S S S D T D T S D T T D T T 
+ 4	Major	T D D T D T S T S S S T T S 
+ 4	Major	D T T T D T S S D T D T S D 
+ 4	Major	T D D T D T S T S S S T T S 
+ 4	Major	D T T T 
+ 11	Major	T S D D T S T T D T 
+ 11	Major	S S S D T T D T S T D T 
+ 11	Major	S S 
+ 4	Major	T T S S T S T S T 
+ 4	Major	T D S S T D D S D T 
+ 2	Minor	T T T T S S T T T T D D T 
+ 2	Minor	T T T T S S S S T T T S S D 
+ 2	Minor	T D T T S S D D T 
+ 2	Minor	T T T T S S T T T T D D T 
+ 2	Minor	T T T T S S S S T T T S S D 
+ 2	Minor	T D T T S S D D T 
+ 2	Minor	T T T 
+ 5	Major	T S S T T D T T D D T 
+ 5	Major	T T S S D D T T T 
+ 9	Minor	D T T 
+ 2	Minor	D D D D 
+ 2	Minor	T T T T T S S T S T D D D 
+ 11	Minor	T T T D T T D D S S S S D 
+ 11	Minor	D D T D D S S T T T T S S 
+ 11	Minor	T T T T T D T T 
+ 11	Minor	D D S S S S D D D T D D 
+ 11	Minor	S S T T T T S S T T 
+ 11	Minor	D T T D S T 
+ 2	Major	T T S S S D D T 
+ 2	Major	T T D T S D T S S T S T 
+ 7	Minor	T T D T T S D 
+ 7	Minor	D T S S T S D 
+ 7	Minor	D T 
+ 10	Major	D T T T T S D T 
+ 10	Major	T T D S T T T T S S D T 
+ 10	Major	T D T T T 
+ 5	Major	T S D T D T 
+ 5	Major	D T 
+ 7	Minor	D T D T T S T S D 
+ 4	Major	D T D T S T S S T 
+ 11	Major	S T 
+ 11	Major	T T S T S T S S D 
+ 4	Major	S D D S S D 
+ 4	Major	T D T D T S T S S T 
+ 11	Major	S T 
+ 11	Major	T T S T S T S S D D T T D D T 
+ 11	Major	S T S D T T D D T T S S D D T 
+ 4	Major	T 
+ 6	Minor	T D T S S T T D T D D T T T D 
+ 6	Minor	D D T D T T D 
+ 4	Major	S D D T S D D T 
+ 2	Minor	T D T S S T T T T D D T 
+ 2	Minor	D T T S S T T D D T T S D 
+ 2	Minor	D S T T T D T D S T D T 
+ 2	Minor	S 
+ 9	Minor	T T S S T T S D T T S D T 
+ 9	Minor	D T 
+ 5	Major	T S S D D T T T T S D T 
+ 5	Major	T S 
+ 2	Minor	S T D T T S S T T S 
+ 0	Major	D T T D T S S T T T T D D T 
+ 7	Major	T S T S S D D T T D D T 
+ 7	Major	T T D T S T T D S T T S S D 
+ 7	Major	D 
+ 2	Major	T T S D 
+ 7	Major	S D D T S T S D T D 
+ 7	Major	T S D T T T S S T 
+ 11	Minor	T 
+ 11	Minor	T T D D T D S S S T T D D T T S 
+ 11	Minor	D D T T S D T D 
+ 11	Minor	T 
+ 9	Major	D T 
+ 11	Minor	T T T D D T D S S S 
+ 11	Minor	T T D D T T S D D T 
+ 4	Major	D T 
+ 9	Major	T D D T D T T S S D T 
+ 9	Major	S D T D D S T 
+ 11	Minor	D S T T T S S S S D 
+ 11	Minor	T S D T D T T 
+ 11	Minor	T 
+ 11	Minor	T T D D T D S S S T T D D T T S 
+ 11	Minor	D 
+ 0	Minor	T T D T D D T S D 
+ 0	Minor	D D T S S T T T T T 
+ 0	Minor	D T T T D T 
+ 0	Minor	D D T S D D D T 
+ 0	Minor	S S T T T T T D T 
+ 3	Major	T T D D T T T S D D T 
+ 3	Major	T S D S S T T D S T S 
+ 0	Minor	T T 
+ 0	Minor	D 
+ 2	Major	S D T D D T D D D T T D D T 
+ 2	Major	T S S D T T D T 
+ 2	Major	D T S 
+ 9	Major	D T T 
+ 2	Major	T T D S D D 
+ 2	Major	D T D T T T T S 
+ 9	Major	S D D D D D S S D T 
+ 9	Major	S S 
+ 2	Major	T S T D T 
+ 2	Major	D T D S T S S S D D T 
+ 7	Major	T T T S S T S D S T S 
+ 7	Major	T T D D D T S T S D T 
+ 7	Major	T D T T D 
+ 4	Minor	T D T T T T T 
+ 4	Minor	T 
+ 7	Major	D T D D T T S D T 
+ 7	Major	T T S T D S T D T T T S 
+ 7	Major	S T T T T S S D D T T S S D 
+ 7	Major	D S T S T D T T S T D D T T D T T 
+ 7	Major	D T D T 
+ 2	Minor	T S T D D T 
+ 5	Major	S T T T 
+ 5	Major	T S S D T T D D T 
+ 5	Major	T S D T D D T S T T T 
+ 5	Major	T S S D T T D D T 
+ 5	Major	T D T T S S S T T T D 
+ 5	Major	D T T S S T T D S 
+ 5	Major	T S S D T T D D T 
+ 10	Major	T T D T S T T S D T 
+ 10	Major	T T T T T T D T D T S D 
+ 10	Major	D D T T S S T T T S S D 
+ 10	Major	T T D T S T T S S S S S T 
+ 10	Major	T S D D T D D D T T T T S D 
+ 10	Major	T T S D D T T S D T S D D T 
+ 7	Major	T T T D T S S T T T D D T 
+ 7	Major	S S D S S T T T T D D T D D T 
+ 7	Major	T T T D T S S T T T D D T 
+ 7	Major	S S D S S T T T T D D T D D T 
+ 7	Major	T S S S S D D 
+ 2	Major	T T T T S 
+ 2	Major	S S D D S D T 
+ 7	Major	S T T T S S D 
+ 7	Major	T S D T S D D T T D D T D T
+
+
+

@@ -1,64 +1,58 @@
-Kulitta version 2.0.1.06
-Donya Quick
-Last modified 08-December-2015
+Kulitta: a Library for Automated Music Composition
+(c) Donya Quick 2014-2016
+Version: 2.2.0
 
-NOTE: this version of the code uses Euterpea 1.1 and UISF 4.0 
-on Hackage. It will NOT work with Euterpea 1.0 or UISF <4. 
-If you have older versions of Euterpea already installed, you
-can update them by doing this:
+Kulitta is a framework for automated composition that 
+can also be configured to run as a standalone AI for 
+generating music in a particular style. 
 
-cabal update
-cabal install Euterpea
+This library is not intended for commercial use.
 
-If you get warnings about reinstalling, you can use this:
+For more information on Kulitta, go to:
+http://www.donyaquick.com/kulitta
 
-cabal install Euterpea --reinstall --force-reinstalls
+Note: Kulitta's graphical interface is now provided
+as an example use of the larger Kulitta library. It
+is located in the Kulitta\GUI folder in GUI.lhs. 
 
-Kulitta was the subject of my doctoral dissertation titled
-"Kulitta: a Framerwork for Automated Composition" published 
-Deceber 2014. Kulitta is a subject of ongoing research and 
-therefore continues to be updated over time.
 
-Kulitta 1.1 represents a Euterpea 1.0 compatible version of 
-the doctoral thesis code - it is very close to what is printed
-in the dissertation itself. 
+======================
 
-Kulitta 2.0.0 has many additioanl changes to various parts of 
-Kulitta, particularly to the types and other representations 
-used for Probabilistic Temporal Graph Grammars (PTGGs). The 
-PTGG implementation has been "un-monaded" for easier control 
-over random threading and is also now more general (and 
-therefore more powerful) such that it can be used for both
-musical and non-musical alphabets more easily. 
+INSTALLATION INSTRUCTIONS
 
-Kulitta 2.0.1 features updates to the graphical interface 
-and requires the newer Euterpea 1.1.0 and UISF 4.0.0. 
+To use Kulitta, you will need Haskell Platform. 
+Please use Haskell Platform 2014 or 7.10.13. Note 
+that Kulitta's GUI may not work on Macs running 
+7.10.3 but should work with Haskell Platform 2014.
 
-See http://www.donyaquick.com/kulitta for more information.
+This version of the code uses Euterpea 2.0 from 
+GitHub. If you want to use Kulitta's GUI, you will 
+also need the HSoM library. See euterpea.com for 
+information on installing these libraries.
 
-To use Kulitta:
+Once you have installed these, run "cabal install" 
+from within the library folder (where kulitta.cabal 
+is located). You can then use Kulitta by importing
+the following:
 
-1. Install Haskell Platform: https://www.haskell.org/platform/
-   Please use 32-bit Haskell Platform 7.10.2 if the option 
-   exists for your operating system, otherwise please use 
-   32-bit Haskell Platform 2014. Euterpea, a library that 
-   Kulitta uses, is not compatible with 64-bit versions of 
-   Haskell Platform.
+Kulitta
+    Contains the PTGG, ChordSpaces, PostProcessing,
+    Search, and Constraints modules. These can also 
+    be imported individually if desired.
+    
+Kulitta.Grammars.MusicGrammars
+    Some musical grammars derived from music theory
+    and recent publications on the topic.
+    
+Kulitta.Foregrounds
+    All of Kulitta's foreground modules. This includes
+    ClassicalFG, JazzFG, and SimplePianoFG. These can
+    also be imported individually if desired.
+    
+Kulitta.Learning.Learning
+    Kulitta's learning module, intended to be compiled
+    and run separately as in LearningMain.lhs. 
+    
+Please consult individual lhs files within the library
+for documentation on the functions within.
 
-2. Install Euterpea. Open a command prompt or terminal and 
-   run: cabal install Euterpea-1.1.0
-
-3. Load any of the modules in Kulitta as described below.
-
-Notable source files:
-
-Kulitta interactive GUI
-	Kulitta.lhs
-	Compiled for Windows as Kulitta.exe
-
-Vesicularia (algorithmic composition example)
-	Vesicularia.lhs
-
-Learning algorithm (see sampleConfig folder for example learning configuration)
-	LearningMain.lhs
-	Learning.lhs

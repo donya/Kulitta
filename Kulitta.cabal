@@ -1,0 +1,49 @@
+name:           Kulitta
+version:        2.2.0
+Cabal-Version:  >= 1.8
+license-file:	License
+copyright:      Copyright (c) 2016 Donya Quick
+category:       Sound
+stability:      experimental
+build-type:     Custom
+author:         Donya Quick <donya.quick@yale.edu>
+maintainer:     Donya Quick <donya.quick@yale.edu>
+bug-reports:    https://github.com/donya/Kulitta/issues
+homepage:       http://www.donyaquick.com/kulitta
+synopsis:       Library for automated composition and musical learning
+description:
+        Kulitta is a framework for automated composition that can also 
+        be configured to run as a standalone AI for generating music 
+        in a particular style. 
+extra-source-files:
+        readme.txt
+
+Library
+  hs-source-dirs: .
+  ghc-options: -O2
+  extensions: CPP
+  exposed-modules: 
+        Kulitta,
+        Kulitta.ChordSpaces.OPTIC,
+        Kulitta.ChordSpaces.ModeSpace,
+        Kulitta.ChordSpaces,
+        Kulitta.PTGG,
+        Kulitta.Search,
+        Kulitta.PostProc,
+        Kulitta.Constraints,
+        Kulitta.QuotientSpaces,
+        Kulitta.Foregrounds.ClassicalFG,
+        Kulitta.Foregrounds.JazzFG,
+        Kulitta.Foregrounds.SimplePianoFG,
+        Kulitta.Foregrounds,
+        Kulitta.EuterpeaSpecial,
+        Kulitta.Grammars.MusicGrammars,
+        Kulitta.Learning.CykParser,
+        Kulitta.Learning.InsideOutside,
+        Kulitta.Learning.Learning,
+        Kulitta.Learning.Parser,
+        Kulitta.Learning.PCFGtoPTGG,
+        Kulitta.Learning.TemporalGen
+  other-modules:
+  build-depends:
+        base >= 3 && < 5, array, deepseq, random, Euterpea >= 2.0, UISF >= 0.4, parallel 
