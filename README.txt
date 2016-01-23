@@ -13,7 +13,7 @@ http://www.donyaquick.com/kulitta
 
 Note: Kulitta's graphical interface is now provided
 as an example use of the larger Kulitta library. It
-is located in the Kulitta\GUI folder in GUI.lhs. 
+is located in the Examples\GUI folder in GUI.lhs. 
 
 
 ======================
