@@ -136,7 +136,8 @@ This version of greedyProg operates over a list of equivalence classes.
 > pairProg' :: (Eq a, Show a) => Predicate (a,a) -> [EqClass a] -> [[a]]
 > pairProg' c [] = [[]]
 > pairProg' c (e:es) = 
->     let newSolns = [(y:ys) | y<-e, ys<-pairProg' c es, c (y, head ys)]
+>     let newSolns = [(y:ys) | y<-e, ys<-pairProg' c es, 
+>                     if null ys then True else c (y, head ys)]
 >     in  if not $ null newSolns then newSolns
 >         else error "No solutions that satisfy the consraints!"
 
