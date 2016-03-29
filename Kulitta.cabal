@@ -1,7 +1,7 @@
 name:           Kulitta
 version:        2.2.0
 Cabal-Version:  >= 1.8
-license-file:	License
+license-file:	LICENSE
 copyright:      Copyright (c) 2016 Donya Quick
 category:       Sound
 stability:      experimental
