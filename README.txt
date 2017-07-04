@@ -1,6 +1,6 @@
 Kulitta: a Library for Automated Music Composition
-(c) Donya Quick 2014-2016
-Version: 2.2.0
+(c) Donya Quick 2014-2017
+Version: 2.2.1
 
 Kulitta is a framework for automated composition that 
 can also be configured to run as a standalone AI for 
