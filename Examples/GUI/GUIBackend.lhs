@@ -16,10 +16,13 @@ Generative backend for Kulitta.lhs (the GUI/console program)
 Data type definitions to allow the user to specify Kulitta's behavior.
 
 > data Style = Chorale | -- in style of JS Bach
+>              PianoChorale | 
 >              JazzChorale | -- grammar, jazz chords, chorale foreground
 >              WeirdChorale | -- grammar through OPT-space
 >              JazzChords | -- grammar with jazz foreground
->              BossaNova -- grammar with bossa foreground
+>              BossaNova | -- grammar with bossa foreground
+>              PianoEtude1 | 
+>              PianoEtude2 
 >    deriving (Eq, Show, Ord, Read)
 > data Form = Phrase | AABA
 >    deriving (Eq, Show, Ord, Read)
@@ -72,7 +75,7 @@ that does end on I (ending on I is not guaranteed by the learned grammar).
 >         endsOnI = endingType tPhrase
 >         rPhrase = toChords (expand [] $ tPhrase)
 >         rPhrase' = expandTSD2 (tsdSpace' m) (okRTrans m) g2 rPhrase
->     putStrLn ("Probabilities: "++show avgProbs)
+>     --putStrLn ("Probabilities: "++show avgProbs)
 >     if endsOnI then return ([], rPhrase') else makeRPhraseB g' m (minD,maxD) iters len partB pfile where
 >     endingType = (==I) . last . map (\(a,b,c) -> c) . toChords . expand []
 
@@ -126,7 +129,8 @@ styles of music according to the user's specifications.
 
 > makePiece g i@(Info s f gr m l k pfile) b = do
 >     let [gStruct, gFG] = take 2 $ splitN g
->         genVals = if chorale s then (5, qn, hn, 4) else (5, wn, wn, 8)
+>         genVals = if elem s [BossaNova, PianoEtude1] then (5, wn, wn, 8) else  (5, qn, hn, 4) 
+>                   --if chorale s then (5, qn, hn, 4) else (5, wn, wn, 8)
 >     absStructs <- makeStructure gStruct i genVals
 >     theMusic <- makeMusic gFG i absStructs
 >     return (procInstrs b theMusic, absStructs)
@@ -150,7 +154,7 @@ styles of music according to the user's specifications.
 >                               makeSubStruct g2 i genVals True]
 >     return structs
 
-> chorale s = elem s [Chorale, JazzChorale, WeirdChorale]
+> chorale s = elem s [Chorale, JazzChorale, WeirdChorale, PianoChorale]
 
 > makeMusic g i@(Info s f gr m l k1 pfile) absStructs = do
 >     let (k2, gFG) = randomR (0,11::Int) g
@@ -161,6 +165,9 @@ styles of music according to the user's specifications.
 >                  WeirdChorale -> addVolume 127 $ buildWChorale gFG absStructs (k,m) 
 >                  JazzChords -> addVolume 127 $ buildJazzChords gFG absStructs (k,m)
 >                  BossaNova -> buildBossaNova gFG absStructs (k,m)
+>                  PianoChorale -> addVolume 127 $ buildPianoChorale gFG absStructs (k,m)
+>                  PianoEtude1 -> addVolume 127 $ buildPianoEtude1 gFG absStructs (k,m)
+>                  PianoEtude2 -> addVolume 127 $ buildPianoEtude2 gFG absStructs (k,m)
 >     putStrLn ("Key of piece: "++ showKey k m ++"\n")
 >     writeFile "term.txt" (show absStructs)
 >     return fg where
@@ -179,6 +186,46 @@ A chorale is pretty straightforward, using the ClassicalFG.lhs implementation.
 >         partA = snd $ snd $ classicalFG' g3 aChords
 >         partA' = snd $ snd $ classicalFG' g4 aChords
 >         partB = snd $ snd $ classicalFG' g5 bChords
+>     in  partA :+: partA' :+: partB :+: partA
+
+
+> buildPianoChorale g [(cons, x)] (k,m) = 
+>     let (lh, rh) = simplePianoFG1x (map toAbsChord $ ctTrans k x) g cons
+>     in  lh :=: rh
+> buildPianoChorale g [(cons1, a), (cons2, b)] (k,m) = 
+>     let [g1, g2, g3] = take 3 $ splitN g
+>         (lhA, rhA) = simplePianoFG1x (map toAbsChord $ ctTrans k a) g1 cons1
+>         (lhA', rhA') = simplePianoFG1x (map toAbsChord $ ctTrans k a) g2 cons1
+>         (lhB, rhB) = simplePianoFG1x (map toAbsChord $ ctTrans k b) g3 cons2
+>         partA = lhA :=: rhA
+>         partA' = lhA' :=: rhA'
+>         partB = lhB :=: rhB
+>     in  partA :+: partA' :+: partB :+: partA
+
+> buildPianoEtude1 g [(cons, x)] (k,m) = 
+>     let (lh, rh) = snd $ simplePianoFGMelx (map toAbsChord $ ctTrans k x) g cons
+>     in  lh :=: rh
+> buildPianoEtude1 g [(cons1, a), (cons2, b)] (k,m) = 
+>     let [g1, g2, g3] = take 3 $ splitN g
+>         (lhA, rhA) = snd $ simplePianoFGMelx (map toAbsChord $ ctTrans k a) g1 cons1
+>         (lhA', rhA') = snd $ simplePianoFGMelx (map toAbsChord $ ctTrans k a) g2 cons1
+>         (lhB, rhB) = snd $ simplePianoFGMelx (map toAbsChord $ ctTrans k b) g3 cons2
+>         partA = lhA :=: rhA
+>         partA' = lhA' :=: rhA'
+>         partB = lhB :=: rhB
+>     in  partA :+: partA' :+: partB :+: partA
+
+> buildPianoEtude2 g [(cons, x)] (k,m) = 
+>     let (lh, rh) = snd $ simplePianoFGArpx (map toAbsChord $ ctTrans k x) g cons
+>     in  lh :=: rh
+> buildPianoEtude2 g [(cons1, a), (cons2, b)] (k,m) = 
+>     let [g1, g2, g3] = take 3 $ splitN g
+>         (lhA, rhA) = snd $ simplePianoFGArpx (map toAbsChord $ ctTrans k a) g1 cons1
+>         (lhA', rhA') = snd $ simplePianoFGArpx (map toAbsChord $ ctTrans k a) g2 cons1
+>         (lhB, rhB) = snd $ simplePianoFGArpx (map toAbsChord $ ctTrans k b) g3 cons2
+>         partA = lhA :=: rhA
+>         partA' = lhA' :=: rhA'
+>         partB = lhB :=: rhB
 >     in  partA :+: partA' :+: partB :+: partA
 
 A "jazz chorale" ads an extra step in the foreground generation, converting 

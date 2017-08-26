@@ -111,7 +111,25 @@ pitches with duration and key/mode context.
 > toVoices :: [TChord] -> [Voice]
 > toVoices ts = 
 >     let (ks,ds,ps) = unzip3 ts
->     in  map (\v -> zip3 ks ds v) $ Data.List.transpose ps
+>     in  if checkMatrix ps then map (\v -> zip3 ks ds v) $ Data.List.transpose $ ps 
+>         else error "(toVoices) chords must all have the same number of voices!" where
+>     checkMatrix [] = True
+>     checkMatrix (x:xs) = and $ map (==length x) $ map length xs
+
+This alternative version of the function turns the list of chords into a matrix 
+by filling in holes with pitch number -1 (which will be interpreted as a rest).
+Chords are padded on the right. So, the progression [[0,4], [0,4,7]] would become
+[[0,4,-1], [0,4,7]].
+
+> toVoices' :: [TChord] -> [Voice]
+> toVoices' ts = 
+>     let (ks,ds,ps) = unzip3 ts
+>     in  map (\v -> zip3 ks ds v) $ Data.List.transpose $ fillGaps ps where
+>     fillGaps [] = []
+>     fillGaps cs = 
+>         let maxLen = maximum $ map length cs
+>             f x = x ++ take (maxLen - length x) (repeat (-1))
+>         in  map f cs
 
 > toNotes :: Voice -> Music Pitch
 > toNotes = line . map (\(k,d,p) -> note' d p) where

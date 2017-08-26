@@ -46,4 +46,4 @@ Library
         Kulitta.Learning.TemporalGen
   other-modules:
   build-depends:
-        base >= 3 && < 5, array, deepseq, random, Euterpea >= 2.0, UISF >= 0.4, parallel 
+        base >= 3 && < 5, array, deepseq, random, Euterpea >= 2.0.4, UISF >= 0.4, parallel 

@@ -54,8 +54,6 @@ be "basic" instead of "mui" (which is the default).
 > import FRP.UISF.UISF
 > import HSoM
 > import FRP.UISF.AuxFunctions
-> import FRP.UISF.Widget (scrollable)
-> import FRP.UISF.UITypes
 > import IOWidgets
 
 
@@ -99,21 +97,15 @@ Main program description. There are two modes: interacive and automated with aru
 
 MUI DEFINITION
 
-> styles = [Chorale, PianoChorale, JazzChorale, WeirdChorale, JazzChords, BossaNova, PianoEtude1, PianoEtude2]
+> styles = [Chorale, JazzChorale, WeirdChorale, JazzChords, BossaNova]
 > forms = [Phrase, AABA]
 > grams = [HandBuilt, Learned]
 > modes = [Major, Minor]
 
-> settingsPanel = rightLeft $ proc _ -> do
->   (form',gram',mode', instr', let', key') <- inputPaneB -< ()
->   (style', mo) <- inputPaneA -< ()
->   returnA -< (style', mo, form', gram', mode', instr', let', key')
-
 > mui = runMUI defaultMUIParams{uiSize=(500,570), uiTitle=(programTitle++" - Graphical Interface")} $ proc _ -> do
->   label "Select composition parameters, then generate and play." -< ()
->   --label "The command prompt will show the generation/playback status." -< ()
->   --label "" -< ()
->   --(style', mo, form', gram', mode', instr', let', key') <- settingsPanel -< ()
+>   label "Please specifty composition parameters for Kulitta." -< ()
+>   label "The command prompt will show the generation/playback status." -< ()
+>   label "" -< ()
 >   (style', mo) <- inputPaneA -< ()
 >   (form',gram',mode', instr', let', key') <- inputPaneB -< ()
 >   probsFile <- leftRight $ label "Prob. file:  " >>> textbox "" -< Nothing
@@ -122,7 +114,6 @@ MUI DEFINITION
 >   fileName' <- unique -< fileName
 >   outFile <- leftRight $ label "Output File: " >>> textbox "test.mid" -< fileName' 
 >   volStr<- leftRight $ label "Playback volume (0.0 to 1.0): " >>> textbox "1.0" -< Nothing
->   spdStr<- leftRight $ label "Playback speed  (>0)):        " >>> textbox "1.0" -< Nothing
 >   let s = styles !! style'
 >       f = forms !! form'
 >       g = grams !! gram'
@@ -132,12 +123,10 @@ MUI DEFINITION
 >       iKey = key'==0
 >       iVal = Info s f g m iLet iKey probsFile
 >       vol0 = reads volStr
->       vol = if null vol0 then 0.8 else fst $ head vol0
->       spd0 = reads spdStr
->       spd = if null spd0 then 1.0 else fst $ head spd0
+>       vol = if null vol0 then 1.0 else fst $ head vol0
 >   (g,p) <- buttons -< ()
 >   let g' = fmap (const (iVal, seed, outFile, iMIDI)) g
->       p' = fmap (const (outFile, mo, vol, spd)) p
+>       p' = fmap (const (outFile, mo, vol)) p
 >   basicIOWidget genWrap -< g'
 >   basicIOWidget playWrap -< p'
 >   returnA -< () 
@@ -156,9 +145,9 @@ MUI DEFINITION
 >         return (Just $ show $ abs x) -- convert it to SEvent String format
 
 > genWrap (i, seed, outFile, inst) = automated i seed outFile inst
-> playWrap (fname, devID, vol, spd) = do
+> playWrap (fname, devID, vol) = do
 >    putStrLn "\nPlaying...(please wait)\n" 
->    playXS fname devID channelOffset vol spd 
+>    playX fname devID channelOffset vol 
 >    putStrLn "\nDone!\n\n"
 
 > buttons = leftRight $ proc _ -> do
@@ -182,7 +171,7 @@ MUI DEFINITION
 >       returnA -< (form, gram, lets)
 >     inputPane3 = topDown $ proc _ -> do
 >       mode <- topDown $ title "Mode" $ radio ["Major", "Minor"] 0 -< ()
->       instr <- topDown $ title "Assign instruments?" $ radio ["Yes", "No"] 0 -< ()
+>       instr <- topDown $ title "Assign MIDI instruments?" $ radio ["Yes", "No"] 0 -< ()
 >       key <- topDown $ title "Random key?" $ radio ["Yes", "No"] 0 -< ()
 >       returnA -< (mode, instr, key)
 
@@ -205,7 +194,7 @@ CONSOLE PROGRAM DEFINITION
 >     putStrLn "To call Kulitta with a graphical interface, just run 'Kulitta' (no arguments)."
 >     putStrLn "To use Kulitta from the command prompt, run 'Kulitta basic' and follow the prompts.\n"
 >     putStrLn "To provide arguments, use 'Kulitta s f m g i b x' where"
->     putStrLn "  s = Chorale | JazzChorale | WeirdChorale | JazzChords | BossaNova | PianoEtude"
+>     putStrLn "  s = Chorale | JazzChorale | WeirdChorale | JazzChords | BossaNova"
 >     putStrLn "  f = Phrase | AABA"
 >     putStrLn "  m = Major | Minor"
 >     putStrLn "  g = HandBuilt | Learned"

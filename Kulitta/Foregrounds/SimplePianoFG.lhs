@@ -1,7 +1,10 @@
 > module Kulitta.Foregrounds.SimplePianoFG(
 >     simplePianoFG1,
+>     simplePianoFG1x,
 >     simplePianoFGMel,
->     simplePianoFGArp
+>     simplePianoFGMelx,
+>     simplePianoFGArp,
+>     simplePianoFGArpx
 >     ) where
 > import Kulitta
 
@@ -47,6 +50,16 @@ classicalCS2' fFilter ranges g aChords consts
 >         (g2, (lhM, rhM)) = classicalFGx g1 newChords
 >     in  (lhM, rhM)
 
+> simplePianoFG1x :: [TChord] -> StdGen -> Constraints -> (Music Pitch, Music Pitch)
+> simplePianoFG1x triads g0 k = 
+>     let lr = (43, 60) -- where the left hand can play
+>         rr = (60, 79) -- where the right hand can play
+>         rans = [lr, lr, rr, rr] -- ranges for each of 4 voices
+>         pianoFilter [a,b,c,d] = b-a <= 12 && d - c <= 8
+>         (g1, newChords) = classicalCS2x pianoFilter rans g0 triads k
+>         (g2, (lhM, rhM)) = classicalFGx g1 newChords
+>     in  (lhM, rhM)
+
 Modification of the classical foreground code to address piano playability.
 
 > classicalCS2x :: Predicate AbsChord -> [(AbsPitch, AbsPitch)] -> StdGen -> [TChord] -> Constraints -> (StdGen, [TChord])
@@ -84,6 +97,26 @@ Scale-based piano pieces with a simple right and left hand.
 >     let aChords = toAbsChords terms -- convert to basic triads
 >         k = findInds [] terms -- find let constraints
 >         (g1, lhPCs) = simpleLH g0 aChords -- simplify lefthand pitch classes
+>         lhSpace = filter (\[a,b] -> b-a <= 12 && a<=b) (makeRange [(40,59),(40,59)]) // opcEq
+>         eqsL = map (eqClass lhSpace opcEq) lhPCs -- locate lefthand equivalence classes
+>         (g2,g3) = split g1 -- get new generators
+>         lhChords = greedyLet (const True) defFall k  eqsL g2 -- lefthand chords in OPC space
+>         lhTChords = zipWith (\(k,d,_) x -> (k,d,x)) aChords lhChords -- reattach durations
+>         (g4, lh) = lhFG g3 lhTChords -- create lefthand foreground
+>         ----
+>         (g5, rhPCs) = simpleRH g4 aChords -- simplify righthand pitch classes
+>         rhSpace = (filter (\xs -> maximum xs - minimum xs <= 9) (makeRange [(60,80),(60,80)]) // opcEq) ++
+>                   (map (\x -> [[x]]) [60..80])
+>         eqsR = map (eqClass rhSpace opEq) rhPCs -- locate righthand equivalence classes
+>         (g6,g7) = split g5 -- split generator again
+>         rhChords = greedyLet (smoothMel 4) nearestMel k eqsR g6 -- pick righthand chords in OPC space
+>         rhTChords = zipWith (\(k,d,_) x -> (k,d,x)) aChords rhChords -- reattach durations
+>         (g8, rh) = rhFG g7 rhTChords -- create scale patterns with passing/neighboring tones
+>     in  (g8, (lh, rh)) -- return each hand's part as a separate music value
+
+> simplePianoFGMelx :: [TChord] -> StdGen -> Constraints -> (StdGen, (Music Pitch, Music Pitch))
+> simplePianoFGMelx aChords g0 k = 
+>     let (g1, lhPCs) = simpleLH g0 aChords -- simplify lefthand pitch classes
 >         lhSpace = filter (\[a,b] -> b-a <= 12 && a<=b) (makeRange [(40,59),(40,59)]) // opcEq
 >         eqsL = map (eqClass lhSpace opcEq) lhPCs -- locate lefthand equivalence classes
 >         (g2,g3) = split g1 -- get new generators
@@ -205,6 +238,15 @@ on a score this way with software such as MuseScore.
 >         rhM = toArpMusic tRH
 >         lhM = vsToMusic $ toVoices tLH
 >     in  (g1, (lhM, rhM))
+
+> simplePianoFGArpx :: [TChord] -> StdGen -> Constraints -> (StdGen, (Music Pitch, Music Pitch))
+> simplePianoFGArpx aChords g0 k = 
+>     let (g1, tcs) = classicalCS2x' g0 aChords k
+>         (tLH, tRH) = splitTChords 1 tcs
+>         rhM = toArpMusic tRH
+>         lhM = vsToMusic $ toVoices tLH
+>     in  (g1, (lhM, rhM))
+
 
 Another redoing of the chorale-inspired chord spaces.
 

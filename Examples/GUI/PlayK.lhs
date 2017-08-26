@@ -30,6 +30,15 @@ program. If the file doesn't exist, an error message will be printed.
 >   seq x $ case x of Left err -> putStrLn ("Error: "++err) >> return ()
 >                     Right m -> playM' devID (trackMod chanOffset vol m)
 
+> playXS fp devID chanOffset vol speed = do
+>   x <- tryImportFile fp 
+>   seq x $ case x of Left err -> putStrLn ("Error: "++err) >> return ()
+>                     Right m -> do 
+>                         let mx = fromMidi m
+>                         putStrLn ("Playback speed:  "++show speed)
+>                         putStrLn ("Playback volume: "++show vol)
+>                         playM' devID (trackMod chanOffset vol $ toMidi $ perform $ tempo (toRational speed) mx)
+
 > writeX fp m chanOffset = 
 >   let x = trackMod 0 (-1) $ toMidi m 
 >   in  exportMidiFile fp x
