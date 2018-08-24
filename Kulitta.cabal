@@ -1,6 +1,7 @@
 name:           Kulitta
 version:        2.2.1
 Cabal-Version:  >= 1.8
+license:        OtherLicense
 license-file:	LICENSE
 copyright:      Copyright (c) 2016 Donya Quick
 category:       Sound
