@@ -1,7 +1,6 @@
 name:           Kulitta
-version:        2.2.1
+version:        2.2.2
 Cabal-Version:  >= 1.8
-license:        OtherLicense
 license-file:	LICENSE
 copyright:      Copyright (c) 2016 Donya Quick
 category:       Sound
@@ -13,9 +12,9 @@ bug-reports:    https://github.com/donya/Kulitta/issues
 homepage:       http://www.donyaquick.com/kulitta
 synopsis:       Library for automated composition and musical learning
 description:
-        Kulitta is a framework for automated composition that can also 
-        be configured to run as a standalone AI for generating music 
-        in a particular style. 
+        Kulitta is a framework for automated composition that can also
+        be configured to run as a standalone AI for generating music
+        in a particular style.
 extra-source-files:
         readme.txt
 
@@ -23,7 +22,7 @@ Library
   hs-source-dirs: .
   ghc-options: -O2
   extensions: CPP
-  exposed-modules: 
+  exposed-modules:
         Kulitta,
         Kulitta.ChordSpaces.OPTIC,
         Kulitta.ChordSpaces.ModeSpace,
@@ -47,4 +46,4 @@ Library
         Kulitta.Learning.TemporalGen
   other-modules:
   build-depends:
-        base >= 3 && < 5, array, deepseq, random, Euterpea >= 2.0.4, UISF >= 0.4, parallel 
+        base >= 3 && < 5, array, deepseq, random, Euterpea >= 2.0.4, UISF >= 0.4, parallel

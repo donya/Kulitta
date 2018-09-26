@@ -7,7 +7,7 @@ NOTE: this version of the code uses:
 - UISF 0.4
 - HSoM 1.0
 
-See euterpea.com for information on installing 
+See euterpea.com for information on installing
 Euterpea and HSoM. UISF will be installed automatically
 in the process of installing those two libraries.
 
@@ -18,20 +18,20 @@ interactive interface. The program can be compiled by:
 
 ghc -O2 Kulitta.lhs
 
-Running "Kulitta" will start the program in GUI/MUI mode. 
+Running "Kulitta" will start the program in GUI/MUI mode.
 The program will also respond to different arguments:
 
 Kulitta help		Explains how to use the program.
 Kulitta about		More information about the program.
-Kulitta basic		Interactive, command-line version. 
+Kulitta basic		Interactive, command-line version.
 
 To run Kulitta in GHCI, you can load this file and run the
 "main" function directly, starting the progam in GUI mode.
-However, you will not be able to use the argument-based 
+However, you will not be able to use the argument-based
 methods of interaction through GHCI. If you would like to
-use enter the parameters using a text-based series of 
-prompts in GHCI, change the contents of "settings.txt" to  
-be "basic" instead of "mui" (which is the default). 
+use enter the parameters using a text-based series of
+prompts in GHCI, change the contents of "settings.txt" to
+be "basic" instead of "mui" (which is the default).
 
 -------------------------------------------
 
@@ -41,7 +41,7 @@ be "basic" instead of "mui" (which is the default).
 > import GUIBackend
 > import Kulitta.EuterpeaSpecial
 > import Kulitta.Foregrounds
-> import Kulitta 
+> import Kulitta
 > import Kulitta.Grammars.MusicGrammars
 > import System.Random
 > import Kulitta.Learning.Learning
@@ -77,8 +77,8 @@ Main program description. There are two modes: interacive and automated with aru
 >     hSetBuffering stdout NoBuffering -- required to make things print in the right order
 >     putStrLn ("\n\n===== "++ programTitle ++ "=====\n")
 >     args <- getArgs
->     if length args == 0 then putStrLn "\nHello! The graphical interface is now active. \n" >> 
->                              runDefault else 
+>     if length args == 0 then putStrLn "\nHello! The graphical interface is now active. \n" >>
+>                              runDefault else
 >         if args !! 0 == "basic" then runBasicVersion else
 >         if args !! 0 == "help" then printDirections else
 >         if args !! 0 == "about" then printAbout else
@@ -87,12 +87,13 @@ Main program description. There are two modes: interacive and automated with aru
 >         else processArgs args
 
 > runDefault = do
->    files <- getDirectoryContents ""
+>    cwd <- getCurrentDirectory
+>    files <- getDirectoryContents cwd
 >    if not (elem "settings.txt" files) then putStrLn "File settings.txt not found." >> runMuiVersion else do
 >         startMode <- readFile "settings.txt"
 >         if take 5 startMode == "basic" then runBasicVersion else runMuiVersion
 
-> runMuiVersion = mui >> putStrLn "\nGraphical interface closed. Goodbye!\n\n" 
+> runMuiVersion = mui >> putStrLn "\nGraphical interface closed. Goodbye!\n\n"
 > runBasicVersion = interactive >> putStrLn "\nGoodbye!\n\n"
 
 =======================
@@ -118,9 +119,9 @@ MUI DEFINITION
 >   (form',gram',mode', instr', let', key') <- inputPaneB -< ()
 >   probsFile <- leftRight $ label "Prob. file:  " >>> textbox "" -< Nothing
 >   seed <- leftRight $ seedPanel -< ()
->   let fileName = "output\\" ++ show (styles !! style') ++ "_" ++ show seed ++ ".mid"
+>   let fileName = "output/" ++ show (styles !! style') ++ "_" ++ show seed ++ ".mid"
 >   fileName' <- unique -< fileName
->   outFile <- leftRight $ label "Output File: " >>> textbox "test.mid" -< fileName' 
+>   outFile <- leftRight $ label "Output File: " >>> textbox "test.mid" -< fileName'
 >   volStr<- leftRight $ label "Playback volume (0.0 to 1.0): " >>> textbox "1.0" -< Nothing
 >   spdStr<- leftRight $ label "Playback speed  (>0)):        " >>> textbox "1.0" -< Nothing
 >   let s = styles !! style'
@@ -140,7 +141,7 @@ MUI DEFINITION
 >       p' = fmap (const (outFile, mo, vol, spd)) p
 >   basicIOWidget genWrap -< g'
 >   basicIOWidget playWrap -< p'
->   returnA -< () 
+>   returnA -< ()
 
 > seedPanel :: UISF () Int
 > seedPanel = proc _ -> do
@@ -148,7 +149,7 @@ MUI DEFINITION
 >       b <- edge <<< button "Random!" -< () -- button to automatically get a random number
 >       x <- ioWidget2 Nothing (const rFun) -< b
 >       let seed = let x = reads seedT :: [(Int, String)] -- parse the string
->                  in  if null x then 0 else fst $ head x 
+>                  in  if null x then 0 else fst $ head x
 >   returnA -< seed where
 >     rFun :: IO (Maybe String)
 >     rFun = do
@@ -157,8 +158,8 @@ MUI DEFINITION
 
 > genWrap (i, seed, outFile, inst) = automated i seed outFile inst
 > playWrap (fname, devID, vol, spd) = do
->    putStrLn "\nPlaying...(please wait)\n" 
->    playXS fname devID channelOffset vol spd 
+>    putStrLn "\nPlaying...(please wait)\n"
+>    playXS fname devID channelOffset vol spd
 >    putStrLn "\nDone!\n\n"
 
 > buttons = leftRight $ proc _ -> do
@@ -196,7 +197,7 @@ MUI DEFINITION
 CONSOLE PROGRAM DEFINITION
 
 > printAbout = do
->     putStrLn "Created by Donya Quick at Yale University (donya.quick@yale.edu)" 
+>     putStrLn "Created by Donya Quick at Yale University (donya.quick@yale.edu)"
 >     putStrLn "For more information, go to http://www.donyaquick.com and click on "
 >     putStrLn "Current Research. Relevant publications can be found on the "
 >     putStrLn "Yale Haskell Group's website, http://haskell.cs.yale.edu."
@@ -225,7 +226,7 @@ CONSOLE PROGRAM DEFINITION
 >         outFile = strs !! 6
 >     automated (Info style form gram mode False True "") seed outFile inst
 
-> interactive = do 
+> interactive = do
 >     style <- getStyle
 >     form <- getForm
 >     mode <- getMode
@@ -239,7 +240,7 @@ CONSOLE PROGRAM DEFINITION
 
 > automated (Info style form gram mode lets key pfile) seed outFile inst = do
 >     putStrLn ("\nI will now write a "++ show mode ++ " "++ show style ++
->               " in "++show form++" form with random seed "++ show seed ++ 
+>               " in "++show form++" form with random seed "++ show seed ++
 >               " and a "++show gram++" grammar, and I will "++
 >               " and write it to the file '"++ outFile ++"'.\n")
 >     putStrLn "Please be patient - some styles can take a while to write!\n"
@@ -258,7 +259,7 @@ CONSOLE PROGRAM DEFINITION
 >   styleStr <- getLine
 >   let style = reads styleStr :: [(Style, String)]
 >   if null style then putStrLn ("\nSorry, I don't understand. "++
->                             "Please type the style exactly. ") >> getStyle 
+>                             "Please type the style exactly. ") >> getStyle
 >       else return (fst $ head $ style)
 
 > getForm = getOne [Phrase, AABA]
@@ -277,7 +278,7 @@ CONSOLE PROGRAM DEFINITION
 >                            "Please enter an integer (Int) value. ") >> getSeed
 >       else return (fst $ head $ seed)
 
-> getGram = getOne [HandBuilt, Learned] 
+> getGram = getOne [HandBuilt, Learned]
 >     "\nShould I use the HandBuilt or Learned grammar for harmony? "
 >     "Grammar: "
 
@@ -289,7 +290,7 @@ CONSOLE PROGRAM DEFINITION
 
 > getInstr = getYesNo "\nShould I assign MIDI instruments?\n"
 
-> getLets hb = if not hb then return False else 
+> getLets hb = if not hb then return False else
 >     getYesNo "\nShould I use Let statements?\n"
 
 > getKey = getYesNo "\nShould I pick a random key? (C is the default)\n"
@@ -303,7 +304,7 @@ CONSOLE PROGRAM DEFINITION
 >              if ansStr=="No" || ansStr=="no" then [False] else []
 >   if null ans then putStr ("\nSorry, I don't understand. "++
 >                     "Please type only 'Yes' or 'No'. ") >> getYesNo q
->       else return (head ans) 
+>       else return (head ans)
 
 > getOne :: (Show a) => [a] -> String -> String -> IO a
 > getOne opts q s = do
@@ -321,4 +322,3 @@ CONSOLE PROGRAM DEFINITION
 
 
 > stripQuotes = filter (not . (`elem` "\"'"))
-
